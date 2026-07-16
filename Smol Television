@@ -388,47 +388,48 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="Quốc Tế",CCTV1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="Trung Quốc",CCTV1
 http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="Quốc Tế",CCTV2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="Trung Quốc",CCTV2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="Quốc Tế",CCTV3
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="Trung Quốc",CCTV3
 http://198.204.228.26/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="Quốc Tế",CCTV4
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="Trung Quốc",CCTV4
 http://198.204.228.26/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="Quốc Tế",CCTV5
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="Trung Quốc",CCTV5
 http://198.204.228.26/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="Quốc Tế",CCTV6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="Trung Quốc",CCTV6
 http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="Quốc Tế",CCTV7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="Trung Quốc",CCTV7
 http://198.204.228.26/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="Quốc Tế",CCTV8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="Trung Quốc",CCTV8
 http://198.204.228.26/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="Quốc Tế",CCTV9
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="Trung Quốc",CCTV9
 http://198.204.228.26/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="Quốc Tế",CCTV10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="Trung Quốc",CCTV10
 http://198.204.228.26/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="Quốc Tế",CCTV11
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="Trung Quốc",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="Quốc Tế",CCTV12
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="Trung Quốc",CCTV12
 http://198.204.228.26/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="Quốc Tế",CCTV13
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="Trung Quốc",CCTV13
 http://198.204.228.26/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="Quốc Tế",CCTV14
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="Trung Quốc",CCTV14
 http://198.204.228.26/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="Quốc Tế",CCTV15
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="Trung Quốc",CCTV15
 http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="" group-title="Quốc Tế",CCTV16
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="" group-title="Trung Quốc",CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="Quốc Tế",CCTV17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="Trung Quốc",CCTV17
 http://198.204.228.26/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="" group-title="Quốc Tế",CCTV 4K
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="" group-title="Trung Quốc",CCTV 4K
 http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="" group-title="Quốc Tế",CCTV 8K
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Quốc Tế",CGTN English
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="" group-title="Trung Quốc",CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="" group-title="Quốc Tế",AFN Asian Food Network
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="" group-title="Quốc Tế",AFN Asian Food Network (Feed Việt Nam)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="" group-title="Quốc Tế",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -538,7 +539,13 @@ https://stream-us-east-1.getpublica.com/cl/260712d99m3e8ncnlc73enorvg/subtitles_
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="" group-title="Quốc Tế",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/EBS_1TV_Logo.png" group-title="Quốc Tế", EBS1
+#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291174178866/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=e7dd1a3469ee8cc3e9d9662aecbe14bf3cf9a66b96c4c5b12523cb834c908d6f&" group-title="Quốc Tế", EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs2" tvg-name="" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527208204348690482/EBS2.png?ex=6a59d2fa&is=6a58817a&hm=57e9a5834e2fe6600b54bb7f03bfab4c293487b80b0d7faf9364c7eaa9ea1a55&" group-title="Quốc Tế", EBS2
+#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527208204348690482/EBS2.png?ex=6a59d2fa&is=6a58817a&hm=57e9a5834e2fe6600b54bb7f03bfab4c293487b80b0d7faf9364c7eaa9ea1a55&" group-title="Quốc Tế", EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291882889309/EBSE.png?ex=6a59d4eb&is=6a58836b&hm=ca764afbb37e4c1f27c5f7f70667048cbe25c3ec3046f8a5e0a771f2189bd788&" group-title="Quốc Tế", EBSEnglish
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290532581468/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=9bda7ab99da49f294ebfdb2a08756aa50372aa054985e175b5f2cb8bf1ebf9f7&" group-title="Quốc Tế", EBS+1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Quốc Tế", EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
