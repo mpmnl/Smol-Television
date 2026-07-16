@@ -443,6 +443,8 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Quốc Tế", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="Quốc Tế",TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -504,23 +506,19 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTT" tvg-name="RTT" tvg-logo="" group-title="Quốc Tế",RT Today
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="Quốc Tế",TBS
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRUEMUSICLIVE" tvg-name="TRUEMUSICLIVE" tvg-logo="" group-title="Quốc Tế",TRUEMUSIC LIVE
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="TRAVELTV" tvg-name="TRAVELTV" tvg-logo="" group-title="Quốc Tế",TRAVELTV
+#EXTINF:-1 tvg-id="TRAVELTV" tvg-name="TRAVELTV" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527272483764305920/Travel_Channel_logo.png?ex=6a5a0ed7&is=6a58bd57&hm=1c31fd2e518b9d37414cc9e87253293b2cae164aa8fbd96ce5042c2b3a501bea&" group-title="Quốc Tế",TRAVELTV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT1" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/TRT_HD.png/revision/latest/scale-to-width-down/1000?cb=20250225033752&path-prefix=vi" group-title="Quốc Tế",TRT1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="Quốc Tế",TVN
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527271776013521016/Logo_tvN.svg.png?ex=6a5a0e2e&is=6a58bcae&hm=b6d7d4239c8a69edba0690ed0efca24402d33750e75904e8a2927343cbd22443&" group-title="Quốc Tế",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527250536544604250/TVRIWorld.webp?ex=6a59fa66&is=6a58a8e6&hm=128f44ce22aad4d392245fdc07933ee0c909280bc6210bad00eb65ef117e15fe&" group-title="Quốc Tế",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="USATODAY" tvg-name="USATODAY" tvg-logo="" group-title="Quốc Tế",USA TODAY
+#EXTINF:-1 tvg-id="USATODAY" tvg-name="USATODAY" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527271216560345129/USA-Today-logo.png?ex=6a5a0da9&is=6a58bc29&hm=e1601681d37923308869cba3600e46db285f2c94911ba989b0f59b076b00c918&" group-title="Quốc Tế",USA TODAY
 https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="VLTV" tvg-name="VLTV" tvg-logo="" group-title="Quốc Tế",Very Local TV
+#EXTINF:-1 tvg-id="VLTV" tvg-name="VLTV" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527271046531645480/VeryLocal.jpg?ex=6a5a0d80&is=6a58bc00&hm=6d4a1927bcff0af3a162ded96caa0811c3ef3d4c1e5791f9e34448f453668366&" group-title="Quốc Tế",Very Local TV
 https://stream-us-east-1.getpublica.com/cl/260712d99m3e8ncnlc73enorvg/subtitles_1_0_0_f.m3u8?i=1_14
-#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="" group-title="Quốc Tế",VOA
+#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527270302847991919/VOA_logo1.png?ex=6a5a0ccf&is=6a58bb4f&hm=5e673111e2a1bfe96e2be0b5ca6853292b7a827d6b5cde3f299fe5c2f89a6afd&" group-title="Quốc Tế",VOA
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
-#EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="" group-title="Quốc Tế",WB WarnerTV
+#EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527270842910769202/Warner2018LA.png?ex=6a5a0d50&is=6a58bbd0&hm=22c1b89260789882fafd0ee00a2d87ba240f17e10b699961643e33731928aa2a&" group-title="Quốc Tế",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
