@@ -426,13 +426,23 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4
 #EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Mỹ",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="" group-title="Quốc Tế",AFN Asian Food Network (Feed Việt Nam)
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249763135655986/AFN.png?ex=6a59f9ae&is=6a58a82e&hm=fdaed5e660cc4d270a8f9f4ac896f919560c7b7ea588bedc9a705e00c1afeebd&" group-title="Quốc Tế",AFN Asian Food Network (Feed Việt Nam)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="" group-title="Quốc Tế",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="" group-title="Quốc Tế",Arirang Korea (KR)
+#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249199559737344/Arirang.png?ex=6a59f928&is=6a58a7a8&hm=a180d595c61308a7c7b660f794eadc2ff99046b347d94a79737194fbce233b56&" group-title="Quốc Tế",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291174178866/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=e7dd1a3469ee8cc3e9d9662aecbe14bf3cf9a66b96c4c5b12523cb834c908d6f&" group-title="Quốc Tế", EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527208204348690482/EBS2.png?ex=6a59d2fa&is=6a58817a&hm=57e9a5834e2fe6600b54bb7f03bfab4c293487b80b0d7faf9364c7eaa9ea1a55&" group-title="Quốc Tế", EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291882889309/EBSE.png?ex=6a59d4eb&is=6a58836b&hm=ca764afbb37e4c1f27c5f7f70667048cbe25c3ec3046f8a5e0a771f2189bd788&" group-title="Quốc Tế", EBSEnglish
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290532581468/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=9bda7ab99da49f294ebfdb2a08756aa50372aa054985e175b5f2cb8bf1ebf9f7&" group-title="Quốc Tế", EBS+1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Quốc Tế", EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -504,7 +514,7 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="Quốc Tế",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="" group-title="Quốc Tế",TVRI World
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527250536544604250/TVRIWorld.webp?ex=6a59fa66&is=6a58a8e6&hm=128f44ce22aad4d392245fdc07933ee0c909280bc6210bad00eb65ef117e15fe&" group-title="Quốc Tế",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="USATODAY" tvg-name="USATODAY" tvg-logo="" group-title="Quốc Tế",USA TODAY
 https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
@@ -514,13 +524,3 @@ https://stream-us-east-1.getpublica.com/cl/260712d99m3e8ncnlc73enorvg/subtitles_
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="" group-title="Quốc Tế",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291174178866/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=e7dd1a3469ee8cc3e9d9662aecbe14bf3cf9a66b96c4c5b12523cb834c908d6f&" group-title="Quốc Tế", EBS1
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527208204348690482/EBS2.png?ex=6a59d2fa&is=6a58817a&hm=57e9a5834e2fe6600b54bb7f03bfab4c293487b80b0d7faf9364c7eaa9ea1a55&" group-title="Quốc Tế", EBS2
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291882889309/EBSE.png?ex=6a59d4eb&is=6a58836b&hm=ca764afbb37e4c1f27c5f7f70667048cbe25c3ec3046f8a5e0a771f2189bd788&" group-title="Quốc Tế", EBSEnglish
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290532581468/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=9bda7ab99da49f294ebfdb2a08756aa50372aa054985e175b5f2cb8bf1ebf9f7&" group-title="Quốc Tế", EBS+1
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Quốc Tế", EBS+2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
