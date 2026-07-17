@@ -364,69 +364,66 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929886765076/Logo_THVL_V2C2MHz_2023.webp?ex=6a5b1407&is=6a59c287&hm=fc8a0a28b561dd6b345481c40bf42e310630161e3d17dc59482b2bf406de58fb&" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="Trung Quốc",CCTV1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456104452146/CCTV-1_Logo.png?ex=6a5b192c&is=6a59c7ac&hm=09952129fb442340b8370435cd64459d888078760c21616ebc17f0ba56dec335&" group-title="Trung Quốc",CCTV1
 http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="Trung Quốc",CCTV2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558454913269861/1920px-CCTV-2_Logo.svg.png?ex=6a5b192c&is=6a59c7ac&hm=01f50281388c03ae14c37f06071851b596df0e17b8ac27ef64f48d5627fe52d4&" group-title="Trung Quốc",CCTV2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="Trung Quốc",CCTV3
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558549746487417/df1t997-d768fbae-1ca5-4115-975c-28f8888d5ce0.png?ex=6a5b1942&is=6a59c7c2&hm=ff74b6ed9a2f7d3f562a86f965b7d5ed04a439e7547c331655116735ff66060d&" group-title="Trung Quốc",CCTV3
 http://198.204.228.26/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="Trung Quốc",CCTV4
 http://198.204.228.26/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="Trung Quốc",CCTV5
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558457908007032/df1t98y-922bf926-8143-475a-966a-be6027154b70.png?ex=6a5b192d&is=6a59c7ad&hm=f8a1f8e41cdaab19208f4e1149b18d4d3a06f26b8fde8e9031d9d243ac7f4fde&" group-title="Trung Quốc",CCTV5
 http://198.204.228.26/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="Trung Quốc",CCTV6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558455270051860/cctv_6_logo_by_zacktastic2006_df1t98u-fullview.png?ex=6a5b192c&is=6a59c7ac&hm=1193e3b0ed9cd4dba85531242277bf9c605845d2fa899a1c5716220ef86c258b&" group-title="Trung Quốc",CCTV6
 http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="Trung Quốc",CCTV7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558457438503072/dew5udx-4d3bf168-fe89-4503-9dbc-91445bfd622f.png?ex=6a5b192c&is=6a59c7ac&hm=b7f712d9390e3fe976e3f2e54a4b302e51f352bcd881c4dbb05de5cee8533003&" group-title="Trung Quốc",CCTV7
 http://198.204.228.26/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="Trung Quốc",CCTV8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550488875078/images_1_1.png?ex=6a5b1943&is=6a59c7c3&hm=b16f3ac667c559d8dbe6350b65d48e97eea52fcd463d395c809e5785a6aff050&" group-title="Trung Quốc",CCTV8
 http://198.204.228.26/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="Trung Quốc",CCTV9
 http://198.204.228.26/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="Trung Quốc",CCTV10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550828744714/images_2.png?ex=6a5b1943&is=6a59c7c3&hm=150d7b2800e481490fc34e80884afa7105576e8df48791dcc094fbf24b8c7675&" group-title="Trung Quốc",CCTV10
 http://198.204.228.26/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="Trung Quốc",CCTV11
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456708436120/deruj5l-a3960cf8-5aa2-450f-b5ae-3b53ef6cd913.png?ex=6a5b192c&is=6a59c7ac&hm=57f9de5b3c15a3d0f7689ca995224dd7a76756cdd709daa517c012c03a790334&" group-title="Trung Quốc",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="Trung Quốc",CCTV12
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558549469659206/df1t986-70e88725-af1c-46aa-b7f1-6404ead0aadc.png?ex=6a5b1942&is=6a59c7c2&hm=3077a0cddaab865b6cc43e4a654af0069bd0281fc08cdd885cb95d5c91d8d6a2&" group-title="Trung Quốc",CCTV12
 http://198.204.228.26/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="Trung Quốc",CCTV13
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558458197676043/df1t984-336fe5af-b456-4027-821a-debb85a10f53.png?ex=6a5b192d&is=6a59c7ad&hm=31c8018505a50c06a9acc6b033af14000a75eaa2aa5df93168a951947e57f2ab&" group-title="Trung Quốc",CCTV13
 http://198.204.228.26/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="Trung Quốc",CCTV14
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558457102827582/deruj5u-ef5dd81d-7553-40e1-8540-90941516d771.png?ex=6a5b192c&is=6a59c7ac&hm=8ac4ccf972431c4a76adf15fc7f205c374627faca61ed2d0f3c99c48f5716a05&" group-title="Trung Quốc",CCTV14
 http://198.204.228.26/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="Trung Quốc",CCTV15
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550006665256/df1zboh-9641ef1e-944b-49ad-b319-6df147bd4206.png?ex=6a5b1942&is=6a59c7c2&hm=71ffec56959e6479eb58edfb2d2490f0f356b6c26fdc0340f0a35439877c786b&" group-title="Trung Quốc",CCTV15
 http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="" group-title="Trung Quốc",CCTV16
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558551130603591/images_3.png?ex=6a5b1943&is=6a59c7c3&hm=a615aa0b2b87253b64f2d6d58ecb341c775ea878301b17243b5b4515a7e6f2a9&" group-title="Trung Quốc",CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="Trung Quốc",CCTV17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456394121307/CCTV-17.png?ex=6a5b192c&is=6a59c7ac&hm=c249f99dfb43ea2bca7bf37b22f2e21c1c96f16f6c0379045f174aa7da164ed7&" group-title="Trung Quốc",CCTV17
 http://198.204.228.26/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="" group-title="Trung Quốc",CCTV 4K
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560118940598334/CCTV-4k.png?ex=6a5b1ab9&is=6a59c939&hm=eeb6603ffdc5f0a42804df485fc63f0782657e46fea7c70d7a0cbbc7e83c6c14&" group-title="Trung Quốc",CCTV 4K
 http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="" group-title="Trung Quốc",CCTV 8K
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527559960978915328/images_2.png?ex=6a5b1a93&is=6a59c913&hm=6e9425675e12db9c18b865db9eb855f777b62295164ac7a12050ecab70387d9e&" group-title="Trung Quốc",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Trung Quốc",CGTN English
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560319688380577/images_3.png?ex=6a5b1ae8&is=6a59c968&hm=4d249458984a611b076205bbd5852f2d42d066cd78fe72bf1d356cda894de0c3&" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="" group-title="Mỹ",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562761947582524/images_2.png?ex=6a5b1d2f&is=6a59cbaf&hm=fd682abd67876236e7ccf0ac63aaa63e3c4ae6652c94fe96e6d711d8b834771b&" group-title="Mỹ",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="" group-title="Mỹ",ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562760651804762/images_1_1.png?ex=6a5b1d2e&is=6a59cbae&hm=d638ad16739ea3c8bf3ae98dbbd6a86ee478121c1f1379cd8e9bb3a6be736ec0&" group-title="Mỹ",AL JAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="" group-title="Mỹ",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562763122249738/New_Bloomberg_Logo.svg.png?ex=6a5b1d2f&is=6a59cbaf&hm=700f43aba579b31f7cb48cffb760fb3184316e4019aebd0c33ced450de167a47&" group-title="Mỹ",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" tvg-logo="" group-title="Mỹ",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562756339925013/Cartoon_Network_logo.png?ex=6a5b1d2d&is=6a59cbad&hm=eff92c271fcc0c8f33e30f94d014f3f186e77f35086fe11616dc9014888d8a24&" group-title="Mỹ",Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="Mỹ",CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562757400952832/CNA_new_logo.svg.webp?ex=6a5b1d2e&is=6a59cbae&hm=56f4eb8127400a74ad4518c8cd5c1388dbd07ed7b12aea2376d99c3dc5c067dc&" group-title="Mỹ",CNA
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="Mỹ",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562758579683338/CNBC_2025.svg.png?ex=6a5b1d2e&is=6a59cbae&hm=0c9e02122c737084a8a4d54bc82252a8f3e75f62ff99fbf5ac8a8f2b1720250e&" group-title="Mỹ",CNBC
 https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="Mỹ",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562758579683338/CNBC_2025.svg.png?ex=6a5b1d2e&is=6a59cbae&hm=0c9e02122c737084a8a4d54bc82252a8f3e75f62ff99fbf5ac8a8f2b1720250e&" group-title="Mỹ",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="" group-title="Mỹ",Cinema World TV
-https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV-avc1_2000000=14-mp4a_256000=13.m3u8
-#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="" group-title="Mỹ",Discovery Channel
+#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562755526365319/2019_Discovery_logo.png?ex=6a5b1d2d&is=6a59cbad&hm=15e248700b15e86aa46007947ede2a7ccc2bb5abcf741ca4d1fed13cf33c090a&" group-title="Mỹ",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249763135655986/AFN.png?ex=6a59f9ae&is=6a58a82e&hm=fdaed5e660cc4d270a8f9f4ac896f919560c7b7ea588bedc9a705e00c1afeebd&" group-title="Quốc Tế",AFN Asian Food Network (Feed Việt Nam)
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="" group-title="Quốc Tế",Da Vinci
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://cdn.dhttps://cdn.discordapp.com/attachments/1522498421393588326/1527562760651804762/images_1_1.png?ex=6a5b1d2e&is=6a59cbae&hm=d638ad16739ea3c8bf3ae98dbbd6a86ee478121c1f1379cd8e9bb3a6be736ec0&klist_b5000000.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527561120792182784/da-vinci-logo-png_seeklogo-447386.png?ex=6a5b1ba7&is=6a59ca27&hm=82486530128a13d288fb2af494ec975489bd9c4a02cde900ff178984da3c3fc3&" group-title="Quốc Tế",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249199559737344/Arirang.png?ex=6a59f928&is=6a58a7a8&hm=a180d595c61308a7c7b660f794eadc2ff99046b347d94a79737194fbce233b56&" group-title="Quốc Tế",Arirang Korea
@@ -441,7 +438,7 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Quốc Tế", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="Quốc Tế",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560829128544347/Logo_TBS.svg.png?ex=6a5b1b62&is=6a59c9e2&hm=086ae99bfc4c5abba981e00b6c499f426984624651f7e4bd080330b10a9ed848&" group-title="Quốc Tế",TBS
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="" group-title="Quốc Tế",BBC News
