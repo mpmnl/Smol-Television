@@ -490,8 +490,5 @@ https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527653360549892106/Planet_Earth.webp?ex=6a5b718f&is=6a5a200f&hm=3287a76595b252a51a1c40e42aa7639f92ce220b4ec6bda7283a1de36f1bd578&" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527653361212592178/RTHK_TV_31.webp?ex=6a5b718f&is=6a5a200f&hm=1f6b1ef4a944b87dd9b30293cc06026ee81eac088d3ef3161e7dfc67dab71812&" group-title="Hongkong",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-
 #EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651751866667139/NHK_World.svg.webp?ex=6a5b7010&is=6a5a1e90&hm=beda193f216ae9de3f0d0cb0cbbb9dbeeb54835d39ff99ff3253545cc33b19e4&" group-title="Nhật",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
