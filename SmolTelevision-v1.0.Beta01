@@ -311,9 +311,9 @@ https://vpsttt.vietanhtv.top/vieon/vieon.php?id=fm90-tin-tuc-giao-thong-ha-noi
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=fm96-thoi-su-ha-noi
 #EXTINF:-1 tvg-id="camauradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527528828514078902/Radio_logo.webp?ex=6a5afd94&is=6a59ac14&hm=33a395d2b17fbe54217c5e4d0e90e080f59fbfd710272e2e2a4fe8de630cd339&" group-title="FM Radio",Cà Mau Radio
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165346177125/images_2.jpg?ex=6a5afde5&is=6a59ac65&hm=cd8458cc5c9396e8a4d91a202688aef64a0e08a56e3f924a38edf302d4742e09&" group-title="FM Radio",Cần Thơ 97,3 mhz
+#EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165346177125/images_2.jpg?ex=6a5afde5&is=6a59ac65&hm=cd8458cc5c9396e8a4d91a202688aef64a0e08a56e3f924a38edf302d4742e09&" group-title="FM Radio",Cần Thơ 97.3 mhz
 https://tv.canthotv.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="canthoradio2" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165077876807/C3F_FM_89.6_MHz.webp?ex=6a5afde5&is=6a59ac65&hm=a18c90ea05885ebf31a5d5ee631c4caec6db7b1c41af045ab68054c4d5822007&" group-title="FM Radio",Cần Thơ 89,6 mhz
+#EXTINF:-1 tvg-id="canthoradio2" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165077876807/C3F_FM_89.6_MHz.webp?ex=6a5afde5&is=6a59ac65&hm=a18c90ea05885ebf31a5d5ee631c4caec6db7b1c41af045ab68054c4d5822007&" group-title="FM Radio",Cần Thơ 89.6 mhz
 https://live.canthotv.vn/live/radiocs2/chunklist.m3u8
 #EXTINF:-1 tvg-id="dienbienradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Điện BIên 98 mhz
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
