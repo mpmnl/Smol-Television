@@ -29,13 +29,13 @@ https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-name="qpvn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png" group-title="Thiết Yếu",VietNam Today
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527521722033508372/Vietnam_Today_Logo.png?ex=6a5af6f6&is=6a59a576&hm=88bfabc480b00d9186237c406fb37a29ed2bfd4c01634270b48cbac42a847c25&" group-title="Thiết Yếu",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Thiết Yếu",HITV
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://lh3.googleusercontent.com/proxy/cQznJjFJSuQa_Tg6TgreIHOvs01_5JNYZGyXQ_NdhdQidrG5cK2bpkiznLtXXdfe7eaYQGZFnjI85I8LTRc" group-title="Thiết Yếu",YOUTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
-#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png" group-title="Thiết Yếu",TVB Việt Nam
+#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522256505409638/784px-Tvb_logo.svg.png?ex=6a5af775&is=6a59a5f5&hm=25fce0c06bccfc4dbe5b6e922f95c09e3a3cb757a3b9a7f3aec4ce9fe7297bbb&" group-title="Thiết Yếu",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-name="on vie giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20240817111510&path-prefix=vi" group-title="VTVCab",ON Vie Giải Trí
@@ -148,9 +148,9 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/HTVC_Gia_%C4%91%C3%ACnh_2018.png/revision/latest?cb=20241219124842&path-prefix=vi" group-title="HTVC",HTVC Gia Đình
 https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522590900490424/HTVC_PHUNU.png?ex=6a5af7c5&is=6a59a645&hm=e1aecbf929e372637deefc24bd8c9066b848bf4672c0db4ff74b2886ecae2859&" group-title="HTVC",HTVC Phụ Nữ
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="HTVC",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522820354084906/HTVC_thuanviet.png?ex=6a5af7fc&is=6a59a67c&hm=bafb443ca8aaba3861c00f14fbbeca6dc08a2d8fcd930de5d9e3850021bbafb4&" group-title="HTVC",HTVC Thuần Việt
 https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim" tvg-logo="https://htvc.vn/uploads/channel/2024/03/08/3409130-091-htvc-phim.png" group-title="HTVC",HTVC Phim
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
@@ -178,8 +178,6 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" tvg-name="ATV3 An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/ATV3_logo_07-2025.png/revision/latest/scale-to-width-down/1000?cb=20251018044550&path-prefix=vi" group-title="Địa Phương",ATV3 An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bacninh" tvg-name="BGTV Bắc Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/BG.TV_HD_Bac_Giang_logo_2023_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20230331093254&path-prefix=vi" group-title="Địa Phương Cũ",BGTV Bắc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20251214065005&path-prefix=vi" group-title="Địa Phương",BTV Bắc Ninh
 https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" tvg-name="CTV Cà Mau" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/CTV_C%C3%A0_Mau.png/revision/latest/scale-to-width-down/1200?cb=20211209002856&path-prefix=vi" group-title="Địa Phương",CTV Cà Mau
@@ -222,11 +220,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=34
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="haiphong3" tvg-name="THD Hải Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/HDTV_2023-2025.png/revision/latest/scale-to-width-down/1000?cb=20230925025249&path-prefix=vi" group-title="Địa Phương Cũ",THD Hải Dương
 https://123.31.36.68/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
-#EXTINF:-1 tvg-id="haiphong" tvg-name="THP Hải Phòng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/500px-THP_logo.svg.png" group-title="Địa Phương",THP Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" tvg-name="THP Hải Phòng" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527523854405337108/THP-Logo.png?ex=6a5af8f2&is=6a59a772&hm=87b5788cee6e4ca74b910e7875b64aa10623a352999c962f8f5465ef0a38bbc7&" group-title="Địa Phương",THP Hải Phòng
 https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong3" tvg-name="THP3 Hải Phòng" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest/scale-to-width-down/1000?cb=20260101113817&path-prefix=vi" group-title="Địa Phương",THP3 Hải Phòng
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-id="hue" tvg-name="HuếTV Huế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png" group-title="Địa Phương",HuếTV Huế
+#EXTINF:-1 tvg-id="hue" tvg-name="HuếTV Huế" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524083950944336/LogoHueTV_2025.png?ex=6a5af929&is=6a59a7a9&hm=db97e0fd4afe4ac541acb3e0389ee7639865bc0ccaa7c612c8c8ecd2625828c3&" group-title="Địa Phương",HuếTV Huế
 https://freem3u.xyz/api/live/play.m3u8?vid=63
 #EXTINF:-1 tvg-id="hungyen" tvg-name="HYTV Hưng Yên" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HY_logo_2020.png/revision/latest/scale-to-width-down/985?cb=20221103132355&path-prefix=vi" group-title="Địa Phương",HYTV Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
@@ -279,43 +277,43 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest?cb=20220731123650&path-prefix=vi" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
-#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV1
+#EXTINF:-1 tvg-id="vov1" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524825382387743/VOV1_logo_2020.webp?ex=6a5af9da&is=6a59a85a&hm=1744e704b3b83d0a46118e86390645db1f7282aa9f00c7ec1f89ad344f8002bc&" group-title="FM Radio",VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
-#EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV2
+#EXTINF:-1 tvg-id="vov2" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524825709412533/VOV2_logo_2025.webp?ex=6a5af9da&is=6a59a85a&hm=d4256201e56f31994a84338e6388758e4f270b133c4411775d5c9d2bdad0bcda&" group-title="FM Radio",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
-#EXTINF:-1 tvg-id="vov3" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV3
+#EXTINF:-1 tvg-id="vov3" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524826263326740/VOV3_logo_2025.webp?ex=6a5af9da&is=6a59a85a&hm=5fc168a0e9d476bd9ada8cea3504f2da23ddc9678c643a1acbe2312ccad74bbc&" group-title="FM Radio",VOV3
 https://audio-lss.vov.vn/live/vov3.m3u8
-#EXTINF:-1 tvg-id="vov4" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV4
+#EXTINF:-1 tvg-id="vov4" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524827211239440/Logo_VOV4_T3Fn.webp?ex=6a5af9da&is=6a59a85a&hm=2dcc81d325754e006e8c97065707b65fb9d097c81c28229895a849bc1b57d6cb&" group-title="FM Radio",VOV4
 https://audio-lss.vov.vn/live/vov4.m3u8
-#EXTINF:-1 tvg-id="vov5" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV5
+#EXTINF:-1 tvg-id="vov5" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524826611187804/VOV5_Vietnamese.webp?ex=6a5af9da&is=6a59a85a&hm=aa151f8798104312f1cc652d282425e8bedb07bf8e67efb7069dd3f4679d9d91&" group-title="FM Radio",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
-#EXTINF:-1 tvg-id="vov6" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV6
+#EXTINF:-1 tvg-id="vov6" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527524826917503016/VOV6_logo_2020.webp?ex=6a5af9da&is=6a59a85a&hm=389361c77305f9ea589c9b46daa5dc66d89f6a7aad8d87bd47f5ac6056d2f499&" group-title="FM Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
-#EXTINF:-1 tvg-id="vovgthn" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527525697269010462/VOV_GT_Hanoi.webp?ex=6a5afaaa&is=6a59a92a&hm=626cb8bb8678b78ff559e476af423967f0ab8e73b5b6b4fb0a45caae7f6173c8&" group-title="FM Radio",VOV Giao Thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
+#EXTINF:-1 tvg-id="vovgthcm" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527525697604812830/VOV_GT_Ho_Chi_Minh.webp?ex=6a5afaaa&is=6a59a92a&hm=579e236e2fe5c06de4f76143dd656228782070fb9454894c5a353757f4f860f4&" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgt" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOV Giao Thông
+#EXTINF:-1 tvg-id="vovgt" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527525696979599400/onestop_120084806.png?ex=6a5afaaa&is=6a59a92a&hm=28cc49af43a9febd7a02cad7490c85d2fe6b1fca86b544ccfb238541b5fa29ee&" group-title="FM Radio",VOV Giao Thông
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
-#EXTINF:-1 tvg-id="voh999" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 99,9 mhz
+#EXTINF:-1 tvg-id="voh999" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527388651716748/images_4.jpg?ex=6a5afc3d&is=6a59aabd&hm=09920c5da550e96ecadbb2e54b8f23d9ee67e22a7910f5ebe17436a4e2f7f081&" group-title="FM Radio",VOH 99.9 mhz
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=voh-fm-99-9-mhz
-#EXTINF:-1 tvg-id="voh956" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 95,5 mhz
+#EXTINF:-1 tvg-id="voh956" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527387414401104/images_2.jpg?ex=6a5afc3d&is=6a59aabd&hm=b94b7a40e0d14261507f42282baf3bb565d415ff9a2fd0bf7556e4d94b38a12a&" group-title="FM Radio",VOH 95.6 mhz
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=voh-fm-95-6-mhz
-#EXTINF:-1 tvg-id="voh610" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 610 khz
+#EXTINF:-1 tvg-id="voh610" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527386894303303/2b2NJLFLeu.png?ex=6a5afc3d&is=6a59aabd&hm=97d8ecf9dda8acea08c72ac402fe191e4f23511f668f12a4a90971bec4279cca&" group-title="FM Radio",VOH 610 khz
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=voh-am-610-mhz
-#EXTINF:-1 tvg-id="voh877" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 87,7 mhz
+#EXTINF:-1 tvg-id="voh877" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527388303327252/images_3.jpg?ex=6a5afc3d&is=6a59aabd&hm=165a025bee0a5b83705358dc2f99d1bc378d7f64bb81db59fdaa53073a33e097&" group-title="FM Radio",VOH 87.7 mhz
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=voh-fm-87-7-mhz
-#EXTINF:-1 tvg-id="voh925" tvg-name="fm" tvg-logo="" group-title="FM Radio",VOH 92,5 mhz
+#EXTINF:-1 tvg-id="voh925" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527387804336138/images_2.png?ex=6a5afc3d&is=6a59aabd&hm=a08afca16ebe77defd3e93555667c0a8aff74cfaf69167f9182c42efa173e07e&" group-title="FM Radio",VOH 92-92.5 mhz
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vohm-fm-92-92-5-mhz
-#EXTINF:-1 tvg-id="hanoi90" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM90 Tin tức Giao Thông Hà Nội
+#EXTINF:-1 tvg-id="hanoi90" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527931956564049/Logo_FM90_K3Fc_v3Fng_H3Fi.webp?ex=6a5afcbf&is=6a59ab3f&hm=74335b1357c4a2b0154d5c653eac835ed73cfdfbaf7139c40bd230b17fb92a4b&" group-title="FM Radio",FM90 Tin tức Giao Thông Hà Nội
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=fm90-tin-tuc-giao-thong-ha-noi
-#EXTINF:-1 tvg-id="hanoi96" tvg-name="fm" tvg-logo="" group-title="FM Radio",FM96 Thời Sự Hà Nội
+#EXTINF:-1 tvg-id="hanoi96" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527527932254355516/Logo_FM96_K3Fi_S3F_N3Fi.webp?ex=6a5afcbf&is=6a59ab3f&hm=05b0cd35c80150d10428c1f463de1964326d2f43e650e48f3a3670f5a26528ea&" group-title="FM Radio",FM96 Thời Sự Hà Nội
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=fm96-thoi-su-ha-noi
-#EXTINF:-1 tvg-id="camauradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cà Mau
+#EXTINF:-1 tvg-id="camauradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527528828514078902/Radio_logo.webp?ex=6a5afd94&is=6a59ac14&hm=33a395d2b17fbe54217c5e4d0e90e080f59fbfd710272e2e2a4fe8de630cd339&" group-title="FM Radio",Cà Mau Radio
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cần Thơ 97,3 mhz
+#EXTINF:-1 tvg-id="canthoradio1" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165346177125/images_2.jpg?ex=6a5afde5&is=6a59ac65&hm=cd8458cc5c9396e8a4d91a202688aef64a0e08a56e3f924a38edf302d4742e09&" group-title="FM Radio",Cần Thơ 97,3 mhz
 https://tv.canthotv.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="canthoradio2" tvg-name="fm" tvg-logo="" group-title="FM Radio",Cần Thơ 89,6 mhz
+#EXTINF:-1 tvg-id="canthoradio2" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165077876807/C3F_FM_89.6_MHz.webp?ex=6a5afde5&is=6a59ac65&hm=a18c90ea05885ebf31a5d5ee631c4caec6db7b1c41af045ab68054c4d5822007&" group-title="FM Radio",Cần Thơ 89,6 mhz
 https://live.canthotv.vn/live/radiocs2/chunklist.m3u8
 #EXTINF:-1 tvg-id="dienbienradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Điện BIên 98 mhz
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
