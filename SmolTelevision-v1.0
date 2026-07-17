@@ -364,6 +364,9 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929886765076/Logo_THVL_V2C2MHz_2023.webp?ex=6a5b1407&is=6a59c287&hm=fc8a0a28b561dd6b345481c40bf42e310630161e3d17dc59482b2bf406de58fb&" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
+#EXTINF:-1 tvg-id="kctv" tvg-name="kctv" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Triều Tiên",Đài truyền hình Trung Ương Triều Tiên
+https://kctv.koryofront.org/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456104452146/CCTV-1_Logo.png?ex=6a5b192c&is=6a59c7ac&hm=09952129fb442340b8370435cd64459d888078760c21616ebc17f0ba56dec335&" group-title="Trung Quốc",CCTV1
 http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558454913269861/1920px-CCTV-2_Logo.svg.png?ex=6a5b192c&is=6a59c7ac&hm=01f50281388c03ae14c37f06071851b596df0e17b8ac27ef64f48d5627fe52d4&" group-title="Trung Quốc",CCTV2
@@ -492,3 +495,22 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651751866667139/NHK_World.svg.webp?ex=6a5b7010&is=6a5a1e90&hm=beda193f216ae9de3f0d0cb0cbbb9dbeeb54835d39ff99ff3253545cc33b19e4&" group-title="Nhật",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="joax" tvg-name="joax" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Nhật",Nippon TV JOAX
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="jocx" tvg-name="jocx" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Nhật",Fuji TV JOCX
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="jorx" tvg-name="jorx" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Nhật",TBS JORX
+https://tbs5.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="ch3thai" tvg-name="ch3thai" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thái",CH3 Thailand
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="ch7thai" tvg-name="ch7thai" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="Thái",CH7 Thailand
+https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="ch8thai" tvg-name="ch8thai" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Thái",CH8 Thailand
+https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5thai" tvg-name="tv5thai" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thái",TV5 Thailand
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="thaipbs" tvg-name="thaipbs" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="Thái",Thai PBS
+https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:-1 tvg-id="channel8thai" tvg-name="channel8thai" tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw" group-title="Thái",Channel 8 Thai
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
