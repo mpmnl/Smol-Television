@@ -315,7 +315,7 @@ https://tv.ctvcamau.vn/live/radio/radio.m3u8
 https://tv.canthotv.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio2" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527529165077876807/C3F_FM_89.6_MHz.webp?ex=6a5afde5&is=6a59ac65&hm=a18c90ea05885ebf31a5d5ee631c4caec6db7b1c41af045ab68054c4d5822007&" group-title="FM Radio",Cần Thơ 89.6 mhz
 https://live.canthotv.vn/live/radiocs2/chunklist.m3u8
-#EXTINF:-1 tvg-id="dienbienradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Điện BIên 98 mhz
+#EXTINF:-1 tvg-id="dienbienradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527531693307855029/Logo_3Fi.webp?ex=6a5b003f&is=6a59aebf&hm=970d4c7c56f7ce25e9a2f204fe64d55759eab9327156de21ea836f352e9188b4&" group-title="FM Radio",Điện Biên 98 mhz
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklakradio" tvg-name="fm" tvg-logo="" group-title="FM Radio",Đắk Lắk
 https://live.mediatech.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
