@@ -430,7 +430,7 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527270842910769202/Warner2018LA.png?ex=6a5a0d50&is=6a58bbd0&hm=22c1b89260789882fafd0ee00a2d87ba240f17e10b699961643e33731928aa2a&" group-title="Mỹ",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249570784870400/AFN.webp?ex=6a5b4b00&is=6a59f980&hm=1f0d323124a3729f5a4bf7cd136c85b5a332c0f5c9c8ce35141b7d96d81e1f46&" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249763135655986/AFN.png?ex=6a5b4b2e&is=6a59f9ae&hm=b6b9337e2c4eaf838f297036b6a955fb7283b5f9d08541018e247a80b3f17d34&" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527561120792182784/da-vinci-logo-png_seeklogo-447386.png?ex=6a5b1ba7&is=6a59ca27&hm=82486530128a13d288fb2af494ec975489bd9c4a02cde900ff178984da3c3fc3&" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
