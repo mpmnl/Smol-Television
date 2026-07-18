@@ -513,6 +513,12 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Hàn Quốc",TVChosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"Hàn Quốc", NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"Hàn Quốc", OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"Hàn Quốc", NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527610874309775452/BBC_News_2022_Alt.svg.webp?ex=6a5b49fe&is=6a59f87e&hm=33452618f7e1b683ce5b7f17654cda93e471fb50fbec192e2d3f3cb34f07a5a1&" group-title="Anh",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -584,3 +590,6 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="dltv15" tvg-name="dltv15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Thái",DLTV15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar" MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
