@@ -469,8 +469,20 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="ktv" tvg-name="ktv" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651750822023269/KTV_logo.svg.webp?ex=6a5b700f&is=6a5a1e8f&hm=5737c3d543d4875614e76a7586f0b305febb72e4dbfd06222fb19e2c5540d408&" group-title="Hàn Quốc",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbc" tvg-name="mbc" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527610212406788158/MBC.svg.webp?ex=6a5b4960&is=6a59f7e0&hm=a912f931c1602cb889dd60885e410318e1479840e05b577e3c569f3f2889bbe8&" group-title="Hàn Quốc",MBC Daejeon
+#EXTINF:-1 tvg-id="mbcdj" tvg-name="mbcdj" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Hàn Quốc",MBC Daejeon HLAN
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="mbch" tvg-name="mbcch" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Hàn Quốc",MBC Chuncheon HLCQ
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcje" tvg-name="mbcje" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="Hàn Quốc",MBC Jeju HLAJ
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcmp" tvg-name="mbcmp" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="Hàn Quốc",MBC Mokpo HLAM
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mbccb" tvg-name="mbccb" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="Hàn Quốc",MBC Chungbuk HLAO
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcky" tvg-name="mbcky" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="Hàn Quốc",MBC Kangwon-Youngdong HLAQ
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcys" tvg-name="mbcys" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="Hàn Quốc",MBC Yeosu HLAT
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nbs" tvg-name="nbs" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651753036742756/567J6yH4yJpXqOA4OrTfadGpzt8-37lxRM-URKX0p_GOOkaFaed6SxutHSr383bzO8PBs5XxuEmkfhunwTJDYw.png?ex=6a5b7010&is=6a5a1e90&hm=dda069a800d11254dcdca53d527f96d400280728b119e69b5a2953bc65f949e7&" group-title="Hàn Quốc",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="jtv" tvg-name="jtv" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527612406212067408/images_3.png?ex=6a5b4b6b&is=6a59f9eb&hm=a821a86fe10c546871c937277bc47e78fb6e4af7cbf63f35de6ddc818d3c711a&" group-title="Hàn Quốc",JTV Jeonju Television
