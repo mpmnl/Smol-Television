@@ -363,8 +363,10 @@ https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929886765076/Logo_THVL_V2C2MHz_2023.webp?ex=6a5b1407&is=6a59c287&hm=fc8a0a28b561dd6b345481c40bf42e310630161e3d17dc59482b2bf406de58fb&" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
+#EXTINF:-1 tvg-id="ArirangRadio" tvg-name="fm" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="FM Radio",Arirang Radio
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kctv" tvg-name="kctv" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Triều Tiên",Đài truyền hình Trung Ương Triều Tiên
+#EXTINF:-1 tvg-id="kctv" tvg-name="kctv" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Triều Tiên",Đài truyền hình TW Triều Tiên
 https://kctv.koryofront.org/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456104452146/CCTV-1_Logo.png?ex=6a5b192c&is=6a59c7ac&hm=09952129fb442340b8370435cd64459d888078760c21616ebc17f0ba56dec335&" group-title="Trung Quốc",CCTV1
@@ -491,6 +493,26 @@ http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527271776013521016/Logo_tvN.svg.png?ex=6a5a0e2e&is=6a58bcae&hm=b6d7d4239c8a69edba0690ed0efca24402d33750e75904e8a2927343cbd22443&" group-title="Hàn Quốc",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Hàn Quốc",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="G1Kr" tvg-name="G1Kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1 HLCG
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBCKr" tvg-name="KBCKr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="Hàn Quốc",KBC HLDH
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CJBKr" tvg-name="CJBKr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Hàn Quốc",CJB HLDR
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JIBS" tvg-name="JIBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="Hàn Quốc",JIBS HLKJ
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="KCTVKr" tvg-name="KCTVKr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Hàn Quốc",KCTV Korea
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV"" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Hàn Quốc",GukakTV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangUN" tvg-name="ArirangUn" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Hàn Quốc",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GukbangTV" tvg-name="GukbangTV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Hàn Quốc",Gukbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Hàn Quốc",TVChosun 2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527610874309775452/BBC_News_2022_Alt.svg.webp?ex=6a5b49fe&is=6a59f87e&hm=33452618f7e1b683ce5b7f17654cda93e471fb50fbec192e2d3f3cb34f07a5a1&" group-title="Anh",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
