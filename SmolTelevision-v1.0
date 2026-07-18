@@ -409,7 +409,7 @@ http://198.204.228.26/live/cctv4k.m3u8
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560319688380577/images_3.png?ex=6a5b1ae8&is=6a59c968&hm=4d249458984a611b076205bbd5852f2d42d066cd78fe72bf1d356cda894de0c3&" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="BaichengTV tvg-name="BaichengTV" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="Trung Quốc",Baicheng TV (Bạch Thành)
+#EXTINF:-1 tvg-id="BaichengTV tvg-name="BaichengTV" tvg-logo="https://imgur.com/a/kJf45os" group-title="Trung Quốc",Baicheng TV (Bạch Thành)
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562761947582524/images_2.png?ex=6a5b1d2f&is=6a59cbaf&hm=fd682abd67876236e7ccf0ac63aaa63e3c4ae6652c94fe96e6d711d8b834771b&" group-title="Mỹ",Animal Planet
