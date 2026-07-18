@@ -24,19 +24,15 @@ https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527247079229882418/VTV10.png?ex=6a5bf16e&is=6a5a9fee&hm=57e1a179c3745e8fa83ed1b0611ca5924e0a0545e140610a9aff6a4167e55ba0&" group-title="VTV",VTV10
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527521722033508372/Vietnam_Today_Logo.png?ex=6a5af6f6&is=6a59a576&hm=88bfabc480b00d9186237c406fb37a29ed2bfd4c01634270b48cbac42a847c25&" group-title="VTV",VietNam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" group-title="Thiết Yếu",ANTV An Ninh CAND
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-name="qpvn" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi" group-title="Thiết Yếu",QPVN Quốc Phòng
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527521722033508372/Vietnam_Today_Logo.png?ex=6a5af6f6&is=6a59a576&hm=88bfabc480b00d9186237c406fb37a29ed2bfd4c01634270b48cbac42a847c25&" group-title="Thiết Yếu",VietNam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Thiết Yếu",HITV
 https://freem3u.xyz/api/live/play.m3u8?vid=32
-#EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://lh3.googleusercontent.com/proxy/cQznJjFJSuQa_Tg6TgreIHOvs01_5JNYZGyXQ_NdhdQidrG5cK2bpkiznLtXXdfe7eaYQGZFnjI85I8LTRc" group-title="Thiết Yếu",YouTV
-https://freem3u.xyz/api/live/play.m3u8?vid=31
-#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522256505409638/784px-Tvb_logo.svg.png?ex=6a5af775&is=6a59a5f5&hm=25fce0c06bccfc4dbe5b6e922f95c09e3a3cb757a3b9a7f3aec4ce9fe7297bbb&" group-title="Thiết Yếu",TVB Việt Nam
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-name="on vie giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20240817111510&path-prefix=vi" group-title="VTVCab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -451,6 +447,8 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" tvg-name="kix" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651752562655263/images_3.png?ex=6a5b7010&is=6a5a1e90&hm=f8c966f806f15d76531c9c4b907e2e9843278ceb362def573b81fd566dccb009&" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522256505409638/784px-Tvb_logo.svg.png?ex=6a5af775&is=6a59a5f5&hm=25fce0c06bccfc4dbe5b6e922f95c09e3a3cb757a3b9a7f3aec4ce9fe7297bbb&" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527250536544604250/TVRIWorld.webp?ex=6a59fa66&is=6a58a8e6&hm=128f44ce22aad4d392245fdc07933ee0c909280bc6210bad00eb65ef117e15fe&" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -591,5 +589,8 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="dltv15" tvg-name="dltv15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Thái",DLTV15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
+#EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Miến Điện (Myanmar)", MRTV Myanmar
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://lh3.googleusercontent.com/proxy/cQznJjFJSuQa_Tg6TgreIHOvs01_5JNYZGyXQ_NdhdQidrG5cK2bpkiznLtXXdfe7eaYQGZFnjI85I8LTRc" group-title="Chưa Phân Loại",YouTV
+https://freem3u.xyz/api/live/play.m3u8?vid=31
