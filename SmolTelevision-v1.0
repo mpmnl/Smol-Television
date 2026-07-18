@@ -591,5 +591,5 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="dltv15" tvg-name="dltv15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Thái",DLTV15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar" MRTV
+#EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
