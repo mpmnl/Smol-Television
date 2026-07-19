@@ -351,9 +351,9 @@ https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 #EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552930901790720/Snews.webp?ex=6a5b1407&is=6a59c287&hm=480112f3d9b6bc43b83087ef4453f7949b3b2c2854747e084b783a6c113f15c8&" group-title="FM Radio",Sơn La Radio
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
-#EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552931279405136/TN_TayNinhTV_logo.webp?ex=6a5b1407&is=6a59c287&hm=1f7988531ba90fbd958478e0d96d6bf02d2dc61e4dae764df013974e7050c1e4&" group-title="FM Radio",Tây Ninh 96,9 mhz & 103,1 mhz Radio
+#EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552931279405136/TN_TayNinhTV_logo.webp?ex=6a5b1407&is=6a59c287&hm=1f7988531ba90fbd958478e0d96d6bf02d2dc61e4dae764df013974e7050c1e4&" group-title="FM Radio",Tây Ninh 96.9 mhz & 103.1 mhz Radio
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
-#EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="tuyenquangradio" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929584644126/Logo_TTV_Tuyen_Quang_92_v2C6MHz_2025.webp?ex=6a5b1406&is=6a59c286&hm=7ccc3f97b8a1e691a5c2323336fe1e5da657b7199337a225514b160916d1c8e9&" group-title="FM Radio",Tuyên Quang 95,6 mhz Radio
+#EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="tuyenquangradio" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929584644126/Logo_TTV_Tuyen_Quang_92_v2C6MHz_2025.webp?ex=6a5b1406&is=6a59c286&hm=7ccc3f97b8a1e691a5c2323336fe1e5da657b7199337a225514b160916d1c8e9&" group-title="FM Radio",Tuyên Quang 95.6 mhz Radio
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552929886765076/Logo_THVL_V2C2MHz_2023.webp?ex=6a5b1407&is=6a59c287&hm=fc8a0a28b561dd6b345481c40bf42e310630161e3d17dc59482b2bf406de58fb&" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
