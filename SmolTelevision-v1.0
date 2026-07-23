@@ -401,7 +401,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="G1Kr" tvg-name="G1Kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1 HLCG
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV"" tvg-logo="https://i.imgur.com/6CrZtJK.png" group-title="Hàn Quốc",GukakTV
+#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV"" tvg-logo="https://i.imgur.com/ak8KXdg.png" group-title="Hàn Quốc",GukakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GukbangTV" tvg-name="GukbangTV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Hàn Quốc",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -587,7 +587,7 @@ http://198.204.228.26/live/cctv4k.m3u8
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560319688380577/images_3.png?ex=6a5b1ae8&is=6a59c968&hm=4d249458984a611b076205bbd5852f2d42d066cd78fe72bf1d356cda894de0c3&" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="BaichengTV tvg-name="BaichengTV" tvg-logo="https://i.imgur.com/UCT3Qjv.jpeg" group-title="Trung Quốc",Baicheng TV (Bạch Thành)
+#EXTINF:-1 tvg-id="BaichengTV tvg-name="BaichengTV" tvg-logo="https://i.imgur.com/4CCevo9.jpeg" group-title="Trung Quốc",Baicheng TV (Bạch Thành)
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://lh3.googleusercontent.com/proxy/cQznJjFJSuQa_Tg6TgreIHOvs01_5JNYZGyXQ_NdhdQidrG5cK2bpkiznLtXXdfe7eaYQGZFnjI85I8LTRc" group-title="Chưa Phân Loại",YouTV
