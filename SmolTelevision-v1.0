@@ -561,7 +561,7 @@ http://198.204.228.26/live/cctv5hd.m3u8
 http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558457438503072/dew5udx-4d3bf168-fe89-4503-9dbc-91445bfd622f.png?ex=6a5b192c&is=6a59c7ac&hm=b7f712d9390e3fe976e3f2e54a4b302e51f352bcd881c4dbb05de5cee8533003&" group-title="Trung Quốc",CCTV7
 http://198.204.228.26/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550488875078/images_1_1.png?ex=6a5b1943&is=6a59c7c3&hm=b16f3ac667c559d8dbe6350b65d48e97eea52fcd463d395c809e5785a6aff050&" group-title="Trung Quốc",CCTV8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530054230000271481/V41XygJkWpwPTx2KWWl7WjeoY-kzNLK7YdLY76WERvnlAEkTDKn7gNMx0a8WUKRtH-ToqmeDOfyTwblRs9jjrw.png?ex=6a642d8b&is=6a62dc0b&hm=01ec074c62eb1d6debef81a0a5c64eec477dd85f68da66de5aa519737fded268&" group-title="Trung Quốc",CCTV8
 http://198.204.228.26/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530052199478984735/CCTV-9_.png?ex=6a642ba7&is=6a62da27&hm=4da7b5e3cd7103a80e0df6496446b2652ea7a33e1771ce0aac9dc9a935437516&" group-title="Trung Quốc",CCTV9
 http://198.204.228.26/live/cctv9hd.m3u8
