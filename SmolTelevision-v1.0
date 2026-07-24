@@ -553,7 +553,7 @@ http://198.204.228.26/live/cctv1hd.m3u8
 http://198.204.228.26/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558549746487417/df1t997-d768fbae-1ca5-4115-975c-28f8888d5ce0.png?ex=6a5b1942&is=6a59c7c2&hm=ff74b6ed9a2f7d3f562a86f965b7d5ed04a439e7547c331655116735ff66060d&" group-title="Trung Quốc",CCTV3
 http://198.204.228.26/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="Trung Quốc",CCTV4
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530053340145254400/Wo8J6-ptBDTqdGyat5vrec4EwHlnTXCvzHW6yrEiRO38AWD4Jd3GWHpeos0UGJYyJ4FFTAv291GQgnwjP8LU_A.png?ex=6a642cb7&is=6a62db37&hm=89f28430c7d2322568ebe934ae4965b5d2f4f52b9ef87d5b11c1ae4585719718&" group-title="Trung Quốc",CCTV4
 http://198.204.228.26/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558457908007032/df1t98y-922bf926-8143-475a-966a-be6027154b70.png?ex=6a5b192d&is=6a59c7ad&hm=f8a1f8e41cdaab19208f4e1149b18d4d3a06f26b8fde8e9031d9d243ac7f4fde&" group-title="Trung Quốc",CCTV5
 http://198.204.228.26/live/cctv5hd.m3u8
@@ -565,7 +565,7 @@ http://198.204.228.26/live/cctv7hd.m3u8
 http://198.204.228.26/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530052199478984735/CCTV-9_.png?ex=6a642ba7&is=6a62da27&hm=4da7b5e3cd7103a80e0df6496446b2652ea7a33e1771ce0aac9dc9a935437516&" group-title="Trung Quốc",CCTV9
 http://198.204.228.26/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550828744714/images_2.png?ex=6a5b1943&is=6a59c7c3&hm=150d7b2800e481490fc34e80884afa7105576e8df48791dcc094fbf24b8c7675&" group-title="Trung Quốc",CCTV10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530053339721633942/kaLRxTRQ0BTvU22bmmKWGKTeS6f25vaZYY6hhWuzfFvi3RApnmXqV2SlPvyecmey9oR1K0WqBS35V6NwZ23Y5g.png?ex=6a642cb7&is=6a62db37&hm=5729b8816eb24b38cf07c9664cc40f620c8b5b4964592919911a7d57918f12d0&" group-title="Trung Quốc",CCTV10
 http://198.204.228.26/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456708436120/deruj5l-a3960cf8-5aa2-450f-b5ae-3b53ef6cd913.png?ex=6a5b192c&is=6a59c7ac&hm=57f9de5b3c15a3d0f7689ca995224dd7a76756cdd709daa517c012c03a790334&" group-title="Trung Quốc",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
@@ -577,13 +577,13 @@ http://198.204.228.26/live/cctv13hd.m3u8
 http://198.204.228.26/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558550006665256/df1zboh-9641ef1e-944b-49ad-b319-6df147bd4206.png?ex=6a5b1942&is=6a59c7c2&hm=71ffec56959e6479eb58edfb2d2490f0f356b6c26fdc0340f0a35439877c786b&" group-title="Trung Quốc",CCTV15
 http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558551130603591/images_3.png?ex=6a5b1943&is=6a59c7c3&hm=a615aa0b2b87253b64f2d6d58ecb341c775ea878301b17243b5b4515a7e6f2a9&" group-title="Trung Quốc",CCTV16
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530053338908069988/CCTV-16_.png?ex=6a642cb7&is=6a62db37&hm=5d1033957ddfd80466bbc2163c35869c9a95c7b67e58ce021bf8a6ebf45bc659&" group-title="Trung Quốc",CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527558456394121307/CCTV-17.png?ex=6a5b192c&is=6a59c7ac&hm=c249f99dfb43ea2bca7bf37b22f2e21c1c96f16f6c0379045f174aa7da164ed7&" group-title="Trung Quốc",CCTV17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530053339360788500/CCTV-17_.png?ex=6a642cb7&is=6a62db37&hm=3795a0072c135898db2327e7811f4657f8394c1a5d5315284291013a68d6aa8c&" group-title="Trung Quốc",CCTV17
 http://198.204.228.26/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560118940598334/CCTV-4k.png?ex=6a5b1ab9&is=6a59c939&hm=eeb6603ffdc5f0a42804df485fc63f0782657e46fea7c70d7a0cbbc7e83c6c14&" group-title="Trung Quốc",CCTV 4K
 http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527559960978915328/images_2.png?ex=6a5b1a93&is=6a59c913&hm=6e9425675e12db9c18b865db9eb855f777b62295164ac7a12050ecab70387d9e&" group-title="Trung Quốc",CCTV 8K
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1530053338492571668/CCTV8k.png?ex=6a642cb6&is=6a62db36&hm=f3cb352095a6be9eefc6847f1785a1b63c44d27e710233f12c712fab0dfebaed&" group-title="Trung Quốc",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560319688380577/images_3.png?ex=6a5b1ae8&is=6a59c968&hm=4d249458984a611b076205bbd5852f2d42d066cd78fe72bf1d356cda894de0c3&" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
