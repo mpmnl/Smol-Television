@@ -13,7 +13,4 @@ Youtube: https://www.youtube.com/@Cobemuadong69420
 Discord: https://discord.gg/QYTpnJHkMz
 -----------------------------------------------------------------------
 CODE KHÔNG CẦN ĐỌC
-
-
-
-
+<video src="https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb" controls width="100%"></video>
