@@ -362,11 +362,11 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/pl
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527561120792182784/da-vinci-logo-png_seeklogo-447386.png?ex=6a5b1ba7&is=6a59ca27&hm=82486530128a13d288fb2af494ec975489bd9c4a02cde900ff178984da3c3fc3&" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
+#EXTINF:-1 tvg-id="davinci" tvg-name="davinci" tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" tvg-name="kix" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651752562655263/images_3.png?ex=6a5b7010&is=6a5a1e90&hm=f8c966f806f15d76531c9c4b907e2e9843278ceb362def573b81fd566dccb009&" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527522256505409638/784px-Tvb_logo.svg.png?ex=6a5af775&is=6a59a5f5&hm=25fce0c06bccfc4dbe5b6e922f95c09e3a3cb757a3b9a7f3aec4ce9fe7297bbb&" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
+#EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Chương trình phụ thuộc",HITV
@@ -437,7 +437,7 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="jtv" tvg-name="jtv" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527612406212067408/images_3.png?ex=6a5b4b6b&is=6a59f9eb&hm=a821a86fe10c546871c937277bc47e78fb6e4af7cbf63f35de6ddc818d3c711a&" group-title="Hàn Quốc",JTV Jeonju Television
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527560829128544347/Logo_TBS.svg.png?ex=6a5b1b62&is=6a59c9e2&hm=086ae99bfc4c5abba981e00b6c499f426984624651f7e4bd080330b10a9ed848&" group-title="Hàn Quốc",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="Hàn Quốc",TBS
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Hàn Quốc",TVChosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -450,21 +450,21 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Miến Điện (Myanmar)", MRTV Myanmar
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562761947582524/images_2.png?ex=6a5b1d2f&is=6a59cbaf&hm=fd682abd67876236e7ccf0ac63aaa63e3c4ae6652c94fe96e6d711d8b834771b&" group-title="Mỹ",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet" tvg-logo="https://i.imgur.com/CNX2TQ8.png" group-title="Mỹ",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562760651804762/images_1_1.png?ex=6a5b1d2e&is=6a59cbae&hm=d638ad16739ea3c8bf3ae98dbbd6a86ee478121c1f1379cd8e9bb3a6be736ec0&" group-title="Mỹ",AL JAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://i.imgur.com/awwV1MH.png" group-title="Mỹ",AL JAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562763122249738/New_Bloomberg_Logo.svg.png?ex=6a5b1d2f&is=6a59cbaf&hm=700f43aba579b31f7cb48cffb760fb3184316e4019aebd0c33ced450de167a47&" group-title="Mỹ",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="bloomberg" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mỹ",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562756339925013/Cartoon_Network_logo.png?ex=6a5b1d2d&is=6a59cbad&hm=eff92c271fcc0c8f33e30f94d014f3f186e77f35086fe11616dc9014888d8a24&" group-title="Mỹ",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" tvg-logo="https://i.imgur.com/oXOyF73.png" group-title="Mỹ",Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562757400952832/CNA_new_logo.svg.webp?ex=6a5b1d2e&is=6a59cbae&hm=56f4eb8127400a74ad4518c8cd5c1388dbd07ed7b12aea2376d99c3dc5c067dc&" group-title="Mỹ",CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.imgur.com/ZaUSroo.png" group-title="Mỹ",CNA
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562758579683338/CNBC_2025.svg.png?ex=6a5b1d2e&is=6a59cbae&hm=0c9e02122c737084a8a4d54bc82252a8f3e75f62ff99fbf5ac8a8f2b1720250e&" group-title="Mỹ",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mỹ",CNBC
 https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562759749767238/CNN.png?ex=6a5b1d2e&is=6a59cbae&hm=51444be3f009e7aba0717511c1af70103a052227cd4fe92df5592c3d7de36aad&" group-title="Mỹ",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/JVAT61Q.png" group-title="Mỹ",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527562755526365319/2019_Discovery_logo.png?ex=6a5b1d2d&is=6a59cbad&hm=15e248700b15e86aa46007947ede2a7ccc2bb5abcf741ca4d1fed13cf33c090a&" group-title="Mỹ",Discovery Channel
+#EXTINF:-1 tvg-id="DC" tvg-name="DC" tvg-logo="https://i.imgur.com/rmkx3K5.png" group-title="Mỹ",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="fox" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527612405633519646/FOX_HD.svg.webp?ex=6a5b4b6b&is=6a59f9eb&hm=687830539268c6224b0b6bcc0ecfbe39848b5ec4e3e10c9cf60993bc14a1999c&" group-title="Mỹ",FOX HD
 https://fxtvhls.wns.live/hls/stream.m3u8
