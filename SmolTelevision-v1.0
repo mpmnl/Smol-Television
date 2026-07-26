@@ -389,13 +389,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=111
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CJBKr" tvg-name="CJBKr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Hàn Quốc",CJB HLDR
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291174178866/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=e7dd1a3469ee8cc3e9d9662aecbe14bf3cf9a66b96c4c5b12523cb834c908d6f&" group-title="Hàn Quốc", EBS1
+#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="Hàn Quốc", EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527208204348690482/EBS2.png?ex=6a59d2fa&is=6a58817a&hm=57e9a5834e2fe6600b54bb7f03bfab4c293487b80b0d7faf9364c7eaa9ea1a55&" group-title="Hàn Quốc", EBS2
+#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="Hàn Quốc", EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210291882889309/EBSE.png?ex=6a59d4eb&is=6a58836b&hm=ca764afbb37e4c1f27c5f7f70667048cbe25c3ec3046f8a5e0a771f2189bd788&" group-title="Hàn Quốc", EBSEnglish
+#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="Hàn Quốc", EBSEnglish
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290532581468/EBS1.png?ex=6a59d4eb&is=6a58836b&hm=9bda7ab99da49f294ebfdb2a08756aa50372aa054985e175b5f2cb8bf1ebf9f7&" group-title="Hàn Quốc", EBS+1
+#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="Hàn Quốc", EBS+1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Hàn Quốc", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
