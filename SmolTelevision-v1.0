@@ -329,9 +329,9 @@ https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527551501491372152/Logo_HYTV_H3Fn_FM_922C7MHz_2025.webp?ex=6a5b12b2&is=6a59c132&hm=29ce890229f26e2859ce66b0a75a9d990c522157beeed6c7685a745e640f50e1&" group-title="FM Radio",Hưng Yên 92.7 mhz Radio
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoaradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527551499029188658/BKH_Radio.webp?ex=6a5b12b1&is=6a59c131&hm=212978289d8e7a381f2402a64f159745865b62b2cbb0228a3d5398032c961700&" group-title="FM Radio",Khánh Hòa 106.5 mhz Radio
+#EXTINF:-1 tvg-id="khanhhoaradio" tvg-name="fm" tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio",Khánh Hòa 106.5 mhz Radio
 https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
-#EXTINF:-1 tvg-id="khanhhoaradio2" tvg-name="fm" tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio",Khánh Hòa 95 mhz Radio
+#EXTINF:-1 tvg-id="khanhhoaradio2" tvg-name="fm" tvg-logo="https://i.imgur.com/HZ7lnAG.png" group-title="FM Radio",Khánh Hòa 95 mhz Radio
 https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
 #EXTINF:-1 tvg-id="lamdongradio2" tvg-name="fm" tvg-logo="https://i.imgur.com/cXsfddj.png" group-title="FM Radio",Lâm Đồng Radio
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
