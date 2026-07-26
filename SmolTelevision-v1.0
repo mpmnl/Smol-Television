@@ -378,7 +378,7 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="Anh",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="blob:https://imgur.com/49b39e0f-0dcc-4e01-a07e-507f561e211a" group-title="Anh",Reuters
+#EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="Anh",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Hàn Quốc",ABN
