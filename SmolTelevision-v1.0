@@ -73,7 +73,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" tvg-name="on life" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest/scale-to-width-down/1200?cb=20221211044714&path-prefix=vi" group-title="VTVCab",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" tvg-name="on golf" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest/scale-to-width-down/1000?cb=20230118075014&path-prefix=vi" group-title="VTVCab",ON Golf
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoExility
+https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 
 #EXTINF:-1 tvg-id="sctv1" tvg-name="SCTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi" group-title="SCTV",SCTV1
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
