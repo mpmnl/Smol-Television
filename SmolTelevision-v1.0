@@ -347,11 +347,11 @@ https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-id="quangninhradio2" tvg-name="fm" tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio",QNR2 Radio
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-id="quangtriradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552930469908512/QRTV_logo_2025.webp?ex=6a5b1407&is=6a59c287&hm=af57d1e07ee4de1236cb70dc8ab048abb6862778f842169df620f6918316fb2c&" group-title="FM Radio",Quảng Trị Radio
+#EXTINF:-1 tvg-id="quangtriradio" tvg-name="fm" tvg-logo="https://i.imgur.com/sNBSAak.png" group-title="FM Radio",Quảng Trị Radio
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
-#EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552930901790720/Snews.webp?ex=6a5b1407&is=6a59c287&hm=480112f3d9b6bc43b83087ef4453f7949b3b2c2854747e084b783a6c113f15c8&" group-title="FM Radio",Sơn La Radio
+#EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio",Sơn La Radio
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
-#EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527552931279405136/TN_TayNinhTV_logo.webp?ex=6a5b1407&is=6a59c287&hm=1f7988531ba90fbd958478e0d96d6bf02d2dc61e4dae764df013974e7050c1e4&" group-title="FM Radio",Tây Ninh 96.9 mhz & 103.1 mhz Radio
+#EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio",Tây Ninh 96.9 mhz & 103.1 mhz Radio
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 #EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="fm" tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio",Tuyên Quang 95.6 mhz Radio
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
