@@ -371,19 +371,19 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 #EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Chương trình phụ thuộc",HITV
 https://freem3u.xyz/api/live/play.m3u8?vid=32
-#EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527653360549892106/Planet_Earth.webp?ex=6a5b718f&is=6a5a200f&hm=3287a76595b252a51a1c40e42aa7639f92ce220b4ec6bda7283a1de36f1bd578&" group-title="Chương trình phụ thuộc",Planet Earth
+#EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="Anh",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="blob:https://imgur.com/7d07bd4e-1b9e-455f-960a-e4b277009327" group-title="Anh",BBC Earth
+#EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="Anh",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527653360864460891/Reuters_Logo.svg.webp?ex=6a5b718f&is=6a5a200f&hm=dcd3eaebad2b872cfa261d35243707ac53d6913b89790680a4c4bc1b2346d325&" group-title="Anh",Reuters
+#EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="blob:https://imgur.com/49b39e0f-0dcc-4e01-a07e-507f561e211a" group-title="Anh",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Hàn Quốc",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527249199559737344/Arirang.png?ex=6a59f928&is=6a58a7a8&hm=a180d595c61308a7c7b660f794eadc2ff99046b347d94a79737194fbce233b56&" group-title="Hàn Quốc",Arirang Korea
+#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="Hàn Quốc",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="ArirangUN" tvg-name="ArirangUn" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Hàn Quốc",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
@@ -483,7 +483,7 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="https://i.imgur.com/4qP5vAR.png" group-title="Mỹ",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
-#EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527651751866667139/NHK_World.svg.webp?ex=6a5b7010&is=6a5a1e90&hm=beda193f216ae9de3f0d0cb0cbbb9dbeeb54835d39ff99ff3253545cc33b19e4&" group-title="Nhật",NHK World
+#EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Nhật",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="joax" tvg-name="joax" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Nhật",Nippon TV JOAX
 https://ntv5.mov3.co/hls/ntv.m3u8
