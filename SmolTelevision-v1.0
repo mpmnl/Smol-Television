@@ -381,6 +381,17 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="Anh",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
+#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31 Hongkong
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 Hongkong
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://i.imgur.com/2MProun.png" group-title="HongKong",RTHK33 Hongkong
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="rthk34" tvg-name="rthk34" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="HongKong",RTHK34 Hongkong
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-id="rthk35" tvg-name="rthk35" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK35 Hongkong
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
 #EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Hàn Quốc",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="Hàn Quốc",Arirang Korea
