@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-id="luongsach" tvg-name="luongsach" tvg-logo="" group-title="Kenh nay feed sach",Bam vao di kid
 https://live.baolamdong.vn/ltv1/index.m3u8?_t=1785075065348&_t=1785075100180
+#EXTINF:-1 tvg-id="ytb" tvg-name="ytb" tvg-logo="" group-title="Kenh nay feed sach",DUNG BAM
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
