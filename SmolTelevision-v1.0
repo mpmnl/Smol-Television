@@ -440,6 +440,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="mbcys" tvg-name="mbcys" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="Hàn Quốc",MBC Yeosu HLAT
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="natv" tvg-name="natv" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Hàn Quốc",NATV
+https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"Hàn Quốc", NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"Hàn Quốc", NHTV
