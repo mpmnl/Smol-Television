@@ -32,25 +32,25 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-name="qpvn" tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN Quốc Phòng
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="on vie giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20240817111510&path-prefix=vi" group-title="VTVCab",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="on vie giải trí" tvg-logo="https://i.imgur.com/QVutyeh.png" group-title="VTVCab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onphimviet" tvg-name="on phim việt" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/ON_Phim_Vi%E1%BB%87t_08-09-2021.png/revision/latest?cb=20230606020123&path-prefix=vi" group-title="VTVCab",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" tvg-name="on phim việt" tvg-logo="https://i.imgur.com/s540jl4.png" group-title="VTVCab",ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onsports" tvg-name="on sports" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="VTVCab",ON Sports
 https://1011154949.vnns.net/CDN-FPT02/THETHAOTV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="onmovies" tvg-name="on movies" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20221211044023&path-prefix=vi" group-title="VTVCab",ON Movies
+#EXTINF:-1 tvg-id="onmovies" tvg-name="on movies" tvg-logo="https://i.imgur.com/b23eYit.png" group-title="VTVCab",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onechannel" tvg-name="on e channel" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/ON_E_Channel_08-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20231122022922&path-prefix=vi" group-title="VTVCab",ON E Channel
+#EXTINF:-1 tvg-id="onechannel" tvg-name="on e channel" tvg-logo="https://i.imgur.com/bl7Ypfa.png" group-title="VTVCab",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="onsports" tvg-name="on sports+" tvg-logo="https://static.wikia.nocookie.net/266c4724-1568-42cf-9f48-84eadbd5653f/scale-to-width/755" group-title="VTVCab",ON Sports+
+#EXTINF:-1 tvg-id="onsports" tvg-name="on sports+" tvg-logo="https://i.imgur.com/pzp2j7Y.png" group-title="VTVCab",ON Sports+
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
-#EXTINF:-1 tvg-id="ono2tv" tvg-name="on O2TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtB_O2Bsd0C0E81kcXkgmoFpTKLMGs1DD0Q&s" group-title="VTVCab",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv" tvg-name="on O2TV" tvg-logo="https://i.imgur.com/Ifbc7Sa.png" group-title="VTVCab",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="onbibi" tvg-name="on bibi" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/ON_BiBi.png/revision/latest?cb=20221211044448&path-prefix=vi" group-title="VTVCab",ON BIBI
+#EXTINF:-1 tvg-id="onbibi" tvg-name="on bibi" tvg-logo="https://i.imgur.com/Kf4AjDx.png" group-title="VTVCab",ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="oninfotv" tvg-name="on info tv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" group-title="VTVCab",ON Info TV
+#EXTINF:-1 tvg-id="oninfotv" tvg-name="on info tv" tvg-logo="https://i.imgur.com/jD0DVyL.png" group-title="VTVCab",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="oncine" tvg-name="on cine" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi" group-title="VTVCab",ON Cine
+#EXTINF:-1 tvg-id="oncine" tvg-name="on cine" tvg-logo="https://i.imgur.com/UfsjWa3.png" group-title="VTVCab",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="onstyletv" tvg-name="on style tv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/ON_Style_TV_logo_ident_2023.png/revision/latest/scale-to-width-down/200?cb=20230331132039&path-prefix=vi" group-title="VTVCab",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
