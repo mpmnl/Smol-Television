@@ -412,7 +412,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="G1Kr" tvg-name="G1Kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1 HLCG
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV"" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="Hàn Quốc",GukakTV
+#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="Hàn Quốc",GukakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GukbangTV" tvg-name="GukbangTV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Hàn Quốc",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
