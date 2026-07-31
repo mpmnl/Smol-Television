@@ -124,21 +124,21 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctvpth" tvg-name="SCTV PHIM" tvg-logo="https://i.imgur.com/6XAy6Qx.png" group-title="SCTV",SCTV PHIM
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/1000?cb=20260414043039&path-prefix=vi" group-title="HTV",HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HTV2_logo_ph%E1%BB%A5_12-2022.png/revision/latest/scale-to-width-down/1000?cb=20260511043728&path-prefix=vi" group-title="HTV",HTV2
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://i.imgur.com/USSjd2t.png" group-title="HTV",HTV2
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTV3_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043044&path-prefix=vi" group-title="HTV",HTV3
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://i.imgur.com/BmnUMzp.png" group-title="HTV",HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
-#EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260424031742&path-prefix=vi" group-title="HTV",HTV4
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="https://i.imgur.com/jjba3MA.png" group-title="HTV",HTV4
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="htv5" tvg-name="HTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/HTV5_logo_02-2026.png/revision/latest?cb=20260510082557&path-prefix=vi" group-title="HTV",HTV5
+#EXTINF:-1 tvg-id="htv5" tvg-name="HTV5" tvg-logo="https://i.imgur.com/QsIHoHU.png" group-title="HTV",HTV5
 https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="htv7" tvg-name="HTV7" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest/scale-to-width-down/220?cb=20260115081301&path-prefix=vi" group-title="HTV",HTV7
+#EXTINF:-1 tvg-id="htv7" tvg-name="HTV7" tvg-logo="https://i.imgur.com/xmCKCkt.png" group-title="HTV",HTV7
 https://live-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest?cb=20250507023141&path-prefix=vi" group-title="HTV",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethao" tvg-name="HTV Thể Thao" tvg-logo="https://i.imgur.com/BD0Nf6Q.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9" tvg-name="HTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_31-12-2024_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20260414043029&path-prefix=vi" group-title="HTV",HTV9
+#EXTINF:-1 tvg-id="htv9" tvg-name="HTV9" tvg-logo="https://i.imgur.com/w0fLn3U.png" group-title="HTV",HTV9
 https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/HTVC_Gia_%C4%91%C3%ACnh_2018.png/revision/latest?cb=20241219124842&path-prefix=vi" group-title="HTVC",HTVC Gia Đình
 https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
