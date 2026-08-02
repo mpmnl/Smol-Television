@@ -597,5 +597,15 @@ http://198.204.228.26/live/cctv17hd.m3u8
 http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://i.imgur.com/G6q3PO9.png" group-title="Trung Quốc",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CGTNEnglish" tvg-name="CGTNEnglish" tvg-logo="https://i.imgur.com/UsaSjTU.png" group-title="Trung Quốc",CGTN English
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/RmWOYkc.png" group-title="Trung Quốc",CGTN
+https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic" tvg-name="CGTNArabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="Trung Quốc",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench" tvg-name="CGTNFrench" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="Trung Quốc",CGTN French
+http://145.239.5.177/214/index.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian" tvg-name="CGTNRussian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="Trung Quốc",CGTN Russian
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish" tvg-name="CGTNSpanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Trung Quốc",CGTN Spanish
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Trung Quốc",CGTN Documentary
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
