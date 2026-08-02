@@ -359,10 +359,13 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tvbvn" tvg-name="tvb viet nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/190?cb=20200831064620&path-prefix=vi" group-title="Chương trình phụ thuộc",HITV
+#EXTINF:-1 tvg-id="hitv" tvg-name="hitv" tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HITV
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="plearth" tvg-name="plearth" tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="Anh",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
@@ -398,7 +401,7 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="Hàn Quốc", EBS+1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://cdn.discordapp.com/attachments/1522498421393588326/1527210290784243762/EBS2.png?ex=6a59d4eb&is=6a58836b&hm=e104d9bec574c68fdb01f83309497742f3d6b9e8be947a42d1c04524bce8600d&" group-title="Hàn Quốc", EBS+2
+#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="Hàn Quốc", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="G1Kr" tvg-name="G1Kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1 HLCG
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
@@ -596,6 +599,3 @@ http://198.204.228.26/live/cctv4k.m3u8
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTNEnglish" tvg-name="CGTNEnglish" tvg-logo="https://i.imgur.com/UsaSjTU.png" group-title="Trung Quốc",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
-#EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://lh3.googleusercontent.com/proxy/cQznJjFJSuQa_Tg6TgreIHOvs01_5JNYZGyXQ_NdhdQidrG5cK2bpkiznLtXXdfe7eaYQGZFnjI85I8LTRc" group-title="Chưa Phân Loại",YouTV
-https://freem3u.xyz/api/live/play.m3u8?vid=31
