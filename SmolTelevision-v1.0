@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV",VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VTV",VTV2
-https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VTV",VTV3
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="VTV",VTV4
@@ -23,7 +23,7 @@ https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV",VTV9
 https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://i.imgur.com/5XG54nA.png" group-title="VTV",VTV10
-https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="onmusic" tvg-name="on music" tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="onfootball" tvg-name="on football" tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
-https://1011154949.vnns.net/CDN-FPT02/BONGDATV-HD-1080p/playlist.m3u8
+https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
 #EXTINF:-1 tvg-id="ontrending" tvg-name="on trending tv" tvg-logo="https://i.imgur.com/8Q8CJC1.png" group-title="VTVCab",ON Trending TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="onsportsnews" tvg-name="on sports news" tvg-logo="https://i.imgur.com/nYDl08h.png" group-title="VTVCab",ON Sports News
@@ -80,9 +80,9 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv2" tvg-name="SCTV2" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3" tvg-name="SCTV3" tvg-logo="https://i.imgur.com/PNkDBsl.png" group-title="SCTV",SCTV3
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv4" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv4/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv5" tvg-name="SCTV5" tvg-logo="https://i.imgur.com/dYTNyTF.png" group-title="SCTV",SCTV5
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv6" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
@@ -96,25 +96,25 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv10" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/wl6NUaR.png" group-title="SCTV",SCTV10
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv11" tvg-name="SCTV11" tvg-logo="https://i.imgur.com/z7hQKkE.png" group-title="SCTV",SCTV11
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv11/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv12" tvg-name="SCTV12" tvg-logo="https://i.imgur.com/rgmYZs4.png" group-title="SCTV",SCTV12
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv12/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv13" tvg-name="SCTV13" tvg-logo="https://i.imgur.com/3HYPJL7.png" group-title="SCTV",SCTV13
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv13/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv14" tvg-name="SCTV14" tvg-logo="https://i.imgur.com/Hr75B0C.png" group-title="SCTV",SCTV14
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv14/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv15" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/KdeWeFW.png" group-title="SCTV",SCTV15
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv16" tvg-name="SCTV16" tvg-logo="https://i.imgur.com/dVj17dD.png" group-title="SCTV",SCTV16
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999playtogethervng/6767676767/manifest/sctv16/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv17" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/LfcO93p.png" group-title="SCTV",SCTV17
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv18" tvg-name="SCTV18" tvg-logo="https://i.imgur.com/jUhcJLH.png" group-title="SCTV",SCTV18
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv18/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv19" tvg-name="SCTV19" tvg-logo="https://i.imgur.com/wg3iif7.png" group-title="SCTV",SCTV19
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="sctv20" tvg-name="SCTV20" tvg-logo="https://i.imgur.com/JEIwc3t.png" group-title="SCTV",SCTV20
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv20/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv21" tvg-name="SCTV21" tvg-logo="https://i.imgur.com/uiuEuLW.png" group-title="SCTV",SCTV21
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv22" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/0tu6v5X.png" group-title="SCTV",SCTV22
@@ -174,6 +174,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://i.imgur.com/sQbFfK8.png" group-title="Địa Phương",BTV Bắc Ninh
 https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhthuan" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình 
+https://pop2-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NzUwNzgyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xODIvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJjYTE3MTI5ZDFjNGNkNzciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNjguMTY0Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMiIsInNvdXJjZXMiOlsxOTgsNDYyLDQ2NSw0NjldfQ==.TazJO1CJ2sSIQ6qFq4_zTfnt3H-okGfDF66tVBPEDa2zDvyx_PFJoEY7ubacFEHkwsRyL164D4YpkcCGfqUe4w==/live/eds/182/HLS_Clean_MHL_2s/182-avc1_1400000=10001-mp4a_140800_eng=20000.m3u8
 #EXTINF:-1 tvg-id="camau" tvg-name="CTV Cà Mau" tvg-logo="https://i.imgur.com/R0skSVV.png" group-title="Địa Phương",CTV Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="caobang" tvg-name="CRTV Cao Bằng" tvg-logo="https://i.imgur.com/RRDjNzr.png" group-title="Địa Phương",CRTV Cao Bằng
