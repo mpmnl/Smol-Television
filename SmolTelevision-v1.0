@@ -491,7 +491,9 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 #EXTINF:-1 tvg-id="warner" tvg-name="warner" tvg-logo="https://i.imgur.com/4qP5vAR.png" group-title="Mỹ",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
-#EXTINF:-1 tvg-id="nhk" tvg-name="nhk" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Nhật",NHK World
+#EXTINF:-1 tvg-id="joak" tvg-name="joak" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Nhật",NHK General JOAK
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="nhkw" tvg-name="nhkw" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Nhật",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="joax" tvg-name="joax" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Nhật",Nippon TV JOAX
 https://ntv5.mov3.co/hls/ntv.m3u8
@@ -499,6 +501,8 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="jorx" tvg-name="jorx" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Nhật",TBS JORX
 https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="wnn" tvg-name="wnn" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Nhật",WNN Weather News
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="fashiontv" tvg-logo="https://i.imgur.com/1rUKIf4.png" group-title="Pháp",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
