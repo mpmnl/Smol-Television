@@ -452,8 +452,10 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="Hàn Quốc",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
+#EXTINF:-1 tvg-id="TVRIW" tvg-name="TVRIW" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
 #EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Miến Điện (Myanmar)", MRTV Myanmar
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
@@ -499,7 +501,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=106
 https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="jocx" tvg-name="jocx" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Nhật",Fuji TV JOCX
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="jorx" tvg-name="jorx" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Nhật",TBS JORX
+#EXTINF:-1 tvg-id="jorx" tvg-name="jorx" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Nhật",TBS JORX
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="wnn" tvg-name="wnn" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Nhật",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
