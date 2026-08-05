@@ -88,13 +88,13 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv6" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
 https://freem3u.xyz/api/live/play.m3u8?vid=232
 #EXTINF:-1 tvg-id="sctv7" tvg-name="SCTV7" tvg-logo="https://i.imgur.com/ZRZEvK3.png" group-title="SCTV",SCTV7
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8" tvg-name="SCTV8" tvg-logo="https://i.imgur.com/uSEJGrY.png" group-title="SCTV",SCTV8
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9" tvg-name="SCTV9" tvg-logo="https://i.imgur.com/ThxQXWB.png" group-title="SCTV",SCTV9
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 tvg-id="sctv10" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/wl6NUaR.png" group-title="SCTV",SCTV10
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11" tvg-name="SCTV11" tvg-logo="https://i.imgur.com/z7hQKkE.png" group-title="SCTV",SCTV11
 https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv11/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv12" tvg-name="SCTV12" tvg-logo="https://i.imgur.com/rgmYZs4.png" group-title="SCTV",SCTV12
@@ -114,15 +114,15 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manife
 #EXTINF:-1 tvg-id="sctv19" tvg-name="SCTV19" tvg-logo="https://i.imgur.com/wg3iif7.png" group-title="SCTV",SCTV19
 https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="sctv20" tvg-name="SCTV20" tvg-logo="https://i.imgur.com/JEIwc3t.png" group-title="SCTV",SCTV20
-https://vtvgolive-sctvdrm.vtvdigital.vn/0000000000000000000000/0000000000/manifest/sctv20/playlist_720p.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-id="sctv21" tvg-name="SCTV21" tvg-logo="https://i.imgur.com/uiuEuLW.png" group-title="SCTV",SCTV21
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/0tu6v5X.png" group-title="SCTV",SCTV22
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv4k" tvg-name="SCTV 4K" tvg-logo="https://i.imgur.com/eQVMAur.png" group-title="SCTV",SCTV 4K
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctvpth" tvg-name="SCTV PHIM" tvg-logo="https://i.imgur.com/6XAy6Qx.png" group-title="SCTV",SCTV PHIM
-https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
