@@ -174,8 +174,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://i.imgur.com/sQbFfK8.png" group-title="Địa Phương",BTV Bắc Ninh
 https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhthuan" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình 
-https://pop2-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NzUwNzgyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xODIvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJjYTE3MTI5ZDFjNGNkNzciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNjguMTY0Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMiIsInNvdXJjZXMiOlsxOTgsNDYyLDQ2NSw0NjldfQ==.TazJO1CJ2sSIQ6qFq4_zTfnt3H-okGfDF66tVBPEDa2zDvyx_PFJoEY7ubacFEHkwsRyL164D4YpkcCGfqUe4w==/live/eds/182/HLS_Clean_MHL_2s/182-avc1_1400000=10001-mp4a_140800_eng=20000.m3u8
+#EXTINF:-1 tvg-id="binhthuan" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình Thuận
+https://freem3u.xyz/api/live/play.m3u8?vid=9838
 #EXTINF:-1 tvg-id="camau" tvg-name="CTV Cà Mau" tvg-logo="https://i.imgur.com/R0skSVV.png" group-title="Địa Phương",CTV Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="caobang" tvg-name="CRTV Cao Bằng" tvg-logo="https://i.imgur.com/RRDjNzr.png" group-title="Địa Phương",CRTV Cao Bằng
@@ -199,7 +199,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 Đồng Nai" tvg-logo="https://i.imgur.com/xfJP5kS.png" group-title="Địa Phương",ĐNNRTV2 Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="dongnai3" tvg-name="ĐNNRTV3 Đồng Nai" tvg-logo="https://i.imgur.com/1T7EJvo.png" group-title="Địa Phương",ĐNNRTV3 Đồng Nai
-https://1.org.vn/dnrtv3
+https://dethich.pw/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="dongthap1" tvg-name="THĐT1 Đồng Tháp" tvg-logo="https://i.imgur.com/Vtgi2AM.png" group-title="Địa Phương",THĐT1 Đồng Tháp
 https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="THĐT2 Đồng Tháp" tvg-logo="https://i.imgur.com/36ztRr9.png" group-title="Địa Phương",THĐT2 Đồng Tháp
