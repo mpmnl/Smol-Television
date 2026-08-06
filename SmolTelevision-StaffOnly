@@ -393,27 +393,29 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-id="ArirangUN" tvg-name="ArirangUn" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Hàn Quốc",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CJBKr" tvg-name="CJBKr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Hàn Quốc",CJB HLDR
+#EXTINF:-1 tvg-id="CJBKr" tvg-name="HLDR" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Hàn Quốc",CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs1" tvg-name="EBS1" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="Hàn Quốc", EBS1
+#EXTINF:-1 tvg-id="ebs1" tvg-name="HLQL" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="Hàn Quốc", EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs2" tvg-name="EBS2" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="Hàn Quốc", EBS2
+#EXTINF:-1 tvg-id="ebs2" tvg-name="HLQL" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="Hàn Quốc", EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebse" tvg-name="EBSEnglish" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="Hàn Quốc", EBSEnglish
+#EXTINF:-1 tvg-id="ebse" tvg-name="HLQL" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="Hàn Quốc", EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+1" tvg-name="EBS+1" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="Hàn Quốc", EBS+1
+#EXTINF:-1 tvg-id="ebskids" tvg-name="HLQL" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Hàn Quốc", EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs+1" tvg-name="HLQL" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="Hàn Quốc", EBS+1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+2" tvg-name="EBS+2" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="Hàn Quốc", EBS+2
+#EXTINF:-1 tvg-id="ebs+2" tvg-name="HLQL" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="Hàn Quốc", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="G1Kr" tvg-name="G1Kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1 HLCG
+#EXTINF:-1 tvg-id="G1Kr" tvg-name="HLCG" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="Hàn Quốc",G1
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GukakTV" tvg-name="GukakTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="Hàn Quốc",GukakTV
+#EXTINF:-1 tvg-id="GukakTV" tvg-name="HLQA" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="Hàn Quốc",GukakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GukbangTV" tvg-name="GukbangTV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Hàn Quốc",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JIBS" tvg-name="JIBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="Hàn Quốc",JIBS HLKJ
+#EXTINF:-1 tvg-id="JIBS" tvg-name="HLKJ" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="Hàn Quốc",JIBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="KBCKr" tvg-name="KBCKr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="Hàn Quốc",KBC HLDH
+#EXTINF:-1 tvg-id="KBCKr" tvg-name="HLDH" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="Hàn Quốc",KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="kbsworld" tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="Hàn Quốc",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
@@ -421,19 +423,19 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="ktv" tvg-name="ktv" tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="Hàn Quốc",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbcdj" tvg-name="mbcdj" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Hàn Quốc",MBC Daejeon HLAN
+#EXTINF:-1 tvg-id="mbcdj" tvg-name="HLAN" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Hàn Quốc",MBC Daejeon
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbch" tvg-name="mbcch" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Hàn Quốc",MBC Chuncheon HLCQ
+#EXTINF:-1 tvg-id="mbch" tvg-name="HLCQ" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Hàn Quốc",MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcje" tvg-name="mbcje" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="Hàn Quốc",MBC Jeju HLAJ
+#EXTINF:-1 tvg-id="mbcje" tvg-name="HLAJ" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="Hàn Quốc",MBC Jeju
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcmp" tvg-name="mbcmp" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="Hàn Quốc",MBC Mokpo HLAM
+#EXTINF:-1 tvg-id="mbcmp" tvg-name="HLAM" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="Hàn Quốc",MBC Mokpo
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mbccb" tvg-name="mbccb" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="Hàn Quốc",MBC Chungbuk HLAO
+#EXTINF:-1 tvg-id="mbccb" tvg-name="HLAO" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="Hàn Quốc",MBC Chungbuk
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcky" tvg-name="mbcky" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="Hàn Quốc",MBC Kangwon-Youngdong HLAQ
+#EXTINF:-1 tvg-id="mbcky" tvg-name="HLAQ" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="Hàn Quốc",MBC Kangwon-Youngdong
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcys" tvg-name="mbcys" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="Hàn Quốc",MBC Yeosu HLAT
+#EXTINF:-1 tvg-id="mbcys" tvg-name="HLAT" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="Hàn Quốc",MBC Yeosu
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="natv" tvg-name="natv" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Hàn Quốc",NATV
 https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
@@ -495,17 +497,17 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
 #EXTINF:-1 tvg-id="cgnjapan" tvg-name="cgnjapan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Nhật",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="joak" tvg-name="joak" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Nhật",NHK General JOAK
+#EXTINF:-1 tvg-id="nhkg" tvg-name="JOAK" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Nhật",NHK General
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="nhkw" tvg-name="nhkw" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Nhật",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="joax" tvg-name="joax" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Nhật",Nippon TV JOAX
+#EXTINF:-1 tvg-id="ntv" tvg-name="JOAX" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Nhật",Nippon TV
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="jocx" tvg-name="jocx" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Nhật",Fuji TV JOCX
+#EXTINF:-1 tvg-id="fujitv" tvg-name="JOCX" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Nhật",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="joex" tvg-name="joex" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Nhật",TV Asahi JOEX
+#EXTINF:-1 tvg-id="tvasahi" tvg-name="JOEX" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Nhật",TV Asahi
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="jorx" tvg-name="jorx" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Nhật",TBS JORX
+#EXTINF:-1 tvg-id="tokyobs" tvg-name="JORX" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Nhật",TBS
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="wnn" tvg-name="wnn" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Nhật",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
