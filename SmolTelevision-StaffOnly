@@ -466,6 +466,8 @@ https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="TVRIW" tvg-name="TVRIW" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRIJakarta" tvg-name="TVRIJ" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
