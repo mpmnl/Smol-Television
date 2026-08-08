@@ -369,12 +369,22 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
+#EXTINF:-1 tvg-id="BBCArabic" tvg-name="BBC" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="Anh",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCPashto" tvg-name="BBC" tvg-logo="https://i.imgur.com/pYck4bf.png" group-title="Anh",BBC Pashto
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCPersian" tvg-name="BBC" tvg-logo="https://i.imgur.com/C1UvVwi.png" group-title="Anh",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="Anh",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="Anh",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="CNBCUK" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Anh",CNBC UK
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="Anh",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
+#EXTINF:-1 tvg-id="BBCTopgear" tvg-name="BBC" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Anh",Top Gear
+https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31 Hongkong
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
