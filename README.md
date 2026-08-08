@@ -1,6 +1,6 @@
 # Smol-Television
 Đây là cái script IPTV của "cty tnhh một mình tao (mpmnl)"
-Một số đoạn script có lấy từ "https://1.org.vn/bsod999iptv" của BSOD999
+Một số đoạn script có lấy từ "https://tinyurl.com/bsod999iptv" của BSOD999
 Và có thể sẽ update một số code mới
 -----------------------------------------------------------------------
 Truy cập:
