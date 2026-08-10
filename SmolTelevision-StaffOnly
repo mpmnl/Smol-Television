@@ -641,3 +641,10 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Trung Quốc",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
+
+#EXTINF:-1 tvg-id="Rai1" tvg-name="Rai" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Ý",Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2" tvg-name="Rai" tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Ý",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="Rai3" tvg-name="Rai" tvg-logo="https://i.imgur.com/PRmm48E.png" group-title="Ý",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
