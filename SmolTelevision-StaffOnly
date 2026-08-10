@@ -371,14 +371,18 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 #EXTINF:-1 tvg-id="BBCArabic" tvg-name="BBC" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="Anh",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCDrama" tvg-name="BBC" tvg-logo="https://i.imgur.com/prj4pQV.png" group-title="Anh",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="Anh",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="BBFirst" tvg-name="BBC" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="Anh",BBC First
+http://88.212.15.29/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="Anh",BBC News
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCPashto" tvg-name="BBC" tvg-logo="https://i.imgur.com/pYck4bf.png" group-title="Anh",BBC Pashto
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCPersian" tvg-name="BBC" tvg-logo="https://i.imgur.com/C1UvVwi.png" group-title="Anh",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCnews" tvg-name="BBC" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="Anh",BBC News
-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCearth" tvg-name="BBC" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="Anh",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="CNBCUK" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Anh",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="Anh",Reuters
@@ -435,8 +439,10 @@ http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="mbcdj" tvg-name="HLAN" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="Hàn Quốc",MBC Daejeon
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbch" tvg-name="HLCQ" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Hàn Quốc",MBC Chuncheon
+#EXTINF:-1 tvg-id="mbcch" tvg-name="HLCQ" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Hàn Quốc",MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcdg" tvg-name="HLCT" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="Hàn Quốc",MBC Daegu
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="mbcje" tvg-name="HLAJ" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="Hàn Quốc",MBC Jeju
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="mbcmp" tvg-name="HLAM" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="Hàn Quốc",MBC Mokpo
