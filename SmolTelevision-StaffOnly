@@ -661,5 +661,7 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24" tvg-name="Rai" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Ý",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 tvg-id="RaiSports" tvg-name="Rai" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Ý",Rai Sports
+https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="RaiSudtirol" tvg-name="Rai" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Ý",Rai Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
