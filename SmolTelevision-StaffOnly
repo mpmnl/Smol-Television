@@ -349,8 +349,11 @@ https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
-#EXTINF:-1 tvg-id="ArirangRadio" tvg-name="fm" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="FM Radio",Arirang Radio
+
+#EXTINF:-1 tvg-id="ArirangRadio" tvg-name="fm" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Radio Quốc Tế",Arirang Radio
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mbcadfm1" tvg-name="HLAW" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="Radio Quốc Tế",MBC Andong FM 1
+https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -470,9 +473,9 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="Hàn Quốc",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRIW" tvg-name="TVRIW" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
+#EXTINF:-1 tvg-id="TVRIW" tvg-name="TVRI" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRIJakarta" tvg-name="TVRIJ" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
+#EXTINF:-1 tvg-id="TVRIJakarta" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
@@ -589,6 +592,8 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="thairath" tvg-name="thairath" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="Thái",Thairath
 https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="true4u" tvg-name="true4u" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="Thái",True4U
+https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5thai" tvg-name="tv5thai" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thái",TV5 Thailand
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="workpointtv" tvg-name="workpointtv" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thái",Workpoint TV
