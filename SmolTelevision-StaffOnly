@@ -577,6 +577,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-id="mcot" tvg-name="mcot" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Thái",MCOT Thailand
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nbt2" tvg-name="nbt" tvg-logo="https://i.imgur.com/v3ZH8Bl.png" group-title="Thái",NBT 2
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nbtworld" tvg-name="nbt" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="Thái",NBT World
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="one31" tvg-name="one31" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="Thái",One 31
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 #EXTINF:-1 tvg-id="thaiparliament" tvg-name="thaiparliament" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="Thái",Thai Parliament
@@ -587,6 +591,8 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5thai" tvg-name="tv5thai" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thái",TV5 Thailand
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="workpointtv" tvg-name="workpointtv" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thái",Workpoint TV
+https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kctv" tvg-name="kctv" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Triều Tiên",Đài truyền hình TW Triều Tiên
 https://kctv.koryofront.org/stream/index.m3u8
