@@ -393,6 +393,9 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 #EXTINF:-1 tvg-id="BBCTopgear" tvg-name="BBC" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Anh",Top Gear
 https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 
+#EXTINF:-1 tvg-id="DR1" tvg-name="DR" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Đan Mạch",DR1
+https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
+
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31 Hongkong
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 Hongkong
@@ -472,6 +475,11 @@ https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="Hàn Quốc",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUV" tvg-name="" tvg-logo="https://i.imgur.com/qPzmbq3.png" group-title="Iceland",RUV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="RUV2" tvg-name="" tvg-logo="https://i.imgur.com/3U05Z1r.png" group-title="Iceland",RUV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRIW" tvg-name="TVRI" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -652,6 +660,9 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Trung Quốc",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
+
+#EXTINF:-1 tvg-id="ABCTV" tvg-name="ABCau" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Trung Quốc",ABC TV (ABC 1)
+https://c.mjh.nz/abc-nsw.m3u8
 
 #EXTINF:-1 tvg-id="Rai1" tvg-name="Rai" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Ý",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
