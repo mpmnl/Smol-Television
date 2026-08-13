@@ -471,7 +471,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="DasErste" tvg-name="DasErste" tvg-logo="https://i.imgur.com/J0JNHCr.png" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-#EXTINF:-1 tvg-id="AlphaTV" tvg-name="AlphaTV" tvg-logo="https://i.imgur.com/nKfmziO.png" group-title="Greece",Alpha TV
+#EXTINF:-1 tvg-id="AlphaTV" tvg-name="AlphaTV" tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTCosmos" tvg-name="ERTCosmos" tvg-logo="https://i.imgur.com/OoOIpO5.png" group-title="Greece",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
