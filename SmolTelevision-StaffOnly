@@ -548,7 +548,10 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-id="kctv" tvg-name="kctv" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",Đài truyền hình TW Triều Tiên
 https://kctv.koryofront.org/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="South Korea",ABN
+#EXTINF:-1 tvg-id="RossiyaK" tvg-name="RossiyaK" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="South Korea",Rossiya K
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="South Korea",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
