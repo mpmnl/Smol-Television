@@ -511,10 +511,16 @@ https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24" tvg-name="Rai" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italy",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 tvg-id="RaiScuola" tvg-name="Rai" tvg-logo="https://i.imgur.com/IdPFaW0.png" group-title="Italy",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="RaiSports" tvg-name="Rai" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Italy",Rai Sports
 https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="RaiStoria" tvg-name="Rai" tvg-logo="https://i.imgur.com/W4geFzr.png" group-title="Italy",Rai Storia
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-id="RaiSudtirol" tvg-name="Rai" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Italy",Rai Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+#EXTINF:-1 tvg-id="RaiWorldPremium" tvg-name="Rai" tvg-logo="https://i.imgur.com/J4mU5NI.png" group-title="Italy",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
 #EXTINF:-1 tvg-id="cgnjapan" tvg-name="cgnjapan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
@@ -532,6 +538,9 @@ https://tvasahi.mov3.co/hls/tvasahi.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="wnn" tvg-name="wnn" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 tvg-id="RTK3" tvg-name="rtk" tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
 #EXTINF:-1 tvg-id="mrtv" tvg-name="mrtv" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV Myanmar
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
