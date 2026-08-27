@@ -627,6 +627,23 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LA1National" tvg-name="LASpain" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 National
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-id="LA1Canarias" tvg-name="LASpain" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+#EXTINF:-1 tvg-id="LA1Cantalunya" tvg-name="LASpain" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Cantalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+#EXTINF:-1 tvg-id="LA2National" tvg-name="LASpain" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 National
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="LA2Canarias" tvg-name="LASpain" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="24HorasNational" tvg-name="24Horas" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas National
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias" tvg-name="24Horas" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="24HorasCantalunya" tvg-name="24Horas" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas Cantalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+
 #EXTINF:-1 tvg-id="ch3thai" tvg-name="ch3thai" tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 #EXTINF:-1 tvg-id="ch3thai" tvg-name="ch3thai" tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei
