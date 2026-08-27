@@ -558,9 +558,14 @@ https://kctv.koryofront.org/stream/index.m3u8
 #EXTINF:-1 tvg-id="RossiyaK" tvg-name="RossiyaK" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="Slo1" tvg-name="Slo" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="Slovenia",Slo 1
+#EXTINF:-1 tvg-id="CNAOri" tvg-name="CNA" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Slovenia",CNA Original
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Slovenia",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="Slo1" tvg-name="Slo" tvg-logo="https://i.ibb.co/tM85mBwz/tv-slo-1-logo-png-seeklogo-630345.png" group-title="Slovenia",Slo 1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Slo2" tvg-name="Slo" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="Slovenia",Slo 2
+#EXTINF:-1 tvg-id="Slo2" tvg-name="Slo" tvg-logo="https://i.ibb.co/q3L2Bvyw/Logo-of-TV-SLO-2-HD-2012.png" group-title="Slovenia",Slo 2
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
