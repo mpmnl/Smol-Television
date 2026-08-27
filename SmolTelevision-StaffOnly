@@ -372,6 +372,12 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="youtv" tvg-name="youtv" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
+#EXTINF:-1 tvg-id="Armenia1" tvg-name="Armenia" tvg-logo="https://i.ibb.co/VWCXMGH8/ar1.png" group-title="Australia",Armenia 1
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:-1 tvg-id="Armenia2" tvg-name="Armenia" tvg-logo="https://i.ibb.co/WWzRFNYz/ar2.png" group-title="Australia",Armenia 2
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+
 #EXTINF:-1 tvg-id="10BoldDrama" tvg-name="10BoldDrama" tvg-logo="https://i.imgur.com/5bBOGSa.png" group-title="Australia",10 Bold Drama
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="ABCTV" tvg-name="ABCau" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Australia",ABC TV (ABC 1)
