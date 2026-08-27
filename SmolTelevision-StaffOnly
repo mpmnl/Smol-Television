@@ -720,6 +720,25 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="workpointtv" tvg-name="workpointtv" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thailand",Workpoint TV
 https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TRTEBATV" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/VrT5JVk/image.png" group-title="Turkiye",TRT EBA TV
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/VWv1Tvnr/image.png" group-title="Turkiye",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TRTArabi" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/YBWT4FbH/image.png" group-title="Turkiye",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/YB5rP9VH/image.png" group-title="Turkiye",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/sdSpxNxt/image.png" group-title="Turkiye",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRTTk" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="BBCArabic" tvg-name="BBC" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="UK",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCDrama" tvg-name="BBC" tvg-logo="https://i.imgur.com/prj4pQV.png" group-title="UK",BBC Drama
