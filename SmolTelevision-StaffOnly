@@ -377,7 +377,6 @@ https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia2" tvg-name="Armenia" tvg-logo="https://i.ibb.co/WWzRFNYz/ar2.png" group-title="Australia",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 
-
 #EXTINF:-1 tvg-id="10BoldDrama" tvg-name="10BoldDrama" tvg-logo="https://i.imgur.com/5bBOGSa.png" group-title="Australia",10 Bold Drama
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="ABCTV" tvg-name="ABCau" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Australia",ABC TV (ABC 1)
@@ -462,6 +461,8 @@ https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-id="RIKSai" tvg-name="RIKSai" tvg-logo="https://i.imgur.com/svw3YTs.png" group-title="Cyprus",RIK Sai
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SAT7Kids" tvg-name="SAT7Kids" tvg-logo="https://i.ibb.co/ksvMxxCL/sat7.png" group-title="Cyprus",SAT 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="CT24" tvg-name="CT24" tvg-logo="https://i.imgur.com/cbXQET5.png" group-title="Czech",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
