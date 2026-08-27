@@ -659,6 +659,8 @@ https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 #EXTINF:-1 tvg-id="ch3thai" tvg-name="ch3thai" tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei
 https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
 
+#EXTINF:-1 tvg-id="Amarin34" tvg-name="Amarin34" tvg-logo="https://i.ibb.co/tT7fgfkY/Amarin-TV-2015.png" group-title="Thailand",Amarin 34
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ch3thai" tvg-name="ch3thai" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand",CH3 Thailand
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="ch7thai" tvg-name="ch7thai" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="Thailand",CH7 Thailand
@@ -701,6 +703,8 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 #EXTINF:-1 tvg-id="mcot" tvg-name="mcot" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Thailand",MCOT Thailand
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mono29" tvg-name="mono29" tvg-logo="https://i.ibb.co/d4BFZfbW/Mono-29-Logo.png" group-title="Thailand",MONO 29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 #EXTINF:-1 tvg-id="nbt2" tvg-name="nbt" tvg-logo="https://i.imgur.com/v3ZH8Bl.png" group-title="Thailand",NBT 2
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nbtworld" tvg-name="nbt" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="Thailand",NBT World
@@ -713,6 +717,8 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="thairath" tvg-name="thairath" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="Thailand",Thairath
 https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" tvg-logo="https://i.imgur.com/skpvuKq.png" group-title="Thailand",TNN 16
+https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
 #EXTINF:-1 tvg-id="true4u" tvg-name="true4u" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="Thailand",True4U
 https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5thai" tvg-name="tv5thai" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",TV5 Thailand
