@@ -736,11 +736,11 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Avaz" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Avaz
+#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Avaz" tvg-logo="https://i.ibb.co/nNnwbhCM/image.png" group-title="Turkiye",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Kurdi" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Kurdi
+#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Kurdi" tvg-logo="https://i.ibb.co/hFWL6NSY/image.png" group-title="Turkiye",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Turk" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT Turk
+#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Turk" tvg-logo="https://i.ibb.co/sn3DVZD/image.png" group-title="Turkiye",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="UK",BBC Arabic
