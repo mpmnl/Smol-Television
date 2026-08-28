@@ -877,8 +877,14 @@ https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KSAZ" tvg-name="KSAZ-TV 10.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSAZ-TV 10.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBW" tvg-name="KSBW 8.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSBW 8.1
+#EXTINF:-1 tvg-id="KSBW" tvg-name="KSBW 8.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KSBW 8.1
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="KSBY" tvg-name="KSBY 6.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KSBY 6.1
+https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
+#EXTINF:-1 tvg-id="KSHB" tvg-name="KSHB-TV 41.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KSHB-TV 41.1
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-id="KSNV" tvg-name="KSNV 3.1" tvg-logo="https://i.ibb.co/392KF8Bw/KSNV-logo-svg.png" group-title="USA",KSNV 3.1
+https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PBSkids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS KIDS
