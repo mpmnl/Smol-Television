@@ -885,6 +885,8 @@ https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playl
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 #EXTINF:-1 tvg-id="KSNV" tvg-name="KSNV 3.1" tvg-logo="https://i.ibb.co/392KF8Bw/KSNV-logo-svg.png" group-title="USA",KSNV 3.1
 https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KSTP" tvg-name="KSTP-TV 5.1" tvg-logo="https://i.ibb.co/CptrDSNz/images.png" group-title="USA",KSTP-TV 5.1
+https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PBSkids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS KIDS
