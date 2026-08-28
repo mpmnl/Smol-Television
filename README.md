@@ -1,7 +1,6 @@
 # Smol-Television
-Đây là cái script IPTV của "cty tnhh một mình tao (mpmnl)"
-Một số đoạn script có lấy từ "https://tinyurl.com/bsod999iptv" của BSOD999
-Và có thể sẽ update một số code mới
+This is Smol Television, and thats it.
+Special thanks: BSOD999, Myyer, https://iptv-web.app
 -----------------------------------------------------------------------
 Truy cập:
 https://tinyurl.com/SmolTeleV1
@@ -10,7 +9,7 @@ https://raw.githubusercontent.com/mpmnl/Smol-Television/refs/heads/main/SmolTele
 -----------------------------------------------------------------------
 Our social media:
 Youtube: https://www.youtube.com/@Cobemuadong69420
-Discord: https://discord.gg/QYTpnJHkMz
+Discord: mpmnl
 -----------------------------------------------------------------------
 CODE KHÔNG CẦN ĐỌC
 <video src="https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96" controls width="100%"></video>
