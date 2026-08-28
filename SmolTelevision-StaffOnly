@@ -556,6 +556,9 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #EXTINF:-1 tvg-id="RTK3" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
+#EXTINF:-1 tvg-id="OhMuangLao" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muong Lao
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MRTV" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
