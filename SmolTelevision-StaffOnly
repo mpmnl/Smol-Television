@@ -376,6 +376,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia 2" tvg-logo="https://i.ibb.co/chLffdZB/H2channellogo.png" group-title="Armenia",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia News" tvg-logo="https://i.ibb.co/TBpJzf1r/Armenian-news-NEWS-am.png" group-title="Armenia",Armenia News
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 
 #EXTINF:-1 tvg-id="10BoldDrama" tvg-name="10 Bold Drama" tvg-logo="https://i.imgur.com/5bBOGSa.png" group-title="Australia",10 Bold Drama
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
@@ -566,10 +568,27 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-id="OhMuangLao" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bloombergmongol" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:-1 tvg-id="MNB" tvg-name="MNB Family" tvg-logo="https://i.ibb.co/CstQstbs/tnb-family.png" group-title="Mongolia",MNB Family
+https://live.mnb.mn/hls/mnb_family.stream.m3u8
+#EXTINF:-1 tvg-id="MNB" tvg-name="MNB" tvg-logo="https://i.ibb.co/NgQN4ZjT/images.png" group-title="Mongolia",MNB
+https://live.mnb.mn/hls/mnb.stream.m3u8
+#EXTINF:-1 tvg-id="MNB" tvg-name="MNB World" tvg-logo="https://i.ibb.co/7tgb1vm7/img-1.png" group-title="Mongolia",MNB World
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 tvg-id="ParliamentMongol" tvg-name="Parliament TV" tvg-logo="https://i.ibb.co/hJKVcL5c/images.png" group-title="Mongolia",Parliament TV
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="MNC" tvg-name="MNC" tvg-logo="https://i.ibb.co/LdQYRfpr/images-1.png" group-title="Mongolia",MNC
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:-1 tvg-id="MNB" tvg-name="MNB Sport" tvg-logo="https://i.ibb.co/spgfQp8Y/images-2.png" group-title="Mongolia",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
 #EXTINF:-1 tvg-id="MRTV" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 tvg-id="MRTV" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="RossiyaK" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
@@ -670,6 +689,11 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas Cantalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
+
+#EXTINF:-1 tvg-id="Shalom" tvg-name="Shalom TV" tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
+https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNSuri" tvg-name="TBN TV" tvg-logo="https://i.ibb.co/ccRK2jxF/tbn-tv.png" group-title="Suriname",TBN TV
+https://live.suricloud.com/hls/tbntv/index.m3u8
 
 #EXTINF:-1 tvg-id="RSILA2" tvg-name="RSI LA 2" tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
