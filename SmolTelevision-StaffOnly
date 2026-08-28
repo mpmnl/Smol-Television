@@ -408,6 +408,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy" tvg-name="Perviy Informationniy" tvg-logo="https://i.imgur.com/Vy2BQ0M.png" group-title="Belarus",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CFHD" tvg-name="CFHD-DT" tvg-logo="https://i.ibb.co/20HSHJvz/ICI-Montreal.png" group-title="Canada",CFHD-DT
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="CHCO" tvg-name="CHCO-TV" tvg-logo="https://i.ibb.co/WWPbTRhM/CHCTsmall-2017.png" group-title="Canada",CHCO-TV
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-id="CJON" tvg-name="CJON-DT" tvg-logo="https://i.ibb.co/4gZ7C3nC/CJON-TV.png" group-title="Canada",CJON-DT
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV 1" tvg-logo="https://i.imgur.com/pUADIOk.png" group-title="China",CCTV1
 http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV 2" tvg-logo="https://i.imgur.com/VOKucIr.png" group-title="China",CCTV2
