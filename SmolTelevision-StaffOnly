@@ -861,8 +861,24 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8
 https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
 #EXTINF:-1 tvg-id="KOAT" tvg-name="KOAT-TV 7.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KOAT-TV 7.1
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+#EXTINF:-1 tvg-id="KOB" tvg-name="KOB-DT1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KOB-DT1
+https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KOKH" tvg-name="KOKH-TV 25.1" tvg-logo="https://i.ibb.co/q3VVjhTs/Fox.png" group-title="USA",KOKH-TV 25.1
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KOKI" tvg-name="KOKI-TV 23.1" tvg-logo="https://i.ibb.co/kshFCJ9t/koki.png" group-title="USA",KOKI-TV 23.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="KOMO" tvg-name="KOMO-TV 58.1" tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="USA",KOMO-TV 58.1
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KQED" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/vxqfpVyg/pbs.png" group-title="USA",KQED 9.2
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-id="KRIS" tvg-name="KRIS-TV 6.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KRIS-TV 6.1
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-id="KRIV" tvg-name="KRIV 26.1" tvg-logo="https://i.ibb.co/yF4fXk8D/KRIV.png" group-title="USA",KRIV 26.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KSAZ" tvg-name="KSAZ-TV 10.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSAZ-TV 10.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KSBW" tvg-name="KSBW 8.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSBW 8.1
+https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PBSkids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS KIDS
