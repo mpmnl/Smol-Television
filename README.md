@@ -1,12 +1,10 @@
 # Smol-Television
 This is Smol Television, and thats it.
-
-Special thanks: BSOD999, Myyer, https://iptv-web.app
 -----------------------------------------------------------------------
-Truy cập:
-https://tinyurl.com/SmolTeleV1
-HOẶC
-https://raw.githubusercontent.com/mpmnl/Smol-Television/refs/heads/main/SmolTelevision-v1.0
+## Truy cập:
+
+### https://tinyurl.com/SmolTeleV1
+### https://raw.githubusercontent.com/mpmnl/Smol-Television/refs/heads/main/SmolTelevision-v1.0
 -----------------------------------------------------------------------
 Our social media:
 Youtube: https://www.youtube.com/@Cobemuadong69420
