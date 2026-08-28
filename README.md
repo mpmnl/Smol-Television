@@ -1,7 +1,6 @@
 This is Smol Television, and thats it.
 -----------------------------------------------------------------------
 ## Truy cập:
-
 ### https://tinyurl.com/SmolTeleV1
 ### https://raw.githubusercontent.com/mpmnl/Smol-Television/refs/heads/main/SmolTelevision-v1.0
 -----------------------------------------------------------------------
