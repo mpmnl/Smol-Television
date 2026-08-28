@@ -408,6 +408,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy" tvg-name="Perviy Informationniy" tvg-logo="https://i.imgur.com/Vy2BQ0M.png" group-title="Belarus",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AS1P" tvg-name="Arena Sport 1 Pro" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 1 Pro
+https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-id="AS2P" tvg-name="AS2P (No sound)" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",AS2P (No sound)
+https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#EXTINF:-1 tvg-id="AS4" tvg-name="Arena Sport 4" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 4
+https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
+
 #EXTINF:-1 tvg-id="CFHD" tvg-name="CFHD-DT" tvg-logo="https://i.ibb.co/20HSHJvz/ICI-Montreal.png" group-title="Canada",CFHD-DT
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-name="CHCO-TV" tvg-logo="https://i.ibb.co/WWPbTRhM/CHCTsmall-2017.png" group-title="Canada",CHCO-TV
