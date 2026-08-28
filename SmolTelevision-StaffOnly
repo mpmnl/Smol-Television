@@ -821,6 +821,10 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="blob:https://imgur.com/5df09118-9cce-41c9-a6fc-32944066ae3b" group-title="USA",FOX HD
 https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KDBC" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/217KTgXZ/cbs.png" group-title="USA",KDBC 4.1
+https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KQED" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/vxqfpVyg/pbs.png" group-title="USA",KQED 9.2
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PBSkids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS KIDS
