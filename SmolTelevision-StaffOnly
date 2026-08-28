@@ -821,8 +821,46 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="blob:https://imgur.com/5df09118-9cce-41c9-a6fc-32944066ae3b" group-title="USA",FOX HD
 https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KAAL" tvg-name="KAAL 4.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KAAL 4.1
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KATU" tvg-name="KATU 32.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KATU 32.1
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSI" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="USA",KBSI 23.1
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="KCPQ" tvg-name="KCPQ 13.1" tvg-logo="https://i.ibb.co/j9S9kPLV/fox.png" group-title="USA",KCPQ 13.1
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+#EXTINF:-1 tvg-id="KCRA" tvg-name="KCRA-TV 58.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KCRA-TV 58.1
+https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
 #EXTINF:-1 tvg-id="KDBC" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/217KTgXZ/cbs.png" group-title="USA",KDBC 4.1
 https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KDFW" tvg-name="KDFW 4.1" tvg-logo="https://i.ibb.co/q3VVjhTs/Fox.png" group-title="USA",KDFW 4.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KERO" tvg-name="KERO-TV 23.1" tvg-logo="https://i.ibb.co/q3VVjhTs/Fox.png" group-title="USA",KERO-TV 23.1
+https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
+#EXTINF:-1 tvg-id="KEYE" tvg-name="KEYE-TV 42.1" tvg-logo="https://i.ibb.co/q3VVjhTs/Fox.png" group-title="USA",KERO-TV 42.1
+https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KGTV" tvg-name="KGTV 10.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KGTV 10.1
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
+#EXTINF:-1 tvg-id="KGUN" tvg-name="KGUN-TV 9.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KGUN-TV 9.1
+https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
+#EXTINF:-1 tvg-id="KITV" tvg-name="KITV 4.1" tvg-logo="https://i.ibb.co/jqNhKs8/kitv.png" group-title="USA",KITV 4.1
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 tvg-id="KMGH" tvg-name="KMGH-TV 7.1" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="USA",KMGH-TV 7.1
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="KMPH" tvg-name="KMPH-TV 26.1" tvg-logo="https://i.ibb.co/q3VVjhTs/Fox.png" group-title="USA",KMPH-TV 26.1
+https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KMSP" tvg-name="KMSP-DT1" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="USA",KMSP-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KMTV" tvg-name="KMTV-TV 3.1" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",KMTV-TV 3.1
+https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+#EXTINF:-1 tvg-id="KNSD" tvg-name="KNSD 48.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KNSD 48.1
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="KNTV" tvg-name="KNSD 11.1" tvg-logo="https://i.ibb.co/8LdWk6vR/nbc.png" group-title="USA",KNTV 11.1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8
+#EXTINF:-1 tvg-id="KNXV" tvg-name="KNXV-TV 68.1" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="USA",KNXV-TV 68.1
+https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
+#EXTINF:-1 tvg-id="KOAT" tvg-name="KOAT-TV 7.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",KOAT-TV 7.1
+https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
 #EXTINF:-1 tvg-id="KQED" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/vxqfpVyg/pbs.png" group-title="USA",KQED 9.2
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
