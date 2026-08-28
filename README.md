@@ -1,4 +1,3 @@
-# Smol-Television
 This is Smol Television, and thats it.
 -----------------------------------------------------------------------
 ## Truy cập:
@@ -7,6 +6,7 @@ This is Smol Television, and thats it.
 ### https://raw.githubusercontent.com/mpmnl/Smol-Television/refs/heads/main/SmolTelevision-v1.0
 -----------------------------------------------------------------------
 Our social media:
+
 Youtube: https://www.youtube.com/@Cobemuadong69420
 Discord: mpmnl
 -----------------------------------------------------------------------
