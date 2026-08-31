@@ -685,11 +685,11 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="LASpain" tvg-name="LA 2 Canarias" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas National" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas National
+#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas National" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas National
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas Canarias
+#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/0pPX1V3x/images-4.png" group-title="Spain",24 Horas Cantalunya
+#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Cantalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
 #EXTINF:-1 tvg-id="Shalom" tvg-name="Shalom TV" tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
