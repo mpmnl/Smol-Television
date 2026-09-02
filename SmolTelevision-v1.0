@@ -659,7 +659,7 @@ http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="mbcys" tvg-name="HLAT-DTV" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NATV" tvg-name="NATV" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
-https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
+https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 #EXTINF:-1 tvg-id="NBS" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
