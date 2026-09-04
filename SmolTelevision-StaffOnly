@@ -626,15 +626,15 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebs+2" tvg-name="HLQL-DTV (EBS+2)" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="G1Kr" tvg-name="HLCG-DTV" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",G1
+#EXTINF:-1 tvg-id="G1" tvg-name="HLCG-DTV" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GukakTV" tvg-name="HLQA-DTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",GukakTV
+#EXTINF:-1 tvg-id="Gukak" tvg-name="HLQA-DTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GukbangTV" tvg-name="Gukbang TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JIBS" tvg-name="HLKJ-DTV" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",JIBS
+#EXTINF:-1 tvg-id="JIBS" tvg-name="HLKJ-DTV" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="KBCKr" tvg-name="HLDH-DTV" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",KBC
+#EXTINF:-1 tvg-id="KBCKr" tvg-name="HLDH-DTV" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="South Korea",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
@@ -666,11 +666,11 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju Television
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV Jeonjy" tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS Korea" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS Korea
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TV Chosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
+#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
