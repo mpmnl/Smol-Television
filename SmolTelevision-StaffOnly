@@ -923,5 +923,19 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="WCVB" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="USA",WCVB-TV 50.1
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="WGAL" tvg-name="WGAL 8.1" tvg-logo="https://i.imgur.com/q4DRG10.png" group-title="USA,WGAL 8.1
+https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
 #EXTINF:-1 tvg-id="WISN" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",WISN-TV 12.1
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+#EXTINF:-1 tvg-id="WJBK" tvg-name="WJBK 2.1" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="USA",WJBK 2.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WMAR" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+#EXTINF:-1 tvg-id="WMUR" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
+https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXR" tvg-name="WTXR-TV 27.1" tvg-logo="https://i.ibb.co/vCFzsw9y/images.png" group-title="USA",WTXR-TV 27.1
+https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
+#EXTINF:-1 tvg-id="WWAY" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 tvg-id="WXII" tvg-name="WXII-TV 20.1" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="USA",WXII-TV 20.1
+https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
