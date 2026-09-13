@@ -484,7 +484,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DR" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
-https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
+https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/1rUKIf4.png" group-title="France",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
