@@ -372,6 +372,23 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="youtv" tvg-name="YouTV" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
+#EXTINF:-1 tvg-id="CNA Al" tvg-name="CNA Albania" tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News 24 Al" tvg-name="News 24 Albania" tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
+ttps://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVAl" tvg-name="NTV Albania" tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-id="OraNews" tvg-name="Ora News" tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Alabnia",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="Syri" tvg-name="Syri" tvg-logo="https://i.ibb.co/My2Q1qdp/syri.png" group-title="Alabnia",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tropoja" tvg-name="Tropoja Televizon" tvg-logo="https://i.ibb.co/c0HkRGr/tropoja-logo-blu.png" group-title="Albania",Tropoja Televizon
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Johaniter" tvg-name="TV Johaniter" tvg-logo="https://i.ibb.co/Rp9JTynw/tvj.png" group-title="Albania",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="Zjarr" tvg-name="Zjarr TV" tvg-logo="https://i.ibb.co/C3Qzsn84/zjarr.png" group-title="Albania",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia 1" tvg-logo="https://i.ibb.co/VWCXMGH8/ar1.png" group-title="Armenia",Armenia 1
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia 2" tvg-logo="https://i.ibb.co/chLffdZB/H2channellogo.png" group-title="Armenia",Armenia 2
@@ -391,6 +408,13 @@ https://c.mjh.nz/abc-me.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="ABCAu" tvg-name="ABC News 24" tvg-logo="https://i.imgur.com/8nrgBtX.png" group-title="Australia",ABC News 24
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="FS Salzburg" tvg-name="FS1 Salzburg" tvg-logo="https://i.ibb.co/G4NJLswN/image.png" group-title="Austria",FS1 Salzburg
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="Landle" tvg-name="Landle TV" tvg-logo="https://i.ibb.co/zhWG1dGP/landle.png" group-title="Austria",Landle TV
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="R9" tvg-name="R9" tvg-logo="https://i.ibb.co/m5qk4Q8m/r9.png" group-title="Austria",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORF" tvg-name="ORF 1" tvg-logo="https://i.imgur.com/onaPXn1.png" group-title="Austria",ORF 1
 https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
@@ -416,6 +440,11 @@ https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #EXTINF:-1 tvg-id="AS4" tvg-name="Arena Sport 4" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 4
 https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
+
+#EXTINF:-1 tvg-id="TVK" tvg-name="TVK" tvg-logo="https://i.ibb.co/sdsv5bxY/image.png" group-title="Cambodia",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK" tvg-name="TVK2" tvg-logo="https://i.ibb.co/Lh9MPhhB/image.png" group-title="Cambodia",TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CFHD" tvg-name="CFHD-DT" tvg-logo="https://i.ibb.co/20HSHJvz/ICI-Montreal.png" group-title="Canada",CFHD-DT
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -486,13 +515,29 @@ https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DR" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 
+#EXTINF:-1 tvg-id="BFM" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/BHCdtjg2/image.png" group-title="France",BFM 2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="BFM" tvg-name="BFM Business" tvg-logo="https://i.ibb.co/4R2FvJJb/image.png" group-title="France",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/1rUKIf4.png" group-title="France",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://i.imgur.com/nKfmziO.png" group-title="France",France24
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://i.imgur.com/nKfmziO.png" group-title="France",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24 Arab" tvg-logo="https://i.ibb.co/1fg1pGjp/image.png" group-title="France",France 24 Arab
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="TV5MondeChefs" tvg-name="TV5 Monde Chefs" tvg-logo="https://i.ibb.co/yzBRgpS/image.png" group-title="France",TV5 Monde Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 
 #EXTINF:-1 tvg-id="DasErste" tvg-name="Das Erste" tvg-logo="https://i.imgur.com/J0JNHCr.png" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Gold" tvg-logo="https://i.ibb.co/hFq2L2cB/RTL-Gold-LU-2023.png" group-title="Germany",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Letxembourg" tvg-logo="https://i.ibb.co/7N6FDPBs/RTL-L-tzebuerg-2023.png" group-title="Germany",RTL Letxembourg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Radio" tvg-logo="https://i.ibb.co/qFYhVjMP/RTL-Radio-LU-2023.png" group-title="Germany",RTL Radio
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Zwee" tvg-logo="https://i.ibb.co/v6Wgy913/RTL-Zwee-2023.png" group-title="Germany",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlphaTV" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
