@@ -1,0 +1,18 @@
+#EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://onnamx.io.vn/epg.xml" m3uautoload=1
+
+#EXTINF:-1 tvg-id="thainguyen" tvg-name="TN Thái Nguyên" tvg-logo="https://i.imgur.com/BeH7JaA.png" group-title="Địa Phương",TN Thái Nguyên
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
+https://liveh12byt.vtvprime.vn/hls/AFC/02.m3u8
+#EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
+https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV6" tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_480p.m3u8
+#EXTINF:-1 tvg-id="quangninh" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://i.imgur.com/7tPbOJm.png" group-title="Địa Phương",QTV1 Quảng Ninh
+https://liveh12vng.vtvprime.vn/hls/QUANGNINHTV/02.m3u8
+#EXTINF:-1 tvg-id="quangninh" tvg-name="QTV3 Quảng Ninh" tvg-logo="https://i.imgur.com/rN0EFdl.png" group-title="Địa Phương",QTV3 Quảng Ninh
+https://dethich.pw/quangninh3/index.m3u8
+#EXTINF:-1 tvg-id="fm" tvg-name="QNR1 Radio" tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio",QNR1 Radio
+http://103.90.220.236/qtvlive/qnr1.m3u8
+#EXTINF:-1 tvg-id="fm" tvg-name="QNR2 Radio" tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio",QNR2 Radio
+http://103.90.220.236/qtvlive/qnr2.m3u8
