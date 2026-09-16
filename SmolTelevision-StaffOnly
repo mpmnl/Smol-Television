@@ -984,6 +984,20 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WCVB" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="USA",WCVB-TV 50.1
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="WDEF" tvg-name="WDEF-TV 12.1" tvg-logo="https://i.ibb.co/TBSrDv0S/wdef.png" group-title="USA",WDEF-TV 12.1
+https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:-1 tvg-id="WDIO" tvg-name="WDIO-DT 10.1" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" group-title="USA",WDIO-DT 10.1
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WEDQ" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="USA",WEDQ 3.4
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="WFLD" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="USA",WFLD 50.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="WFTX" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="USA",WFTX-TV 36.1
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="WFXT" tvg-name="WFXT 25.1" tvg-logo="https://i.ibb.co/XBJHJVs/wfxt.png" group-title="USA",WFXT 25.1
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 tvg-id="WGBA" tvg-name="WGBA-TV 26.1" tvg-logo="https://i.ibb.co/vxrJ6Gwk/wgba.png" group-title="USA",WGBA-TV 26.1
+https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-id="WGAL" tvg-name="WGAL 8.1" tvg-logo="https://i.ibb.co/v6WpkfmB/wgal.png" group-title="USA,WGAL 8.1
 https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
 #EXTINF:-1 tvg-id="WISN" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
