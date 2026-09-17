@@ -437,7 +437,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AS1P" tvg-name="Arena Sport 1 Pro" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 1 Pro
 https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #EXTINF:-1 tvg-id="AS2P" tvg-name="AS2P (No sound)" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",AS2P (No sound)
-https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
+https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 #EXTINF:-1 tvg-id="AS4" tvg-name="Arena Sport 4" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 4
 https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
 
