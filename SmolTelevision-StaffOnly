@@ -378,9 +378,9 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 ttps://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVAl" tvg-name="NTV Albania" tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-#EXTINF:-1 tvg-id="OraNews" tvg-name="Ora News" tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Alabnia",Ora News
+#EXTINF:-1 tvg-id="OraNews" tvg-name="Ora News" tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Albania",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="Syri" tvg-name="Syri" tvg-logo="https://i.ibb.co/My2Q1qdp/syri.png" group-title="Alabnia",Syri
+#EXTINF:-1 tvg-id="Syri" tvg-name="Syri" tvg-logo="https://i.ibb.co/My2Q1qdp/syri.png" group-title="Albania",Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tropoja" tvg-name="Tropoja Televizon" tvg-logo="https://i.ibb.co/c0HkRGr/tropoja-logo-blu.png" group-title="Albania",Tropoja Televizon
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
