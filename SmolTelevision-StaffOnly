@@ -1018,8 +1018,30 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8
 #EXTINF:-1 tvg-id="WMAR" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+#EXTINF:-1 tvg-id="WMGT" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
+https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
+#EXTINF:-1 tvg-id="WMPT" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPT" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WMUR" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
+#EXTINF:-1 tvg-id="WNBC" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8
+#EXTINF:-1 tvg-id="WNYT" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYW" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="WPTV" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-id="WRC" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8
+#EXTINF:-1 tvg-id="WSBS" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="WSLF" tvg-name="WSLF-LD 35.1" tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+#EXTINF:-1 tvg-id="WSOC" tvg-name="WSOC-TV 9.1" tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
+https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
 #EXTINF:-1 tvg-id="WTXL" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WTXL-TV 27.1
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="WWAY" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
