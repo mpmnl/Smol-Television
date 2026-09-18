@@ -1042,8 +1042,20 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="WSOC" tvg-name="WSOC-TV 9.1" tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXL" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WTXL-TV 27.1
+#EXTINF:-1 tvg-id="WTMO" tvg-name="WTMO-CD 31.1" tvg-logo="https://i.ibb.co/4wfrc4gq/wtmo.png" group-title="USA",WTMO-CD 31.1
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 tvg-id="WTTG" tvg-name="WTTG-DT1" tvg-logo="https://i.ibb.co/70xXynB/wttg.png" group-title="USA",WTTG-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVQ" tvg-name="WTVQ-DT 36.1" tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+#EXTINF:-1 tvg-id="WTVT" tvg-name="WTVT-DT1" tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXF" tvg-name="WTXF-DT1" tvg-logo="https://i.ibb.co/tMnWJZnP/wtxf.png" group-title="USA",WTXF-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXL" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/27h8mF4C/wvit.png" group-title="USA",WTXL-TV 27.1
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
+#EXTINF:-1 tvg-id="WVIT" tvg-name="WVIT-DT1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WVIT-DT1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-id="WWAY" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 #EXTINF:-1 tvg-id="WXII" tvg-name="WXII-TV 20.1" tvg-logo="https://i.ibb.co/tpCJ18rv/wxii.png" group-title="USA",WXII-TV 20.1
