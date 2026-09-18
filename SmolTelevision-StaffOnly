@@ -1,367 +1,367 @@
 #EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://onnamx.io.vn/epg.xml" m3uautoload=1
 
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV1" tvg-logo="https://i.ibb.co/qLD3ZMjb/vtv1.png" group-title="VTV",VTV1
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV1" tvg-logo="https://i.ibb.co/qLD3ZMjb/vtv1.png" group-title="VTV",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV2" tvg-logo="https://i.ibb.co/XG043Pp/vtv2.png" group-title="VTV",VTV2
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV2" tvg-logo="https://i.ibb.co/XG043Pp/vtv2.png" group-title="VTV",VTV2
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV3" tvg-logo="https://i.ibb.co/Ps0mzzgc/vtv3.png" group-title="VTV",VTV3
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV3" tvg-logo="https://i.ibb.co/Ps0mzzgc/vtv3.png" group-title="VTV",VTV3
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV4" tvg-logo="https://i.ibb.co/MDkjc9wb/vtv4.png" group-title="VTV",VTV4
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV4" tvg-logo="https://i.ibb.co/MDkjc9wb/vtv4.png" group-title="VTV",VTV4
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV5" tvg-logo="https://i.ibb.co/x8tJkVhH/vtv5.png" group-title="VTV",VTV5
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV5" tvg-logo="https://i.ibb.co/x8tJkVhH/vtv5.png" group-title="VTV",VTV5
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://i.ibb.co/DH6KZX4W/vtv5tnb.png" group-title="VTV",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://i.ibb.co/DH6KZX4W/vtv5tnb.png" group-title="VTV",VTV5 Tây Nam Bộ
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://i.ibb.co/gLszMrvM/vtv5tn.png" group-title="VTV",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://i.ibb.co/gLszMrvM/vtv5tn.png" group-title="VTV",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV6" tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV6" tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV7" tvg-logo="https://i.ibb.co/27D7BnGr/vtv7.png" group-title="VTV",VTV7
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV7" tvg-logo="https://i.ibb.co/27D7BnGr/vtv7.png" group-title="VTV",VTV7
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV8" tvg-logo="https://i.ibb.co/Y4NSpV6x/vtv8.png" group-title="VTV",VTV8
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV8" tvg-logo="https://i.ibb.co/Y4NSpV6x/vtv8.png" group-title="VTV",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV9" tvg-logo="https://i.ibb.co/G3F3YTcm/vtv9.png" group-title="VTV",VTV9
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV9" tvg-logo="https://i.ibb.co/G3F3YTcm/vtv9.png" group-title="VTV",VTV9
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV10" tvg-logo="https://i.ibb.co/3YCT91S4/vtv10.png" group-title="VTV",VTV10
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV10" tvg-logo="https://i.ibb.co/3YCT91S4/vtv10.png" group-title="VTV",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vntoday" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV",Vietnam Today
+#EXTINF:-1 tvg-id="VN" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="antv" tvg-name="ANTV" tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV
+#EXTINF:-1 tvg-id="VN" tvg-name="ANTV" tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="qpvn" tvg-name="QPVN" tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN
+#EXTINF:-1 tvg-id="VN" tvg-name="QPVN" tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/QVutyeh.png" group-title="VTVCab",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/QVutyeh.png" group-title="VTVCab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/s540jl4.png" group-title="VTVCab",ON Phim Việt
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/s540jl4.png" group-title="VTVCab",ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Sports" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="VTVCab",ON Sports
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="VTVCab",ON Sports
 https://1011154949.vnns.net/CDN-FPT02/THETHAOTV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/b23eYit.png" group-title="VTVCab",ON Movies
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/b23eYit.png" group-title="VTVCab",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/bl7Ypfa.png" group-title="VTVCab",ON E Channel
+#EXTINF:-1 tvg-id="VN" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/bl7Ypfa.png" group-title="VTVCab",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Sports+" tvg-logo="https://i.ibb.co/5WT8FKs3/ons.png" group-title="VTVCab",ON Sports+
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports+" tvg-logo="https://i.ibb.co/5WT8FKs3/ons.png" group-title="VTVCab",ON Sports+
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/Ifbc7Sa.png" group-title="VTVCab",ON O2TV
+#EXTINF:-1 tvg-id="VN" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/Ifbc7Sa.png" group-title="VTVCab",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON BIBI" tvg-logo="https://i.imgur.com/Kf4AjDx.png" group-title="VTVCab",ON BIBI
+#EXTINF:-1 tvg-id="VN" tvg-name="ON BIBI" tvg-logo="https://i.imgur.com/Kf4AjDx.png" group-title="VTVCab",ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jD0DVyL.png" group-title="VTVCab",ON Info TV
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jD0DVyL.png" group-title="VTVCab",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/UfsjWa3.png" group-title="VTVCab",ON Cine
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/UfsjWa3.png" group-title="VTVCab",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="on style tv" tvg-logo="https://i.imgur.com/9tkg2NM.png" group-title="VTVCab",ON Style TV
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Style TV" tvg-logo="https://i.imgur.com/9tkg2NM.png" group-title="VTVCab",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Home Shopping" tvg-logo="https://i.imgur.com/Ut76d1E.png" group-title="VTVCab",ON Home Shopping
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Home Shopping" tvg-logo="https://i.imgur.com/Ut76d1E.png" group-title="VTVCab",ON Home Shopping
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Music" tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Music" tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Football" tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Football" tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/8Q8CJC1.png" group-title="VTVCab",ON Trending TV
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/8Q8CJC1.png" group-title="VTVCab",ON Trending TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Sports News" tvg-logo="https://i.imgur.com/nYDl08h.png" group-title="VTVCab",ON Sports News
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports News" tvg-logo="https://i.imgur.com/nYDl08h.png" group-title="VTVCab",ON Sports News
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Vie Dramas" tvg-logo="https://i.imgur.com/7TaiOYj.png" group-title="VTVCab",ON Vie Dramas
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Vie Dramas" tvg-logo="https://i.imgur.com/7TaiOYj.png" group-title="VTVCab",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON VFamily" tvg-logo="https://i.imgur.com/1vVlld5.png" group-title="VTVCab",ON VFamily
+#EXTINF:-1 tvg-id="VN" tvg-name="ON VFamily" tvg-logo="https://i.imgur.com/1vVlld5.png" group-title="VTVCab",ON VFamily
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Kids" tvg-logo="https://i.imgur.com/5aDTvMr.png" group-title="VTVCab",ON kids
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Kids" tvg-logo="https://i.imgur.com/5aDTvMr.png" group-title="VTVCab",ON kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Life" tvg-logo="https://i.imgur.com/GaTTb4Y.png" group-title="VTVCab",ON Life
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Life" tvg-logo="https://i.imgur.com/GaTTb4Y.png" group-title="VTVCab",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="VTVCab" tvg-name="ON Golf" tvg-logo="https://i.imgur.com/1aDLk1k.png" group-title="VTVCab",ON Golf
+#EXTINF:-1 tvg-id="VN" tvg-name="ON Golf" tvg-logo="https://i.imgur.com/1aDLk1k.png" group-title="VTVCab",ON Golf
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV1" tvg-logo="https://i.imgur.com/aCfuJFN.png" group-title="SCTV",SCTV1
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV1" tvg-logo="https://i.imgur.com/aCfuJFN.png" group-title="SCTV",SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV2" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV2" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV3" tvg-logo="https://i.imgur.com/PNkDBsl.png" group-title="SCTV",SCTV3
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV3" tvg-logo="https://i.imgur.com/PNkDBsl.png" group-title="SCTV",SCTV3
 https://vmttv.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
 https://vmttv.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV5" tvg-logo="https://i.imgur.com/dYTNyTF.png" group-title="SCTV",SCTV5
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV5" tvg-logo="https://i.imgur.com/dYTNyTF.png" group-title="SCTV",SCTV5
 https://vmttv.dpdns.org/VTVGo/?sctv5
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
 https://freem3u.xyz/api/live/play.m3u8?vid=232
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV7" tvg-logo="https://i.imgur.com/ZRZEvK3.png" group-title="SCTV",SCTV7
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV7" tvg-logo="https://i.imgur.com/ZRZEvK3.png" group-title="SCTV",SCTV7
 https://vmttv.dpdns.org/VTVGo/?sctv7
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV8" tvg-logo="https://i.imgur.com/uSEJGrY.png" group-title="SCTV",SCTV8
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV8" tvg-logo="https://i.imgur.com/uSEJGrY.png" group-title="SCTV",SCTV8
 https://vmttv.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV9" tvg-logo="https://i.imgur.com/ThxQXWB.png" group-title="SCTV",SCTV9
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV9" tvg-logo="https://i.imgur.com/ThxQXWB.png" group-title="SCTV",SCTV9
 https://vmttv.dpdns.org/VTVGo/?sctv9
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/wl6NUaR.png" group-title="SCTV",SCTV10
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV10" tvg-logo="https://i.imgur.com/wl6NUaR.png" group-title="SCTV",SCTV10
 https://vmttv.dpdns.org/VTVGo/?sctv10
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV11" tvg-logo="https://i.imgur.com/z7hQKkE.png" group-title="SCTV",SCTV11
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV11" tvg-logo="https://i.imgur.com/z7hQKkE.png" group-title="SCTV",SCTV11
 https://vmttv.dpdns.org/VTVGo/?sctv11
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV12" tvg-logo="https://i.imgur.com/rgmYZs4.png" group-title="SCTV",SCTV12
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV12" tvg-logo="https://i.imgur.com/rgmYZs4.png" group-title="SCTV",SCTV12
 https://vmttv.dpdns.org/VTVGo/?sctv12
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV13" tvg-logo="https://i.imgur.com/3HYPJL7.png" group-title="SCTV",SCTV13
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV13" tvg-logo="https://i.imgur.com/3HYPJL7.png" group-title="SCTV",SCTV13
 https://vmttv.dpdns.org/VTVGo/?sctv13
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV14" tvg-logo="https://i.imgur.com/Hr75B0C.png" group-title="SCTV",SCTV14
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV14" tvg-logo="https://i.imgur.com/Hr75B0C.png" group-title="SCTV",SCTV14
 https://vmttv.dpdns.org/VTVGo/?sctv14
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/KdeWeFW.png" group-title="SCTV",SCTV15
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/KdeWeFW.png" group-title="SCTV",SCTV15
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV16" tvg-logo="https://i.imgur.com/dVj17dD.png" group-title="SCTV",SCTV16
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV16" tvg-logo="https://i.imgur.com/dVj17dD.png" group-title="SCTV",SCTV16
 https://vmttv.dpdns.org/VTVGo/?sctv16
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/LfcO93p.png" group-title="SCTV",SCTV17
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/LfcO93p.png" group-title="SCTV",SCTV17
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV18" tvg-logo="https://i.ibb.co/jPPHzSfn/s18.png" group-title="SCTV",SCTV18
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV18" tvg-logo="https://i.ibb.co/jPPHzSfn/s18.png" group-title="SCTV",SCTV18
 https://vmttv.dpdns.org/VTVGo/?sctv18
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV19" tvg-logo="https://i.imgur.com/wg3iif7.png" group-title="SCTV",SCTV19
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV19" tvg-logo="https://i.imgur.com/wg3iif7.png" group-title="SCTV",SCTV19
 https://vmttv.dpdns.org/VTVGo/?sctv19
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV20" tvg-logo="https://i.ibb.co/YFqD43xf/s20.png" group-title="SCTV",SCTV20
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV20" tvg-logo="https://i.ibb.co/YFqD43xf/s20.png" group-title="SCTV",SCTV20
 https://vmttv.dpdns.org/VTVGo/?sctv20
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV21" tvg-logo="https://i.imgur.com/uiuEuLW.png" group-title="SCTV",SCTV21
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV21" tvg-logo="https://i.imgur.com/uiuEuLW.png" group-title="SCTV",SCTV21
 https://vmttv.dpdns.org/VTVGo/?sctv21
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/0tu6v5X.png" group-title="SCTV",SCTV22
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/0tu6v5X.png" group-title="SCTV",SCTV22
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV 4K" tvg-logo="https://i.imgur.com/eQVMAur.png" group-title="SCTV",SCTV 4K
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV 4K" tvg-logo="https://i.imgur.com/eQVMAur.png" group-title="SCTV",SCTV 4K
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV PHIM" tvg-logo="https://i.imgur.com/6XAy6Qx.png" group-title="SCTV",SCTV PHIM
+#EXTINF:-1 tvg-id="VN" tvg-name="SCTV PHIM" tvg-logo="https://i.imgur.com/6XAy6Qx.png" group-title="SCTV",SCTV PHIM
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV2" tvg-logo="https://i.imgur.com/USSjd2t.png" group-title="HTV",HTV2
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV2" tvg-logo="https://i.imgur.com/USSjd2t.png" group-title="HTV",HTV2
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV3" tvg-logo="https://i.imgur.com/BmnUMzp.png" group-title="HTV",HTV3
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV3" tvg-logo="https://i.imgur.com/BmnUMzp.png" group-title="HTV",HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV4" tvg-logo="https://i.imgur.com/jjba3MA.png" group-title="HTV",HTV4
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV4" tvg-logo="https://i.imgur.com/jjba3MA.png" group-title="HTV",HTV4
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV5" tvg-logo="https://i.imgur.com/QsIHoHU.png" group-title="HTV",HTV5
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV5" tvg-logo="https://i.imgur.com/QsIHoHU.png" group-title="HTV",HTV5
 https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV7" tvg-logo="https://i.imgur.com/xmCKCkt.png" group-title="HTV",HTV7
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV7" tvg-logo="https://i.imgur.com/xmCKCkt.png" group-title="HTV",HTV7
 https://live-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV Thể Thao" tvg-logo="https://i.imgur.com/BD0Nf6Q.png" group-title="HTV",HTV Thể Thao
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV Thể Thao" tvg-logo="https://i.imgur.com/BD0Nf6Q.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV9" tvg-logo="https://i.imgur.com/w0fLn3U.png" group-title="HTV",HTV9
+#EXTINF:-1 tvg-id="VN" tvg-name="HTV9" tvg-logo="https://i.imgur.com/w0fLn3U.png" group-title="HTV",HTV9
 https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Gia Đình" tvg-logo="https://i.imgur.com/NRKIy8C.png" group-title="HTVC",HTVC Gia Đình
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Gia Đình" tvg-logo="https://i.imgur.com/NRKIy8C.png" group-title="HTVC",HTVC Gia Đình
 https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.imgur.com/swhqzBS.png" group-title="HTVC",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.imgur.com/swhqzBS.png" group-title="HTVC",HTVC Thuần Việt
 https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Phim" tvg-logo="https://i.imgur.com/SYq0jTw.png" group-title="HTVC",HTVC Phim
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Phim" tvg-logo="https://i.imgur.com/SYq0jTw.png" group-title="HTVC",HTVC Phim
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.imgur.com/S0w4S3C.png" group-title="HTVC",HTVC Ca Nhạc
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.imgur.com/S0w4S3C.png" group-title="HTVC",HTVC Ca Nhạc
 https://dethich.pw/htvccanhac/index.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Plus" tvg-logo="https://i.imgur.com/8X6ULPE.png" group-title="HTVC",HTVC Plus
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Plus" tvg-logo="https://i.imgur.com/8X6ULPE.png" group-title="HTVC",HTVC Plus
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVC" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://i.imgur.com/EEEtRNA.png" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
+#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://i.imgur.com/EEEtRNA.png" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="THVL" tvg-name="THVL1" tvg-logo="https://i.imgur.com/p3q1Olc.png" group-title="THVL",THVL1
+#EXTINF:-1 tvg-id="VN" tvg-name="THVL1" tvg-logo="https://i.imgur.com/p3q1Olc.png" group-title="THVL",THVL1
 https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="THVL" tvg-name="THVL2" tvg-logo="https://i.imgur.com/O50BDwv.png" group-title="THVL",THVL2
+#EXTINF:-1 tvg-id="VN" tvg-name="THVL2" tvg-logo="https://i.imgur.com/O50BDwv.png" group-title="THVL",THVL2
 https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="THVL" tvg-name="THVL3" tvg-logo="https://i.imgur.com/qE8Mo0g.png" group-title="THVL",THVL3
+#EXTINF:-1 tvg-id="VN" tvg-name="THVL3" tvg-logo="https://i.imgur.com/qE8Mo0g.png" group-title="THVL",THVL3
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="THVL" tvg-name="THVL4" tvg-logo="https://i.imgur.com/hvvuSAz.png" group-title="THVL",THVL4
+#EXTINF:-1 tvg-id="VN" tvg-name="THVL4" tvg-logo="https://i.imgur.com/hvvuSAz.png" group-title="THVL",THVL4
 https://freem3u.xyz/api/live/play.m3u8?vid=220
-#EXTINF:-1 tvg-id="THVL" tvg-name="THVL5" tvg-logo="https://i.imgur.com/T0Pf0dn.png" group-title="THVL",THVL5
+#EXTINF:-1 tvg-id="VN" tvg-name="THVL5" tvg-logo="https://i.imgur.com/T0Pf0dn.png" group-title="THVL",THVL5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 
-#EXTINF:-1 tvg-id="angiang" tvg-name="ATV1 An Giang" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Địa Phương",ATV1 An Giang
+#EXTINF:-1 tvg-id="VN" tvg-name="ATV1 An Giang" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Địa Phương",ATV1 An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang" tvg-name="ATV2 An Giang" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Địa Phương",ATV2 An Giang
+#EXTINF:-1 tvg-id="VN" tvg-name="ATV2 An Giang" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Địa Phương",ATV2 An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=35
-#EXTINF:-1 tvg-id="angiang" tvg-name="ATV3 An Giang" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Địa Phương",ATV3 An Giang
+#EXTINF:-1 tvg-id="VN" tvg-name="ATV3 An Giang" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Địa Phương",ATV3 An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://i.imgur.com/sQbFfK8.png" group-title="Địa Phương",BTV Bắc Ninh
+#EXTINF:-1 tvg-id="VN" tvg-name="BTV Bắc Ninh" tvg-logo="https://i.imgur.com/sQbFfK8.png" group-title="Địa Phương",BTV Bắc Ninh
 https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhthuan" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình Thuận
+#EXTINF:-1 tvg-id="VN" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình Thuận
 https://freem3u.xyz/api/live/play.m3u8?vid=9838
-#EXTINF:-1 tvg-id="camau" tvg-name="CTV Cà Mau" tvg-logo="https://i.imgur.com/R0skSVV.png" group-title="Địa Phương",CTV Cà Mau
+#EXTINF:-1 tvg-id="VN" tvg-name="CTV Cà Mau" tvg-logo="https://i.imgur.com/R0skSVV.png" group-title="Địa Phương",CTV Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
-#EXTINF:-1 tvg-id="caobang" tvg-name="CRTV Cao Bằng" tvg-logo="https://i.imgur.com/RRDjNzr.png" group-title="Địa Phương",CRTV Cao Bằng
+#EXTINF:-1 tvg-id="VN" tvg-name="CRTV Cao Bằng" tvg-logo="https://i.imgur.com/RRDjNzr.png" group-title="Địa Phương",CRTV Cao Bằng
 https://freem3u.xyz/api/live/play.m3u8?vid=48
-#EXTINF:-1 tvg-id="cantho" tvg-name="Cần Thơ 1" tvg-logo="https://i.imgur.com/yIJ6vny.png" group-title="Địa Phương",Cần Thơ 1
+#EXTINF:-1 tvg-id="VN" tvg-name="Cần Thơ 1" tvg-logo="https://i.imgur.com/yIJ6vny.png" group-title="Địa Phương",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="cantho" tvg-name="Cần Thơ 2" tvg-logo="https://i.imgur.com/DAnw7ab.png" group-title="Địa Phương",Cần Thơ 2
+#EXTINF:-1 tvg-id="VN" tvg-name="Cần Thơ 2" tvg-logo="https://i.imgur.com/DAnw7ab.png" group-title="Địa Phương",Cần Thơ 2
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="cantho" tvg-name="Cần Thơ 3" tvg-logo="https://i.imgur.com/KstqEe3.png" group-title="Địa Phương",Cần Thơ 3
+#EXTINF:-1 tvg-id="VN" tvg-name="Cần Thơ 3" tvg-logo="https://i.imgur.com/KstqEe3.png" group-title="Địa Phương",Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang" tvg-name="DNRT1 Đà Nẵng" tvg-logo="https://i.imgur.com/9Yi2DY5.png" group-title="Địa Phương",DNRT1 Đà Nẵng
+#EXTINF:-1 tvg-id="VN" tvg-name="DNRT1 Đà Nẵng" tvg-logo="https://i.imgur.com/9Yi2DY5.png" group-title="Địa Phương",DNRT1 Đà Nẵng
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang" tvg-name="DNRT2 Đà Nẵng" tvg-logo="https://i.imgur.com/AwSQ6zi.png" group-title="Địa Phương",DNRT2 Đà Nẵng
+#EXTINF:-1 tvg-id="VN" tvg-name="DNRT2 Đà Nẵng" tvg-logo="https://i.imgur.com/AwSQ6zi.png" group-title="Địa Phương",DNRT2 Đà Nẵng
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="daklak" tvg-name="ĐRT Đắk Lắk" tvg-logo="https://i.imgur.com/0bgXxdY.png" group-title="Địa Phương",ĐRT Đắk Lắk
+#EXTINF:-1 tvg-id="VN" tvg-name="ĐRT Đắk Lắk" tvg-logo="https://i.imgur.com/0bgXxdY.png" group-title="Địa Phương",ĐRT Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
-#EXTINF:-1 tvg-id="dienbien" tvg-name="ĐTV Điện Biên" tvg-logo="https://i.imgur.com/roSAkrQ.png" group-title="Địa Phương",ĐTV Điện Biên
+#EXTINF:-1 tvg-id="VN" tvg-name="ĐTV Điện Biên" tvg-logo="https://i.imgur.com/roSAkrQ.png" group-title="Địa Phương",ĐTV Điện Biên
 https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongnai" tvg-name="ĐNNRTV1 Đồng Nai" tvg-logo="https://i.imgur.com/X1A4zje.png" group-title="Địa Phương",ĐNNRTV1 Đồng Nai
+#EXTINF:-1 tvg-id="VN" tvg-name="ĐNNRTV1 Đồng Nai" tvg-logo="https://i.imgur.com/X1A4zje.png" group-title="Địa Phương",ĐNNRTV1 Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=53
-#EXTINF:-1 tvg-id="dongnai" tvg-name="ĐNNRTV2 Đồng Nai" tvg-logo="https://i.imgur.com/xfJP5kS.png" group-title="Địa Phương",ĐNNRTV2 Đồng Nai
+#EXTINF:-1 tvg-id="VN" tvg-name="ĐNNRTV2 Đồng Nai" tvg-logo="https://i.imgur.com/xfJP5kS.png" group-title="Địa Phương",ĐNNRTV2 Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
-#EXTINF:-1 tvg-id="dongnai" tvg-name="ĐNNRTV3 Đồng Nai" tvg-logo="https://i.imgur.com/1T7EJvo.png" group-title="Địa Phương",ĐNNRTV3 Đồng Nai
+#EXTINF:-1 tvg-id="VN" tvg-name="ĐNNRTV3 Đồng Nai" tvg-logo="https://i.imgur.com/1T7EJvo.png" group-title="Địa Phương",ĐNNRTV3 Đồng Nai
 https://dethich.pw/dongnai3/index.m3u8
-#EXTINF:-1 tvg-id="dongthap" tvg-name="THĐT1 Đồng Tháp" tvg-logo="https://i.imgur.com/Vtgi2AM.png" group-title="Địa Phương",THĐT1 Đồng Tháp
+#EXTINF:-1 tvg-id="VN" tvg-name="THĐT1 Đồng Tháp" tvg-logo="https://i.imgur.com/Vtgi2AM.png" group-title="Địa Phương",THĐT1 Đồng Tháp
 https://freem3u.xyz/api/live/play.m3u8?vid=54
-#EXTINF:-1 tvg-id="dongthap" tvg-name="THĐT2 Đồng Tháp" tvg-logo="https://i.imgur.com/36ztRr9.png" group-title="Địa Phương",THĐT2 Đồng Tháp
+#EXTINF:-1 tvg-id="VN" tvg-name="THĐT2 Đồng Tháp" tvg-logo="https://i.imgur.com/36ztRr9.png" group-title="Địa Phương",THĐT2 Đồng Tháp
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="gialai" tvg-name="GTV Gia Lai" tvg-logo="https://i.imgur.com/x7VnrPh.png" group-title="Địa Phương",GTV Gia Lai
+#EXTINF:-1 tvg-id="VN" tvg-name="GTV Gia Lai" tvg-logo="https://i.imgur.com/x7VnrPh.png" group-title="Địa Phương",GTV Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoi" tvg-name="HanoiTV1 Hà Nội" tvg-logo="https://i.imgur.com/WJfYbqX.png" group-title="Địa Phương",HanoiTV1 Hà Nội
+#EXTINF:-1 tvg-id="VN" tvg-name="HanoiTV1 Hà Nội" tvg-logo="https://i.imgur.com/WJfYbqX.png" group-title="Địa Phương",HanoiTV1 Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
-#EXTINF:-1 tvg-id="hanoi" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://i.imgur.com/iPPLn2L.png" group-title="Địa Phương",HanoiTV2 Hà Nội
+#EXTINF:-1 tvg-id="VN" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://i.imgur.com/iPPLn2L.png" group-title="Địa Phương",HanoiTV2 Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=34
-#EXTINF:-1 tvg-id="hatinh" tvg-name="BHTTV Hà Tĩnh" tvg-logo="https://i.imgur.com/iyxy4uD.png" group-title="Địa Phương",BHTTV Hà Tĩnh
+#EXTINF:-1 tvg-id="VN" tvg-name="BHTTV Hà Tĩnh" tvg-logo="https://i.imgur.com/iyxy4uD.png" group-title="Địa Phương",BHTTV Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
-#EXTINF:-1 tvg-id="haiphong" tvg-name="THP Hải Phòng" tvg-logo="https://i.imgur.com/bFNNpmr.png" group-title="Địa Phương",THP Hải Phòng
+#EXTINF:-1 tvg-id="VN" tvg-name="THP Hải Phòng" tvg-logo="https://i.imgur.com/bFNNpmr.png" group-title="Địa Phương",THP Hải Phòng
 https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiphong3" tvg-name="THP3 Hải Phòng" tvg-logo="https://i.imgur.com/Qd1xxPt.png" group-title="Địa Phương",THP3 Hải Phòng
+#EXTINF:-1 tvg-id="VN" tvg-name="THP3 Hải Phòng" tvg-logo="https://i.imgur.com/Qd1xxPt.png" group-title="Địa Phương",THP3 Hải Phòng
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-id="hue" tvg-name="HuếTV Huế" tvg-logo="https://i.imgur.com/y0elTRN.png" group-title="Địa Phương",HuếTV Huế
+#EXTINF:-1 tvg-id="VN" tvg-name="HuếTV Huế" tvg-logo="https://i.imgur.com/y0elTRN.png" group-title="Địa Phương",HuếTV Huế
 https://freem3u.xyz/api/live/play.m3u8?vid=63
-#EXTINF:-1 tvg-id="hungyen" tvg-name="HYTV Hưng Yên" tvg-logo="https://i.imgur.com/APl3iwE.png" group-title="Địa Phương",HYTV Hưng Yên
+#EXTINF:-1 tvg-id="VN" tvg-name="HYTV Hưng Yên" tvg-logo="https://i.imgur.com/APl3iwE.png" group-title="Địa Phương",HYTV Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" tvg-name="KTV Khánh Hòa" tvg-logo="https://i.imgur.com/gHSsxFV.png" group-title="Địa Phương",KTV Khánh Hòa
+#EXTINF:-1 tvg-id="VN" tvg-name="KTV Khánh Hòa" tvg-logo="https://i.imgur.com/gHSsxFV.png" group-title="Địa Phương",KTV Khánh Hòa
 https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
-#EXTINF:-1 tvg-id="khanhhoa" tvg-name="KTV1 Khánh Hòa" tvg-logo="https://i.imgur.com/QdI6CVj.png" group-title="Địa Phương",KTV1 Khánh Hòa
+#EXTINF:-1 tvg-id="VN" tvg-name="KTV1 Khánh Hòa" tvg-logo="https://i.imgur.com/QdI6CVj.png" group-title="Địa Phương",KTV1 Khánh Hòa
 https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
-#EXTINF:-1 tvg-id="laichau" tvg-name="LTV Lai Châu" tvg-logo="https://i.imgur.com/45B3pgZ.png" group-title="Địa Phương",LTV Lai Châu
+#EXTINF:-1 tvg-id="VN" tvg-name="LTV Lai Châu" tvg-logo="https://i.imgur.com/45B3pgZ.png" group-title="Địa Phương",LTV Lai Châu
 https://freem3u.xyz/api/live/play.m3u8?vid=68
-#EXTINF:-1 tvg-id="langson" tvg-name="LSTV Lạng Sơn" tvg-logo="https://i.imgur.com/sm3E8Wi.png" group-title="Địa Phương",LSTV Lạng Sơn
+#EXTINF:-1 tvg-id="VN" tvg-name="LSTV Lạng Sơn" tvg-logo="https://i.imgur.com/sm3E8Wi.png" group-title="Địa Phương",LSTV Lạng Sơn
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:-1 tvg-id="laocai" tvg-name="THLC Lào Cai" tvg-logo="https://i.imgur.com/PSYibwY.png" group-title="Địa Phương",THLC Lào Cai
+#EXTINF:-1 tvg-id="VN" tvg-name="THLC Lào Cai" tvg-logo="https://i.imgur.com/PSYibwY.png" group-title="Địa Phương",THLC Lào Cai
 https://live.baolaocai.vn/channel2/stream.m3u8?t=0
-#EXTINF:-1 tvg-id="lamdong" tvg-name="LTV1 Lâm Đồng" tvg-logo="https://i.imgur.com/pYmtqTb.png" group-title="Địa Phương",LTV1 Lâm Đồng
+#EXTINF:-1 tvg-id="VN" tvg-name="LTV1 Lâm Đồng" tvg-logo="https://i.imgur.com/pYmtqTb.png" group-title="Địa Phương",LTV1 Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:-1 tvg-id="lamdong" tvg-name="LTV2 Lâm Đồng" tvg-logo="https://i.imgur.com/8Qkl3Jl.png" group-title="Địa Phương",LTV2 Lâm Đồng
+#EXTINF:-1 tvg-id="VN" tvg-name="LTV2 Lâm Đồng" tvg-logo="https://i.imgur.com/8Qkl3Jl.png" group-title="Địa Phương",LTV2 Lâm Đồng
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="lamdong" tvg-name="LTV3 Lâm Đồng" tvg-logo="https://i.imgur.com/jv17izG.png" group-title="Địa Phương",LTV3 Lâm Đồng
+#EXTINF:-1 tvg-id="VN" tvg-name="LTV3 Lâm Đồng" tvg-logo="https://i.imgur.com/jv17izG.png" group-title="Địa Phương",LTV3 Lâm Đồng
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w657747510_b3128000_sleng.m3u8
-#EXTINF:-1 tvg-id="nghean" tvg-name="NTV Nghệ An" tvg-logo="https://i.imgur.com/JLapNmK.png" group-title="Địa Phương",NTV Nghệ An
+#EXTINF:-1 tvg-id="VN" tvg-name="NTV Nghệ An" tvg-logo="https://i.imgur.com/JLapNmK.png" group-title="Địa Phương",NTV Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV Ninh Bình" tvg-logo="https://i.imgur.com/DWUKdWB.png" group-title="Địa Phương",NBTV Ninh Bình
+#EXTINF:-1 tvg-id="VN" tvg-name="NBTV Ninh Bình" tvg-logo="https://i.imgur.com/DWUKdWB.png" group-title="Địa Phương",NBTV Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-id="phutho" tvg-name="PTV Phú Thọ" tvg-logo="https://i.imgur.com/WBPJuYR.png" group-title="Địa Phương",PTV Phú Thọ
+#EXTINF:-1 tvg-id="VN" tvg-name="PTV Phú Thọ" tvg-logo="https://i.imgur.com/WBPJuYR.png" group-title="Địa Phương",PTV Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
-#EXTINF:-1 tvg-id="quangngai" tvg-name="QNGTV1 Quảng Ngãi" tvg-logo="https://i.imgur.com/jI8ChtA.png" group-title="Địa Phương",QNGTV1 Quảng Ngãi
+#EXTINF:-1 tvg-id="VN" tvg-name="QNGTV1 Quảng Ngãi" tvg-logo="https://i.imgur.com/jI8ChtA.png" group-title="Địa Phương",QNGTV1 Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangngai" tvg-name="QNGTV2 Quảng Ngãi" tvg-logo="https://i.imgur.com/NCp8CIr.png" group-title="Địa Phương",QNGTV2 Quảng Ngãi
+#EXTINF:-1 tvg-id="VN" tvg-name="QNGTV2 Quảng Ngãi" tvg-logo="https://i.imgur.com/NCp8CIr.png" group-title="Địa Phương",QNGTV2 Quảng Ngãi
 https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangtri" tvg-name="QTTV Quảng Trị" tvg-logo="https://i.imgur.com/afkiXHC.png" group-title="Địa Phương",QTTV Quảng Trị
+#EXTINF:-1 tvg-id="VN" tvg-name="QTTV Quảng Trị" tvg-logo="https://i.imgur.com/afkiXHC.png" group-title="Địa Phương",QTTV Quảng Trị
 https://freem3u.xyz/api/live/play.m3u8?vid=83
-#EXTINF:-1 tvg-id="quangninh" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://i.imgur.com/7tPbOJm.png" group-title="Địa Phương",QTV1 Quảng Ninh
+#EXTINF:-1 tvg-id="VN" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://i.imgur.com/7tPbOJm.png" group-title="Địa Phương",QTV1 Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninh" tvg-name="QTV3 Quảng Ninh" tvg-logo="https://i.imgur.com/rN0EFdl.png" group-title="Địa Phương",QTV3 Quảng Ninh
+#EXTINF:-1 tvg-id="VN" tvg-name="QTV3 Quảng Ninh" tvg-logo="https://i.imgur.com/rN0EFdl.png" group-title="Địa Phương",QTV3 Quảng Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=134
-#EXTINF:-1 tvg-id="sonla" tvg-name="STV Sơn La" tvg-logo="https://i.imgur.com/6eOeZab.png" group-title="Địa Phương",STV Sơn La
+#EXTINF:-1 tvg-id="VN" tvg-name="STV Sơn La" tvg-logo="https://i.imgur.com/6eOeZab.png" group-title="Địa Phương",STV Sơn La
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
-#EXTINF:-1 tvg-id="tayninh" tvg-name="TN Tây Ninh" tvg-logo="https://i.imgur.com/zIGcPTS.png" group-title="Địa Phương",TN Tây Ninh
+#EXTINF:-1 tvg-id="VN" tvg-name="TN Tây Ninh" tvg-logo="https://i.imgur.com/zIGcPTS.png" group-title="Địa Phương",TN Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:-1 tvg-id="thainguyen" tvg-name="TN Thái Nguyên" tvg-logo="https://i.imgur.com/BeH7JaA.png" group-title="Địa Phương",TN Thái Nguyên
+#EXTINF:-1 tvg-id="VN" tvg-name="TN Thái Nguyên" tvg-logo="https://i.imgur.com/BeH7JaA.png" group-title="Địa Phương",TN Thái Nguyên
 https://freem3u.xyz/api/live/play.m3u8?vid=88
-#EXTINF:-1 tvg-id="thanhhoa" tvg-name="TTV Thanh Hóa" tvg-logo="https://i.imgur.com/JE5QhxX.png group-title="Địa Phương",TTV Thanh Hóa
+#EXTINF:-1 tvg-id="VN" tvg-name="TTV Thanh Hóa" tvg-logo="https://i.imgur.com/JE5QhxX.png group-title="Địa Phương",TTV Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV Tuyên Quang" tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
+#EXTINF:-1 tvg-id="VN" tvg-name="TTV Tuyên Quang" tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV1" tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio",VOV1
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV1" tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio",VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV2" tvg-logo="https://i.imgur.com/6jIOwIQ.png" group-title="FM Radio",VOV2
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV2" tvg-logo="https://i.imgur.com/6jIOwIQ.png" group-title="FM Radio",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV3" tvg-logo="https://i.imgur.com/04RJ0Oa.png" group-title="FM Radio",VOV3
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV3" tvg-logo="https://i.imgur.com/04RJ0Oa.png" group-title="FM Radio",VOV3
 https://audio-lss.vov.vn/live/vov3.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV4" tvg-logo="https://i.imgur.com/kk5HSvf.png" group-title="FM Radio",VOV4
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV4" tvg-logo="https://i.imgur.com/kk5HSvf.png" group-title="FM Radio",VOV4
 https://audio-lss.vov.vn/live/vov4.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV5" tvg-logo="https://i.imgur.com/eRu9cvG.png" group-title="FM Radio",VOV5
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV5" tvg-logo="https://i.imgur.com/eRu9cvG.png" group-title="FM Radio",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV6" tvg-logo="https://i.imgur.com/WyXBgoH.png" group-title="FM Radio",VOV6
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV6" tvg-logo="https://i.imgur.com/WyXBgoH.png" group-title="FM Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV Giao Thông Hà Nội" tvg-logo="https://i.imgur.com/6TZnQQb.png" group-title="FM Radio",VOV Giao Thông Hà Nội
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV Giao Thông Hà Nội" tvg-logo="https://i.imgur.com/6TZnQQb.png" group-title="FM Radio",VOV Giao Thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV Giao Thông Hồ Chí Minh" tvg-logo="https://i.imgur.com/W4h0QwZ.png" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV Giao Thông Hồ Chí Minh" tvg-logo="https://i.imgur.com/W4h0QwZ.png" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vov" tvg-name="VOV Giao Thông" tvg-logo="https://i.imgur.com/Ayq2XBv.png" group-title="FM Radio",VOV Giao Thông
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOV Giao Thông" tvg-logo="https://i.imgur.com/Ayq2XBv.png" group-title="FM Radio",VOV Giao Thông
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
-#EXTINF:-1 tvg-id="voh" tvg-name="VOH 99.9" tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio",VOH 99.9
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOH 99.9" tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio",VOH 99.9
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
-#EXTINF:-1 tvg-id="voh" tvg-name="VOH 95.6" tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio",VOH 95.6
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOH 95.6" tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio",VOH 95.6
 https://freem3u.xyz/api/live/play.m3u8?vid=10039
-#EXTINF:-1 tvg-id="voh" tvg-name="VOH 610" tvg-logo="https://i.imgur.com/8PjxF7o.png" group-title="FM Radio",VOH 610
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOH 610" tvg-logo="https://i.imgur.com/8PjxF7o.png" group-title="FM Radio",VOH 610
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
-#EXTINF:-1 tvg-id="voh" tvg-name="VOH 87.7" tvg-logo="https://i.imgur.com/qXDDkxN.jpeg" group-title="FM Radio",VOH 87.7
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOH 87.7" tvg-logo="https://i.imgur.com/qXDDkxN.jpeg" group-title="FM Radio",VOH 87.7
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
-#EXTINF:-1 tvg-id="voh" tvg-name="VOH 92-92.5" tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio",VOH 92-92.5
+#EXTINF:-1 tvg-id="RADIO" tvg-name="VOH 92-92.5" tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio",VOH 92-92.5
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
-#EXTINF:-1 tvg-id="fm" tvg-name="FM90" tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio",FM90
+#EXTINF:-1 tvg-id="RADIO" tvg-name="FM90" tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio",FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-id="fm" tvg-name="FM96" tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio",FM96
+#EXTINF:-1 tvg-id="RADIO" tvg-name="FM96" tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio",FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
-#EXTINF:-1 tvg-id="fm" tvg-name="Cà Mau Radio" tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio",Cà Mau Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Cà Mau Radio" tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio",Cà Mau Radio
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Cần Thơ 97.3" tvg-logo="https://i.imgur.com/fP1CECa.jpeg" group-title="FM Radio",Cần Thơ 97.3
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Cần Thơ 97.3" tvg-logo="https://i.imgur.com/fP1CECa.jpeg" group-title="FM Radio",Cần Thơ 97.3
 https://tv.canthotv.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Cần Thơ 89.6" tvg-logo="https://i.imgur.com/npLTJA2.png" group-title="FM Radio",Cần Thơ 89.6
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Cần Thơ 89.6" tvg-logo="https://i.imgur.com/npLTJA2.png" group-title="FM Radio",Cần Thơ 89.6
 https://live.canthotv.vn/live/radiocs2/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Điện Biên Radio" tvg-logo="https://i.imgur.com/0cysa9H.png" group-title="FM Radio",Điện Biên Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Điện Biên Radio" tvg-logo="https://i.imgur.com/0cysa9H.png" group-title="FM Radio",Điện Biên Radio
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Đắk Lắk Radio" tvg-logo="https://i.imgur.com/R2VnAKd.png" group-title="FM Radio",Đắk Lắk Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Đắk Lắk Radio" tvg-logo="https://i.imgur.com/R2VnAKd.png" group-title="FM Radio",Đắk Lắk Radio
 https://live.mediatech.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Đồng Nai Radio" tvg-logo="https://i.imgur.com/OSBPSOd.png" group-title="FM Radio",Đồng Nai Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Đồng Nai Radio" tvg-logo="https://i.imgur.com/OSBPSOd.png" group-title="FM Radio",Đồng Nai Radio
 http://stream.thingnet.vn/radio/dongnai_aac/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Đồng Tháp Radio" tvg-logo="https://i.imgur.com/uMm9sn9.png" group-title="FM Radio",Đồng Tháp Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Đồng Tháp Radio" tvg-logo="https://i.imgur.com/uMm9sn9.png" group-title="FM Radio",Đồng Tháp Radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Gia Lai Radio" tvg-logo="https://i.imgur.com/zfJ3Pwy.png" group-title="FM Radio",Gia Lai Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Gia Lai Radio" tvg-logo="https://i.imgur.com/zfJ3Pwy.png" group-title="FM Radio",Gia Lai Radio
 https://tv.gialaitv.vn/radio.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Hà Tĩnh Radio" tvg-logo="https://i.imgur.com/Ei0yebE.png" group-title="FM Radio",Hà Tĩnh Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Hà Tĩnh Radio" tvg-logo="https://i.imgur.com/Ei0yebE.png" group-title="FM Radio",Hà Tĩnh Radio
 https://live.baohatinh.vn/voht/voht.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Hải Phòng 93.7" tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 93.7
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Hải Phòng 93.7" tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Hải Phòng 102.2" tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 102.2
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Hải Phòng 102.2" tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 102.2
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Huế 93" tvg-logo="https://i.imgur.com/SH5avD7.png" group-title="FM Radio",Huế 93
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Huế 93" tvg-logo="https://i.imgur.com/SH5avD7.png" group-title="FM Radio",Huế 93
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Hưng Yên 92.7" tvg-logo="https://i.imgur.com/fh2ZPJx.png" group-title="FM Radio",Hưng Yên 92.7
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Hưng Yên 92.7" tvg-logo="https://i.imgur.com/fh2ZPJx.png" group-title="FM Radio",Hưng Yên 92.7
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Khánh Hòa 106.5" tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio",Khánh Hòa 106.5
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Khánh Hòa 106.5" tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio",Khánh Hòa 106.5
 https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
-#EXTINF:-1 tvg-id="fm" tvg-name="Khánh Hòa 95" tvg-logo="https://i.imgur.com/HZ7lnAG.png" group-title="FM Radio",Khánh Hòa 95
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Khánh Hòa 95" tvg-logo="https://i.imgur.com/HZ7lnAG.png" group-title="FM Radio",Khánh Hòa 95
 https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
-#EXTINF:-1 tvg-id="fm" tvg-name="Lâm Đồng Radio" tvg-logo="https://i.imgur.com/cXsfddj.png" group-title="FM Radio",Lâm Đồng Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Lâm Đồng Radio" tvg-logo="https://i.imgur.com/cXsfddj.png" group-title="FM Radio",Lâm Đồng Radio
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Lạng Sơn Radio" tvg-logo="https://i.imgur.com/tRxwxFM.png" group-title="FM Radio",Lạng Sơn Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Lạng Sơn Radio" tvg-logo="https://i.imgur.com/tRxwxFM.png" group-title="FM Radio",Lạng Sơn Radio
 https://live.mediatech.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Nghệ An Radio" tvg-logo="https://i.imgur.com/BpOBQXz.png" group-title="FM Radio",Nghệ An Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Nghệ An Radio" tvg-logo="https://i.imgur.com/BpOBQXz.png" group-title="FM Radio",Nghệ An Radio
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Ninh Bình Radio" tvg-logo="https://i.imgur.com/gLrFTxs.png" group-title="FM Radio",Ninh Bình Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Ninh Bình Radio" tvg-logo="https://i.imgur.com/gLrFTxs.png" group-title="FM Radio",Ninh Bình Radio
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Quảng Ngãi 102.9" tvg-logo="https://i.imgur.com/RJ2qVhY.png" group-title="FM Radio",Quảng Ngãi 102.9
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Quảng Ngãi 102.9" tvg-logo="https://i.imgur.com/RJ2qVhY.png" group-title="FM Radio",Quảng Ngãi 102.9
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="QNR1 Radio" tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio",QNR1 Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="QNR1 Radio" tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio",QNR1 Radio
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="QNR2 Radio" tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio",QNR2 Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="QNR2 Radio" tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio",QNR2 Radio
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Quảng Trị Radio" tvg-logo="https://i.imgur.com/sNBSAak.png" group-title="FM Radio",Quảng Trị Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Quảng Trị Radio" tvg-logo="https://i.imgur.com/sNBSAak.png" group-title="FM Radio",Quảng Trị Radio
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Sơn La Radio" tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio",Sơn La Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Sơn La Radio" tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio",Sơn La Radio
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Tây Ninh 96.9 & 103.1" tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio",Tây Ninh 96.9 & 103.1
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Tây Ninh 96.9 & 103.1" tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio",Tây Ninh 96.9 & 103.1
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Tuyên Quang 95.6" tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio",Tuyên Quang 95.6
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Tuyên Quang 95.6" tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio",Tuyên Quang 95.6
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="Vĩnh Long Radio" tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Vĩnh Long Radio" tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-id="fm" tvg-name="Arirang Radio" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Radio Quốc Tế",Arirang Radio
+#EXTINF:-1 tvg-id="RADIO" tvg-name="Arirang Radio" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Radio Quốc Tế",Arirang Radio
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="fm" tvg-name="HLAW-SFM" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="Radio Quốc Tế",HLAW-SFM
+#EXTINF:-1 tvg-id="RADIO" tvg-name="HLAW-SFM" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="Radio Quốc Tế",HLAW-SFM
 https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFN" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
+#EXTINF:-1 tvg-id="VN" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
+#EXTINF:-1 tvg-id="VN" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" tvg-name="KIX" tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
+#EXTINF:-1 tvg-id="VN" tvg-name="KIX" tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tvbvn" tvg-name="TVB Việt Nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
+#EXTINF:-1 tvg-id="VN" tvg-name="TVB Việt Nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HiTV
@@ -369,694 +369,704 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="plearth" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="youtv" tvg-name="YouTV" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
+#EXTINF:-1 tvg-id="hnc" tvg-name="YouTV" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-#EXTINF:-1 tvg-id="CNA Al" tvg-name="CNA Albania" tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
+#EXTINF:-1 tvg-id="AL" tvg-name="CNA Albania" tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="News 24 Al" tvg-name="News 24 Albania" tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
+#EXTINF:-1 tvg-id="AL" tvg-name="News 24 Albania" tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
 ttps://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVAl" tvg-name="NTV Albania" tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
+#EXTINF:-1 tvg-id="AL" tvg-name="NTV Albania" tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-#EXTINF:-1 tvg-id="OraNews" tvg-name="Ora News" tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Albania",Ora News
+#EXTINF:-1 tvg-id="AL" tvg-name="Ora News" tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Albania",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="Syri" tvg-name="Syri" tvg-logo="https://i.ibb.co/My2Q1qdp/syri.png" group-title="Albania",Syri
+#EXTINF:-1 tvg-id="AL" tvg-name="Syri" tvg-logo="https://i.ibb.co/My2Q1qdp/syri.png" group-title="Albania",Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tropoja" tvg-name="Tropoja Televizon" tvg-logo="https://i.ibb.co/c0HkRGr/tropoja-logo-blu.png" group-title="Albania",Tropoja Televizon
+#EXTINF:-1 tvg-id="AL" tvg-name="Tropoja Televizon" tvg-logo="https://i.ibb.co/c0HkRGr/tropoja-logo-blu.png" group-title="Albania",Tropoja Televizon
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Johaniter" tvg-name="TV Johaniter" tvg-logo="https://i.ibb.co/Rp9JTynw/tvj.png" group-title="Albania",TV Johaniter
+#EXTINF:-1 tvg-id="AL" tvg-name="TV Johaniter" tvg-logo="https://i.ibb.co/Rp9JTynw/tvj.png" group-title="Albania",TV Johaniter
 https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
-#EXTINF:-1 tvg-id="Zjarr" tvg-name="Zjarr TV" tvg-logo="https://i.ibb.co/C3Qzsn84/zjarr.png" group-title="Albania",Zjarr TV
+#EXTINF:-1 tvg-id="AL" tvg-name="Zjarr TV" tvg-logo="https://i.ibb.co/C3Qzsn84/zjarr.png" group-title="Albania",Zjarr TV
 https://zjarr.future.al/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia 1" tvg-logo="https://i.ibb.co/VWCXMGH8/ar1.png" group-title="Armenia",Armenia 1
+#EXTINF:-1 tvg-id="AM" tvg-name="Armenia 1" tvg-logo="https://i.ibb.co/VWCXMGH8/ar1.png" group-title="Armenia",Armenia 1
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia 2" tvg-logo="https://i.ibb.co/chLffdZB/H2channellogo.png" group-title="Armenia",Armenia 2
+#EXTINF:-1 tvg-id="AM" tvg-name="Armenia 2" tvg-logo="https://i.ibb.co/chLffdZB/H2channellogo.png" group-title="Armenia",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia" tvg-name="Armenia News" tvg-logo="https://i.ibb.co/TBpJzf1r/Armenian-news-NEWS-am.png" group-title="Armenia",Armenia News
+#EXTINF:-1 tvg-id="AM" tvg-name="Armenia News" tvg-logo="https://i.ibb.co/TBpJzf1r/Armenian-news-NEWS-am.png" group-title="Armenia",Armenia News
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 
-#EXTINF:-1 tvg-id="10BoldDrama" tvg-name="10 Bold Drama" tvg-logo="https://i.imgur.com/5bBOGSa.png" group-title="Australia",10 Bold Drama
+#EXTINF:-1 tvg-id="AU" tvg-name="10 Bold Drama" tvg-logo="https://i.imgur.com/5bBOGSa.png" group-title="Australia",10 Bold Drama
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-id="ABCAu" tvg-name="ABC TV (ABC 1)" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Australia",ABC TV (ABC 1)
+#EXTINF:-1 tvg-id="AU" tvg-name="ABC TV (ABC 1)" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Australia",ABC TV (ABC 1)
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="ABCFamily" tvg-name="ABCau" tvg-logo="https://i.imgur.com/YfEzILK.png" group-title="Australia",ABC Family (ABC 2)
+#EXTINF:-1 tvg-id="AU" tvg-name="ABCau" tvg-logo="https://i.imgur.com/YfEzILK.png" group-title="Australia",ABC Family (ABC 2)
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="ABCAu" tvg-name="ABC Entertains (ABC 3)" tvg-logo="https://i.imgur.com/WXf3Hhn.png" group-title="Australia",ABC Entertains (ABC 3)
+#EXTINF:-1 tvg-id="AU" tvg-name="ABC Entertains (ABC 3)" tvg-logo="https://i.imgur.com/WXf3Hhn.png" group-title="Australia",ABC Entertains (ABC 3)
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ABCAu" tvg-name="ABC Kids (ABC 4)" tvg-logo="https://i.imgur.com/oV3SQXS.png" group-title="Australia",ABC Kids (ABC 4)
+#EXTINF:-1 tvg-id="AU" tvg-name="ABC Kids (ABC 4)" tvg-logo="https://i.imgur.com/oV3SQXS.png" group-title="Australia",ABC Kids (ABC 4)
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 tvg-id="ABCAu" tvg-name="ABC News 24" tvg-logo="https://i.imgur.com/8nrgBtX.png" group-title="Australia",ABC News 24
+#EXTINF:-1 tvg-id="AU" tvg-name="ABC News 24" tvg-logo="https://i.imgur.com/8nrgBtX.png" group-title="Australia",ABC News 24
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-id="FS Salzburg" tvg-name="FS1 Salzburg" tvg-logo="https://i.ibb.co/G4NJLswN/image.png" group-title="Austria",FS1 Salzburg
+#EXTINF:-1 tvg-id="AT" tvg-name="FS1 Salzburg" tvg-logo="https://i.ibb.co/G4NJLswN/image.png" group-title="Austria",FS1 Salzburg
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="Landle" tvg-name="Landle TV" tvg-logo="https://i.ibb.co/zhWG1dGP/landle.png" group-title="Austria",Landle TV
+#EXTINF:-1 tvg-id="AT" tvg-name="Landle TV" tvg-logo="https://i.ibb.co/zhWG1dGP/landle.png" group-title="Austria",Landle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-id="R9" tvg-name="R9" tvg-logo="https://i.ibb.co/m5qk4Q8m/r9.png" group-title="Austria",R9
+#EXTINF:-1 tvg-id="AT" tvg-name="R9" tvg-logo="https://i.ibb.co/m5qk4Q8m/r9.png" group-title="Austria",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ORF" tvg-name="ORF 1" tvg-logo="https://i.imgur.com/onaPXn1.png" group-title="Austria",ORF 1
+#EXTINF:-1 tvg-id="AT" tvg-name="ORF 1" tvg-logo="https://i.imgur.com/onaPXn1.png" group-title="Austria",ORF 1
 https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
-#EXTINF:-1 tvg-id="ORF" tvg-name="ORF III" tvg-logo="https://i.imgur.com/vWz6OEa.png" group-title="Austria",ORF III
+#EXTINF:-1 tvg-id="AT" tvg-name="ORF III" tvg-logo="https://i.imgur.com/vWz6OEa.png" group-title="Austria",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Belarus" tvg-name="Belarus 1" tvg-logo="https://i.imgur.com/Fj1DRAz.png" group-title="Belarus",Belarus 1
+#EXTINF:-1 tvg-id="BY" tvg-name="Belarus 1" tvg-logo="https://i.imgur.com/Fj1DRAz.png" group-title="Belarus",Belarus 1
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus" tvg-name="Belarus 3" tvg-logo="https://i.imgur.com/rmBRG4Y.png" group-title="Belarus",Belarus 3
+#EXTINF:-1 tvg-id="BY" tvg-name="Belarus 3" tvg-logo="https://i.imgur.com/rmBRG4Y.png" group-title="Belarus",Belarus 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus" tvg-name="Belarus 4" tvg-logo="https://i.imgur.com/MlywJ5C.png" group-title="Belarus",Belarus 4
+#EXTINF:-1 tvg-id="BY" tvg-name="Belarus 4" tvg-logo="https://i.imgur.com/MlywJ5C.png" group-title="Belarus",Belarus 4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus" tvg-name="Belarus 5" tvg-logo="https://i.imgur.com/Yt8UZWL.png" group-title="Belarus",Belarus 5
+#EXTINF:-1 tvg-id="BY" tvg-name="Belarus 5" tvg-logo="https://i.imgur.com/Yt8UZWL.png" group-title="Belarus",Belarus 5
 https://streaming.thestream.cyou/live/7001.m3u8
-#EXTINF:-1 tvg-id="Belarus" tvg-name="Belarus 24" tvg-logo="https://i.imgur.com/2YruQd1.png" group-title="Belarus",Belarus 24
+#EXTINF:-1 tvg-id="BY" tvg-name="Belarus 24" tvg-logo="https://i.imgur.com/2YruQd1.png" group-title="Belarus",Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PerviyInformationniy" tvg-name="Perviy Informationniy" tvg-logo="https://i.imgur.com/Vy2BQ0M.png" group-title="Belarus",Perviy Informationniy
+#EXTINF:-1 tvg-id="BY" tvg-name="Perviy Informationniy" tvg-logo="https://i.imgur.com/Vy2BQ0M.png" group-title="Belarus",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AS1P" tvg-name="Arena Sport 1 Pro" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 1 Pro
+#EXTINF:-1 tvg-id="BA" tvg-name="Arena Sport 1 Pro" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 1 Pro
 https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-id="AS2P" tvg-name="AS2P (No sound)" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",AS2P (No sound)
+#EXTINF:-1 tvg-id="BA" tvg-name="AS2P (No sound)" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",AS2P (No sound)
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="AS4" tvg-name="Arena Sport 4" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 4
+#EXTINF:-1 tvg-id="BA" tvg-name="Arena Sport 4" tvg-logo="https://i.ibb.co/PGX1PrbQ/250px-Arena-sport-logo.png" group-title="Bosnia And Herzegovina",Arena Sport 4
 https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
 
-#EXTINF:-1 tvg-id="TVK" tvg-name="TVK" tvg-logo="https://i.ibb.co/sdsv5bxY/image.png" group-title="Cambodia",TVK
+#EXTINF:-1 tvg-id="KH" tvg-name="TVK" tvg-logo="https://i.ibb.co/sdsv5bxY/image.png" group-title="Cambodia",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK" tvg-name="TVK2" tvg-logo="https://i.ibb.co/Lh9MPhhB/image.png" group-title="Cambodia",TVK2
+#EXTINF:-1 tvg-id="KH" tvg-name="TVK2" tvg-logo="https://i.ibb.co/Lh9MPhhB/image.png" group-title="Cambodia",TVK2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CFHD" tvg-name="CFHD-DT" tvg-logo="https://i.ibb.co/20HSHJvz/ICI-Montreal.png" group-title="Canada",CFHD-DT
+#EXTINF:-1 tvg-id="CA" tvg-name="CFHD-DT" tvg-logo="https://i.ibb.co/20HSHJvz/ICI-Montreal.png" group-title="Canada",CFHD-DT
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="CHCO" tvg-name="CHCO-TV" tvg-logo="https://i.ibb.co/WWPbTRhM/CHCTsmall-2017.png" group-title="Canada",CHCO-TV
+#EXTINF:-1 tvg-id="CA" tvg-name="CHCO-TV" tvg-logo="https://i.ibb.co/WWPbTRhM/CHCTsmall-2017.png" group-title="Canada",CHCO-TV
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 tvg-id="CJON" tvg-name="CJON-DT" tvg-logo="https://i.ibb.co/4gZ7C3nC/CJON-TV.png" group-title="Canada",CJON-DT
+#EXTINF:-1 tvg-id="CA" tvg-name="CJON-DT" tvg-logo="https://i.ibb.co/4gZ7C3nC/CJON-TV.png" group-title="Canada",CJON-DT
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV1" tvg-logo="https://i.imgur.com/pUADIOk.png" group-title="China",CCTV1
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV1" tvg-logo="https://i.imgur.com/pUADIOk.png" group-title="China",CCTV1
 http://198.204.228.26/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/VOKucIr.png" group-title="China",CCTV2
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/VOKucIr.png" group-title="China",CCTV2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV3" tvg-logo="https://i.imgur.com/Eyp7GHd.png" group-title="China",CCTV3
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV3" tvg-logo="https://i.imgur.com/Eyp7GHd.png" group-title="China",CCTV3
 http://198.204.228.26/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/56jmFis.png" group-title="China",CCTV4
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/56jmFis.png" group-title="China",CCTV4
 http://198.204.228.26/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV5" tvg-logo="https://i.imgur.com/DLzirPG.png" group-title="China",CCTV5
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV5" tvg-logo="https://i.imgur.com/DLzirPG.png" group-title="China",CCTV5
 http://198.204.228.26/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV6" tvg-logo="https://i.imgur.com/H5BuOOr.png" group-title="China",CCTV6
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV6" tvg-logo="https://i.imgur.com/H5BuOOr.png" group-title="China",CCTV6
 http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/2rWQbVu.png" group-title="China",CCTV7
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/2rWQbVu.png" group-title="China",CCTV7
 http://198.204.228.26/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/Sl5OZUU.png" group-title="China",CCTV8
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/Sl5OZUU.png" group-title="China",CCTV8
 http://198.204.228.26/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV9" tvg-logo="https://i.imgur.com/78miKFv.png" group-title="China",CCTV9
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV9" tvg-logo="https://i.imgur.com/78miKFv.png" group-title="China",CCTV9
 http://198.204.228.26/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV10" tvg-logo="https://i.imgur.com/LE16DvP.png" group-title="China",CCTV10
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV10" tvg-logo="https://i.imgur.com/LE16DvP.png" group-title="China",CCTV10
 http://198.204.228.26/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV11" tvg-logo="https://i.imgur.com/pw2uHWz.png" group-title="China",CCTV11
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV11" tvg-logo="https://i.imgur.com/pw2uHWz.png" group-title="China",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV12" tvg-logo="https://i.imgur.com/rUsvi8f.png" group-title="China",CCTV12
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV12" tvg-logo="https://i.imgur.com/rUsvi8f.png" group-title="China",CCTV12
 http://198.204.228.26/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/8DsrgHf.png" group-title="China",CCTV13
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/8DsrgHf.png" group-title="China",CCTV13
 http://198.204.228.26/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/fRyjYxZ.png" group-title="China",CCTV14
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/fRyjYxZ.png" group-title="China",CCTV14
 http://198.204.228.26/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/hxyAEkA.png" group-title="China",CCTV15
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/hxyAEkA.png" group-title="China",CCTV15
 http://198.204.228.26/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/8xACd4F.png" group-title="China",CCTV16
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/8xACd4F.png" group-title="China",CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV17" tvg-logo="https://i.imgur.com/QvvsPpc.png" group-title="China",CCTV17
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV17" tvg-logo="https://i.imgur.com/QvvsPpc.png" group-title="China",CCTV17
 http://198.204.228.26/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV4K" tvg-logo="https://i.imgur.com/Gn5jMK7.png" group-title="China",CCTV4K
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV4K" tvg-logo="https://i.imgur.com/Gn5jMK7.png" group-title="China",CCTV4K
 http://198.204.228.26/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV8K" tvg-logo="https://i.imgur.com/G6q3PO9.png" group-title="China",CCTV8K
+#EXTINF:-1 tvg-id="CN" tvg-name="CCTV8K" tvg-logo="https://i.imgur.com/G6q3PO9.png" group-title="China",CCTV8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/RmWOYkc.png" group-title="China",CGTN
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/RmWOYkc.png" group-title="China",CGTN
 https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="China",CGTN Arabic
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="China",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="China",CGTN French
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="China",CGTN French
 http://145.239.5.177/214/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="China",CGTN Russian
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="China",CGTN Russian
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="China",CGTN Spanish
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="China",CGTN Spanish
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="China",CGTN Documentary
+#EXTINF:-1 tvg-id="CN" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="China",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
 
-#EXTINF:-1 tvg-id="RIKSai" tvg-name="RIK Sai" tvg-logo="https://i.imgur.com/svw3YTs.png" group-title="Cyprus",RIK Sai
+#EXTINF:-1 tvg-id="CY" tvg-name="RIK Sai" tvg-logo="https://i.imgur.com/svw3YTs.png" group-title="Cyprus",RIK Sai
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT7Kids" tvg-name="SAT 7 Kids" tvg-logo="https://i.ibb.co/ksvMxxCL/sat7.png" group-title="Cyprus",SAT 7 Kids
+#EXTINF:-1 tvg-id="CY" tvg-name="SAT 7 Kids" tvg-logo="https://i.ibb.co/ksvMxxCL/sat7.png" group-title="Cyprus",SAT 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="CT24" tvg-name="CT24" tvg-logo="https://i.imgur.com/cbXQET5.png" group-title="Czech",CT24
+#EXTINF:-1 tvg-id="CZ" tvg-name="CT24" tvg-logo="https://i.imgur.com/cbXQET5.png" group-title="Czech",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DR" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
+#EXTINF:-1 tvg-id="DK" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 
-#EXTINF:-1 tvg-id="BFM" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/BHCdtjg2/image.png" group-title="France",BFM 2
+#EXTINF:-1 tvg-id="FR" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/BHCdtjg2/image.png" group-title="France",BFM 2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="BFM" tvg-name="BFM Business" tvg-logo="https://i.ibb.co/4R2FvJJb/image.png" group-title="France",BFM Business
+#EXTINF:-1 tvg-id="FR" tvg-name="BFM Business" tvg-logo="https://i.ibb.co/4R2FvJJb/image.png" group-title="France",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/1rUKIf4.png" group-title="France",FashionTV
+#EXTINF:-1 tvg-id="FR" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/1rUKIf4.png" group-title="France",FashionTV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://i.imgur.com/nKfmziO.png" group-title="France",France 24
+#EXTINF:-1 tvg-id="FR" tvg-name="France 24" tvg-logo="https://i.imgur.com/nKfmziO.png" group-title="France",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24 Arab" tvg-logo="https://i.ibb.co/1fg1pGjp/image.png" group-title="France",France 24 Arab
+#EXTINF:-1 tvg-id="FR" tvg-name="France 24 Arab" tvg-logo="https://i.ibb.co/1fg1pGjp/image.png" group-title="France",France 24 Arab
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="TV5MondeChefs" tvg-name="TV5 Monde Chefs" tvg-logo="https://i.ibb.co/yzBRgpS/image.png" group-title="France",TV5 Monde Chefs
+#EXTINF:-1 tvg-id="FR" tvg-name="TV5 Monde Chefs" tvg-logo="https://i.ibb.co/yzBRgpS/image.png" group-title="France",TV5 Monde Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 
-#EXTINF:-1 tvg-id="DasErste" tvg-name="Das Erste" tvg-logo="https://i.imgur.com/J0JNHCr.png" group-title="Germany",Das Erste
+#EXTINF:-1 tvg-id="DE" tvg-name="Das Erste" tvg-logo="https://i.imgur.com/J0JNHCr.png" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Gold" tvg-logo="https://i.ibb.co/hFq2L2cB/RTL-Gold-LU-2023.png" group-title="Germany",RTL Gold
+#EXTINF:-1 tvg-id="DE" tvg-name="RTL Gold" tvg-logo="https://i.ibb.co/hFq2L2cB/RTL-Gold-LU-2023.png" group-title="Germany",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Letxembourg" tvg-logo="https://i.ibb.co/7N6FDPBs/RTL-L-tzebuerg-2023.png" group-title="Germany",RTL Letxembourg
+#EXTINF:-1 tvg-id="DE" tvg-name="RTL Letxembourg" tvg-logo="https://i.ibb.co/7N6FDPBs/RTL-L-tzebuerg-2023.png" group-title="Germany",RTL Letxembourg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Radio" tvg-logo="https://i.ibb.co/qFYhVjMP/RTL-Radio-LU-2023.png" group-title="Germany",RTL Radio
+#EXTINF:-1 tvg-id="DE" tvg-name="RTL Radio" tvg-logo="https://i.ibb.co/qFYhVjMP/RTL-Radio-LU-2023.png" group-title="Germany",RTL Radio
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL Zwee" tvg-logo="https://i.ibb.co/v6Wgy913/RTL-Zwee-2023.png" group-title="Germany",RTL Zwee
+#EXTINF:-1 tvg-id="DE" tvg-name="RTL Zwee" tvg-logo="https://i.ibb.co/v6Wgy913/RTL-Zwee-2023.png" group-title="Germany",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlphaTV" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
+#EXTINF:-1 tvg-id="GR" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTCosmos" tvg-name="ERT Cosmos" tvg-logo="https://i.imgur.com/OoOIpO5.png" group-title="Greece",ERT Cosmos
+#EXTINF:-1 tvg-id="GR" tvg-name="ERT Cosmos" tvg-logo="https://i.imgur.com/OoOIpO5.png" group-title="Greece",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-id="HellenicParliamentTV" tvg-name="Hellenic Parliament TV" tvg-logo="https://i.imgur.com/GiOEo6v.png" group-title="Greece",Hellenic Parliament TV
+#EXTINF:-1 tvg-id="GR" tvg-name="Hellenic Parliament TV" tvg-logo="https://i.imgur.com/GiOEo6v.png" group-title="Greece",Hellenic Parliament TV
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK 31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31
+#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK 32 (Geo-blocked)" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 (Geo-blocked)
+#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 32 (Geo-blocked)" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 (Geo-blocked)
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK 33 (Geo-blocked)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="HongKong",RTHK33 (Geo-blocked)
+#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 33 (Geo-blocked)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="HongKong",RTHK33 (Geo-blocked)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK 34 (Geo-blocked)" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="HongKong",RTHK34 (Geo-blocked)
+#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 34 (Geo-blocked)" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="HongKong",RTHK34 (Geo-blocked)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK 35 (Geo-blocked)" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="HongKong",RTHK35 (Geo-blocked)
+#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 35 (Geo-blocked)" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="HongKong",RTHK35 (Geo-blocked)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
-#EXTINF:-1 tvg-id="RUV" tvg-name="RUV" tvg-logo="https://i.imgur.com/qPzmbq3.png" group-title="Iceland",RUV
+#EXTINF:-1 tvg-id="IS" tvg-name="RUV" tvg-logo="https://i.imgur.com/qPzmbq3.png" group-title="Iceland",RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 tvg-id="RUV" tvg-name="RUV 2" tvg-logo="https://i.imgur.com/3U05Z1r.png" group-title="Iceland",RUV 2
+#EXTINF:-1 tvg-id="IS" tvg-name="RUV 2" tvg-logo="https://i.imgur.com/3U05Z1r.png" group-title="Iceland",RUV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI World" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
+#EXTINF:-1 tvg-id="ID" tvg-name="TVRI World" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Jakarta" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
+#EXTINF:-1 tvg-id="ID" tvg-name="TVRI Jakarta" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
+#EXTINF:-1 tvg-id="ID" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Italy",Rai 1
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Italy",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Italy",Rai 2
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Italy",Rai 2
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/PRmm48E.png" group-title="Italy",Rai 3
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/PRmm48E.png" group-title="Italy",Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai Italia" tvg-logo="https://i.imgur.com/2XrWcwE.png" group-title="Italy",Rai Italia
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai Italia" tvg-logo="https://i.imgur.com/2XrWcwE.png" group-title="Italy",Rai Italia
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italy",Rai News 24
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italy",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/IdPFaW0.png" group-title="Italy",Rai Scuola
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/IdPFaW0.png" group-title="Italy",Rai Scuola
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai Sports" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Italy",Rai Sports
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai Sports" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Italy",Rai Sports
 https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/W4geFzr.png" group-title="Italy",Rai Storia
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/W4geFzr.png" group-title="Italy",Rai Storia
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Italy",Rai Sudtirol
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Italy",Rai Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/J4mU5NI.png" group-title="Italy",Rai World Premium
+#EXTINF:-1 tvg-id="IT" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/J4mU5NI.png" group-title="Italy",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
-#EXTINF:-1 tvg-id="cgnjapan" tvg-name="cgnjapan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
+#EXTINF:-1 tvg-id="JP" tvg-name="cgnjapan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="nhkg" tvg-name="JOAK-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JOAK-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="nhkw" tvg-name="NHK World" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
+#EXTINF:-1 tvg-id="JP" tvg-name="NHK World" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="ntv" tvg-name="JOAX-DTV" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JOAX-DTV" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="fujitv" tvg-name="JOCX-DTV" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JOCX-DTV" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="tvasahi" tvg-name="JOEX-DTV" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JOEX-DTV" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="nhkyamagata" tvg-name="JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
-#EXTINF:-1 tvg-id="tokyobs" tvg-name="JORX-DTV" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV
+#EXTINF:-1 tvg-id="JP" tvg-name="JORX-DTV" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-id="WNN" tvg-name="WNN Weather News" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
+#EXTINF:-1 tvg-id="JP" tvg-name="WNN Weather News" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
-#EXTINF:-1 tvg-id="RTK3" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
+#EXTINF:-1 tvg-id="XK" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
-#EXTINF:-1 tvg-id="OhMuangLao" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
+#EXTINF:-1 tvg-id="LA" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bloombergmongol" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
+#EXTINF:-1 tvg-id="MN" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
+#EXTINF:-1 tvg-id="MN" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-id="MNB" tvg-name="MNB Family" tvg-logo="https://i.ibb.co/CstQstbs/tnb-family.png" group-title="Mongolia",MNB Family
+#EXTINF:-1 tvg-id="MN" tvg-name="MNB Family" tvg-logo="https://i.ibb.co/CstQstbs/tnb-family.png" group-title="Mongolia",MNB Family
 https://live.mnb.mn/hls/mnb_family.stream.m3u8
-#EXTINF:-1 tvg-id="MNB" tvg-name="MNB" tvg-logo="https://i.ibb.co/NgQN4ZjT/images.png" group-title="Mongolia",MNB
+#EXTINF:-1 tvg-id="MN" tvg-name="MNB" tvg-logo="https://i.ibb.co/NgQN4ZjT/images.png" group-title="Mongolia",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:-1 tvg-id="MNB" tvg-name="MNB World" tvg-logo="https://i.ibb.co/7tgb1vm7/img-1.png" group-title="Mongolia",MNB World
+#EXTINF:-1 tvg-id="MN" tvg-name="MNB World" tvg-logo="https://i.ibb.co/7tgb1vm7/img-1.png" group-title="Mongolia",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 tvg-id="ParliamentMongol" tvg-name="Parliament TV" tvg-logo="https://i.ibb.co/hJKVcL5c/images.png" group-title="Mongolia",Parliament TV
+#EXTINF:-1 tvg-id="MN" tvg-name="Parliament TV" tvg-logo="https://i.ibb.co/hJKVcL5c/images.png" group-title="Mongolia",Parliament TV
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="MNC" tvg-name="MNC" tvg-logo="https://i.ibb.co/LdQYRfpr/images-1.png" group-title="Mongolia",MNC
+#EXTINF:-1 tvg-id="MN" tvg-name="MNC" tvg-logo="https://i.ibb.co/LdQYRfpr/images-1.png" group-title="Mongolia",MNC
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
-#EXTINF:-1 tvg-id="MNB" tvg-name="MNB Sport" tvg-logo="https://i.ibb.co/spgfQp8Y/images-2.png" group-title="Mongolia",MNB Sport
+#EXTINF:-1 tvg-id="MN" tvg-name="MNB Sport" tvg-logo="https://i.ibb.co/spgfQp8Y/images-2.png" group-title="Mongolia",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
-#EXTINF:-1 tvg-id="MRTV" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
+#EXTINF:-1 tvg-id="MM" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
+#EXTINF:-1 tvg-id="KP" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="RossiyaK" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
+#EXTINF:-1 tvg-id="RU" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA Original" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
+#EXTINF:-1 tvg-id="SG" tvg-name="CNA Original" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA
+#EXTINF:-1 tvg-id="SG" tvg-name="CNA" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="Slo" tvg-name="Slo 1" tvg-logo="https://i.ibb.co/tM85mBwz/tv-slo-1-logo-png-seeklogo-630345.png" group-title="Slovenia",Slo 1
+#EXTINF:-1 tvg-id="SI" tvg-name="Slo 1" tvg-logo="https://i.ibb.co/tM85mBwz/tv-slo-1-logo-png-seeklogo-630345.png" group-title="Slovenia",Slo 1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Slo" tvg-name="Slo 2" tvg-logo="https://i.ibb.co/q3L2Bvyw/Logo-of-TV-SLO-2-HD-2012.png" group-title="Slovenia",Slo 2
+#EXTINF:-1 tvg-id="SI" tvg-name="Slo 2" tvg-logo="https://i.ibb.co/q3L2Bvyw/Logo-of-TV-SLO-2-HD-2012.png" group-title="Slovenia",Slo 2
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABNKr" tvg-name="ABNKr" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
+#EXTINF:-1 tvg-id="KR" tvg-name="ABNKr" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="AK" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="South Korea",Arirang Korea
+#EXTINF:-1 tvg-id="KR" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="South Korea",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="ArirangUN" tvg-name="Arirang UN" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang UN
+#EXTINF:-1 tvg-id="KR" tvg-name="Arirang UN" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CJBKr" tvg-name="HLDR-DTV" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLDR-DTV" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs1" tvg-name="HLQL-DTV (EBS1)" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
+#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS1)" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs2" tvg-name="HLQL-DTV (EBS2)" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
+#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS2)" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebse" tvg-name="HLQL-DTV (EBS English)" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
+#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS English)" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebsk" tvg-name="HLQL-DTV (EBS Kids)" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
+#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS Kids)" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+1" tvg-name="HLQL-DTV (EBS+1)" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
+#EXTINF:-1 tvg-id="KR+1" tvg-name="HLQL-DTV (EBS+1)" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebs+2" tvg-name="HLQL-DTV (EBS+2)" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
+#EXTINF:-1 tvg-id="KR+2" tvg-name="HLQL-DTV (EBS+2)" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="G1" tvg-name="HLCG-DTV" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLCG-DTV" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Gukak" tvg-name="HLQA-DTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLQA-DTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GukbangTV" tvg-name="Gukbang TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
+#EXTINF:-1 tvg-id="KR" tvg-name="Gukbang TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JIBS" tvg-name="HLKJ-DTV" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLKJ-DTV" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="KBCKr" tvg-name="HLDH-DTV" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLDH-DTV" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="South Korea",KBS World
+#EXTINF:-1 tvg-id="KR" tvg-name="KBS Joy" tvg-logo="https://i.ibb.co/cShhZMSd/kbsj.png" group-title="South Korea",KBS Joy
+https://xykt-fix.github.io/flv/KJ_W.m3u8
+#EXTINF:-1 tvg-id="KR" tvg-name="KBS World" tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="South Korea",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 tvg-id="KCTVKr" tvg-name="KCTV Korea" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="South Korea",KCTV Korea
+#EXTINF:-1 tvg-id="KR" tvg-name="KCTV Korea" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="South Korea",KCTV Korea
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="South Korea",KTV
+#EXTINF:-1 tvg-id="KR" tvg-name="KTV" tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="South Korea",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbcdj" tvg-name="HLAN-DTV" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAN-DTV" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="mbcch" tvg-name="HLCQ-DTV" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLCQ-DTV" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcdg" tvg-name="HLCT-DTV" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLCT-DTV" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcje" tvg-name="HLAJ-DTV" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAJ-DTV" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcmp" tvg-name="HLAM-DTV" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAM-DTV" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mbccb" tvg-name="HLAO-DTV" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAO-DTV" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcky" tvg-name="HLAQ-DTV" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAQ-DTV" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="mbcys" tvg-name="HLAT-DTV" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
+#EXTINF:-1 tvg-id="KR" tvg-name="HLAT-DTV" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NATV" tvg-name="NATV" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
+#EXTINF:-1 tvg-id="KR" tvg-name="NATV" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
 https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBS" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
+#EXTINF:-1 tvg-id="KR" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NHTV" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
+#EXTINF:-1 tvg-id="KR" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="OUN" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
+#EXTINF:-1 tvg-id="KR" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV" tvg-name="JTV Jeonjy" tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
+#EXTINF:-1 tvg-id="KR" tvg-name="JTV Jeonjy" tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS Korea" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS Korea
+#EXTINF:-1 tvg-id="KR" tvg-name="TBS Korea" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS Korea
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
+#EXTINF:-1 tvg-id="KR" tvg-name="TVChosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
+#EXTINF:-1 tvg-id="KR" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LASpain" tvg-name="LA 1 National" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 National
+#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 National" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 National
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-id="LASpain" tvg-name="LA 1 Canarias" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Canarias
+#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 Canarias" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
-#EXTINF:-1 tvg-id="LASpain" tvg-name="LA 1 Cantalunya" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Cantalunya
+#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 Cantalunya" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Cantalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
-#EXTINF:-1 tvg-id="LASpain" tvg-name="LA 2 National" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 National
+#EXTINF:-1 tvg-id="ES" tvg-name="LA 2 National" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 National
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 tvg-id="LASpain" tvg-name="LA 2 Canarias" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
+#EXTINF:-1 tvg-id="ES" tvg-name="LA 2 Canarias" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas National" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas National
+#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas National" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas National
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Canarias
+#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="24Horas" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Cantalunya
+#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Cantalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-id="Shalom" tvg-name="Shalom TV" tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
+#EXTINF:-1 tvg-id="SR" tvg-name="Shalom TV" tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
 https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNSuri" tvg-name="TBN TV" tvg-logo="https://i.ibb.co/ccRK2jxF/tbn-tv.png" group-title="Suriname",TBN TV
+#EXTINF:-1 tvg-id="SR" tvg-name="TBN TV" tvg-logo="https://i.ibb.co/ccRK2jxF/tbn-tv.png" group-title="Suriname",TBN TV
 https://live.suricloud.com/hls/tbntv/index.m3u8
 
-#EXTINF:-1 tvg-id="RSILA2" tvg-name="RSI LA 2" tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
+#EXTINF:-1 tvg-id="CH" tvg-name="RSI LA 2" tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:-1 tvg-id="SRFZwei" tvg-name="SRF Zwei (SRF 2)" tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei (SRF 2)
+#EXTINF:-1 tvg-id="CH" tvg-name="SRF Zwei (SRF 2)" tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei (SRF 2)
 https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
 
-#EXTINF:-1 tvg-id="Amarin34" tvg-name="Amarin34" tvg-logo="https://i.ibb.co/tT7fgfkY/Amarin-TV-2015.png" group-title="Thailand",Amarin 34
+#EXTINF:-1 tvg-id="TH" tvg-name="Amarin34" tvg-logo="https://i.ibb.co/tT7fgfkY/Amarin-TV-2015.png" group-title="Thailand",Amarin 34
 https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
-#EXTINF:-1 tvg-id="CH3" tvg-name="CH3 Thailand" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand",CH3 Thailand
+#EXTINF:-1 tvg-id="TH" tvg-name="CH3 Thailand" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand",CH3 Thailand
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
-#EXTINF:-1 tvg-id="CH7" tvg-name="CH7 Thailand" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="Thailand",CH7 Thailand
+#EXTINF:-1 tvg-id="TH" tvg-name="CH7 Thailand" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="Thailand",CH7 Thailand
 https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8 Thailand" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="Thailand",CH8 Thailand
+#EXTINF:-1 tvg-id="TH" tvg-name="CH8 Thailand" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="Thailand",CH8 Thailand
 https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Thailand",DLTV 1
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Thailand",DLTV1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 2" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Thailand",DLTV 2
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV2" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Thailand",DLTV2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 3" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Thailand",DLTV 3
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV3" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Thailand",DLTV3
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 4" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Thailand",DLTV 4
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV4" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Thailand",DLTV4
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 5" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Thailand",DLTV 5
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV5" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Thailand",DLTV5
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 6" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Thailand",DLTV 6
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV6" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Thailand",DLTV6
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 7" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Thailand",DLTV 7
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV7" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Thailand",DLTV7
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Thailand",DLTV 8
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Thailand",DLTV8
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 9" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Thailand",DLTV 9
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV9" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Thailand",DLTV9
 https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 10" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Thailand",DLTV 10
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV10" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Thailand",DLTV10
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 11" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Thailand",DLTV 11
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV11" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Thailand",DLTV11
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 12" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Thailand",DLTV 12
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV12" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Thailand",DLTV12
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 13" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Thailand",DLTV 13
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV13" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Thailand",DLTV13
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 14" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Thailand",DLTV 14
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV14" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Thailand",DLTV14
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Thailand",DLTV 15
+#EXTINF:-1 tvg-id="TH" tvg-name="DLTV15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Thailand",DLTV15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 tvg-id="GMM25" tvg-name="GMM25" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Thailand",GMM 25
+#EXTINF:-1 tvg-id="TH" tvg-name="GMM25" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Thailand",GMM 25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
-#EXTINF:-1 tvg-id="MCOT tvg-name="MCOT" tvg-logo="https://i.ibb.co/WvCBknJm/ej-Px-Gm-U.png" group-title="Thailand",MCOT
+#EXTINF:-1 tvg-id="TH" tvg-name="MCOT" tvg-logo="https://i.ibb.co/WvCBknJm/ej-Px-Gm-U.png" group-title="Thailand",MCOT
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MONO29" tvg-name="MONO29" tvg-logo="https://i.ibb.co/d4BFZfbW/Mono-29-Logo.png" group-title="Thailand",MONO 29
+#EXTINF:-1 tvg-id="TH" tvg-name="MONO29" tvg-logo="https://i.ibb.co/d4BFZfbW/Mono-29-Logo.png" group-title="Thailand",MONO 29
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT" tvg-name="NBT 2" tvg-logo="https://i.imgur.com/v3ZH8Bl.png" group-title="Thailand",NBT 2
+#EXTINF:-1 tvg-id="TH" tvg-name="NBT 2" tvg-logo="https://i.imgur.com/v3ZH8Bl.png" group-title="Thailand",NBT 2
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT" tvg-name="NBT World" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="Thailand",NBT World
+#EXTINF:-1 tvg-id="TH" tvg-name="NBT World" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="Thailand",NBT World
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="One31" tvg-name="One 31" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="Thailand",One 31
+#EXTINF:-1 tvg-id="TH" tvg-name="One 31" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="Thailand",One 31
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiParliament" tvg-name="Thai Parliament" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="Thailand",Thai Parliament
+#EXTINF:-1 tvg-id="TH" tvg-name="Thai Parliament" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="Thailand",Thai Parliament
 https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS" tvg-name="Thai PBS" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="Thailand",Thai PBS
+#EXTINF:-1 tvg-id="TH" tvg-name="Thai PBS" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="Thailand",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="Thailand",Thairath
+#EXTINF:-1 tvg-id="TH" tvg-name="Thairath" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="Thailand",Thairath
 https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
-#EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" tvg-logo="https://i.imgur.com/skpvuKq.png" group-title="Thailand",TNN 16
+#EXTINF:-1 tvg-id="TH" tvg-name="TNN16" tvg-logo="https://i.imgur.com/skpvuKq.png" group-title="Thailand",TNN 16
 https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
-#EXTINF:-1 tvg-id="True4U" tvg-name="True4U" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="Thailand",True4U
+#EXTINF:-1 tvg-id="TH" tvg-name="True4U" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="Thailand",True4U
 https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Thai" tvg-name="TV5 Thailand" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",TV5 Thailand
+#EXTINF:-1 tvg-id="TH" tvg-name="TV5 Thailand" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",TV5 Thailand
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="WorkpointTV" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thailand",Workpoint TV
+#EXTINF:-1 tvg-id="TH" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thailand",Workpoint TV
 https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT EBA TV" tvg-logo="https://i.ibb.co/VrT5JVk/image.png" group-title="Turkiye",TRT EBA TV
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT EBA TV" tvg-logo="https://i.ibb.co/VrT5JVk/image.png" group-title="Turkiye",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Turkiye",TRT Muzik
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Turkiye",TRT Muzik
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Turkiye",TRT Arabi
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Turkiye",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/YB5rP9VH/image.png" group-title="Turkiye",TRT Haber
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/YB5rP9VH/image.png" group-title="Turkiye",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT World" tvg-logo="https://i.ibb.co/sdSpxNxt/image.png" group-title="Turkiye",TRT World
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT World" tvg-logo="https://i.ibb.co/sdSpxNxt/image.png" group-title="Turkiye",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT 1
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/mVyPTycq/image.png" group-title="Turkiye",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Avaz" tvg-logo="https://i.ibb.co/nNnwbhCM/image.png" group-title="Turkiye",TRT Avaz
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Avaz" tvg-logo="https://i.ibb.co/nNnwbhCM/image.png" group-title="Turkiye",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Kurdi" tvg-logo="https://i.ibb.co/hFWL6NSY/image.png" group-title="Turkiye",TRT Kurdi
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Kurdi" tvg-logo="https://i.ibb.co/hFWL6NSY/image.png" group-title="Turkiye",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTk" tvg-name="TRT Turk" tvg-logo="https://i.imgur.com/HE6AWCR.png" group-title="Turkiye",TRT Turk
+#EXTINF:-1 tvg-id="TR" tvg-name="TRT Turk" tvg-logo="https://i.imgur.com/HE6AWCR.png" group-title="Turkiye",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="UK",BBC Arabic
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/cU1yHOm.png" group-title="UK",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/prj4pQV.png" group-title="UK",BBC Drama
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/prj4pQV.png" group-title="UK",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="UK",BBC Earth
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/YuR1npr.png" group-title="UK",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC First" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="UK",BBC First
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC First" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="UK",BBC First
 http://88.212.15.29/live/bbc_first/index.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC News" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="UK",BBC News
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC News" tvg-logo="https://i.imgur.com/D3jpQEK.png" group-title="UK",BBC News
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC Pashto" tvg-logo="https://i.imgur.com/pYck4bf.png" group-title="UK",BBC Pashto
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC Pashto" tvg-logo="https://i.imgur.com/pYck4bf.png" group-title="UK",BBC Pashto
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC Persian" tvg-logo="https://i.imgur.com/C1UvVwi.png" group-title="UK",BBC Persian
+#EXTINF:-1 tvg-id="GB" tvg-name="BBC Persian" tvg-logo="https://i.imgur.com/C1UvVwi.png" group-title="UK",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="CNBCUK" tvg-name="CNBC UK" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="UK",CNBC UK
+#EXTINF:-1 tvg-id="GB" tvg-name="CNBC UK" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="UK",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="UK",Reuters
+#EXTINF:-1 tvg-id="GB" tvg-name="Reuters" tvg-logo="https://i.imgur.com/9pSRenq.png" group-title="UK",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="UK",Top Gear
+#EXTINF:-1 tvg-id="GB" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="UK",Top Gear
 https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/CNX2TQ8.png" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-id="US" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/CNX2TQ8.png" group-title="USA",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/awwV1MH.png" group-title="USA",AL JAZEERA
+#EXTINF:-1 tvg-id="US" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/awwV1MH.png" group-title="USA",AL JAZEERA
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="USA",Bloomberg
+#EXTINF:-1 tvg-id="US" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="USA",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/oXOyF73.png" group-title="USA",Cartoon Network
+#EXTINF:-1 tvg-id="US" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/oXOyF73.png" group-title="USA",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="USA",CNBC
+#EXTINF:-1 tvg-id="US" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="USA",CNBC
 https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/JVAT61Q.png" group-title="USA",CNN
+#EXTINF:-1 tvg-id="US" tvg-name="CNN" tvg-logo="https://i.imgur.com/JVAT61Q.png" group-title="USA",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-id="DC" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/rmkx3K5.png" group-title="USA",Discovery Channel
+#EXTINF:-1 tvg-id="US" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/rmkx3K5.png" group-title="USA",Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="blob:https://imgur.com/5df09118-9cce-41c9-a6fc-32944066ae3b" group-title="USA",FOX HD
+#EXTINF:-1 tvg-id="US" tvg-name="FOX" tvg-logo="blob:https://imgur.com/5df09118-9cce-41c9-a6fc-32944066ae3b" group-title="USA",FOX HD
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KAAL" tvg-name="KAAL 4.1" tvg-logo="https://i.ibb.co/mCJkGqXq/kaal.png" group-title="USA",KAAL 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KAAL 4.1" tvg-logo="https://i.ibb.co/mCJkGqXq/kaal.png" group-title="USA",KAAL 4.1
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KATU" tvg-name="KATU 32.1" tvg-logo="https://i.ibb.co/hxnTCXqC/katu.png" group-title="USA",KATU 32.1
+#EXTINF:-1 tvg-id="US" tvg-name="KATU 32.1" tvg-logo="https://i.ibb.co/hxnTCXqC/katu.png" group-title="USA",KATU 32.1
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSI" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="USA",KBSI 23.1
+#EXTINF:-1 tvg-id="US" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="USA",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 tvg-id="KCPQ" tvg-name="KCPQ 13.1" tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="USA",KCPQ 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="KCPQ 13.1" tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="USA",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-#EXTINF:-1 tvg-id="KCRA" tvg-name="KCRA-TV 58.1" tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="USA",KCRA-TV 58.1
+#EXTINF:-1 tvg-id="US" tvg-name="KCRA-TV 58.1" tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="USA",KCRA-TV 58.1
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:-1 tvg-id="KDBC" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/LDhV2VTk/kdbc.png" group-title="USA",KDBC 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/LDhV2VTk/kdbc.png" group-title="USA",KDBC 4.1
 https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KDFW" tvg-name="KDFW 4.1" tvg-logo="https://i.ibb.co/PvwBjBpc/kdfw.png" group-title="USA",KDFW 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KDFW 4.1" tvg-logo="https://i.ibb.co/PvwBjBpc/kdfw.png" group-title="USA",KDFW 4.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KERO" tvg-name="KERO-TV 23.1" tvg-logo="https://i.ibb.co/DPW8fnzW/kero.png" group-title="USA",KERO-TV 23.1
+#EXTINF:-1 tvg-id="US" tvg-name="KERO-TV 23.1" tvg-logo="https://i.ibb.co/DPW8fnzW/kero.png" group-title="USA",KERO-TV 23.1
 https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
-#EXTINF:-1 tvg-id="KEYE" tvg-name="KEYE-TV 42.1" tvg-logo="https://i.ibb.co/xKd2b7NP/keye.png" group-title="USA",KEYE-TV 42.1
+#EXTINF:-1 tvg-id="US" tvg-name="KEYE-TV 42.1" tvg-logo="https://i.ibb.co/xKd2b7NP/keye.png" group-title="USA",KEYE-TV 42.1
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KGTV" tvg-name="KGTV 10.1" tvg-logo="https://i.ibb.co/67jM0VCv/kgtv.png" group-title="USA",KGTV 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="KGTV 10.1" tvg-logo="https://i.ibb.co/67jM0VCv/kgtv.png" group-title="USA",KGTV 10.1
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-id="KGUN" tvg-name="KGUN-TV 9.1" tvg-logo="https://i.ibb.co/8SX6CRX/kgun.png" group-title="USA",KGUN-TV 9.1
+#EXTINF:-1 tvg-id="US" tvg-name="KGUN-TV 9.1" tvg-logo="https://i.ibb.co/8SX6CRX/kgun.png" group-title="USA",KGUN-TV 9.1
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
-#EXTINF:-1 tvg-id="KITV" tvg-name="KITV 4.1" tvg-logo="https://i.ibb.co/jqNhKs8/kitv.png" group-title="USA",KITV 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KITV 4.1" tvg-logo="https://i.ibb.co/jqNhKs8/kitv.png" group-title="USA",KITV 4.1
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-#EXTINF:-1 tvg-id="KMGH" tvg-name="KMGH-TV 7.1" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="USA",KMGH-TV 7.1
+#EXTINF:-1 tvg-id="US" tvg-name="KMGH-TV 7.1" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="USA",KMGH-TV 7.1
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="KMPH" tvg-name="KMPH-TV 26.1" tvg-logo="https://i.ibb.co/TxDtJR61/kmph.png" group-title="USA",KMPH-TV 26.1
+#EXTINF:-1 tvg-id="US" tvg-name="KMPH-TV 26.1" tvg-logo="https://i.ibb.co/TxDtJR61/kmph.png" group-title="USA",KMPH-TV 26.1
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KMSP" tvg-name="KMSP-DT1" tvg-logo="https://i.ibb.co/B2FBQfz2/kmsp.png" group-title="USA",KMSP-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="KMSP-DT1" tvg-logo="https://i.ibb.co/B2FBQfz2/kmsp.png" group-title="USA",KMSP-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KMTV" tvg-name="KMTV-TV 3.1" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",KMTV-TV 3.1
+#EXTINF:-1 tvg-id="US" tvg-name="KMTV-TV 3.1" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",KMTV-TV 3.1
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-#EXTINF:-1 tvg-id="KNSD" tvg-name="KNSD 48.1" tvg-logo="https://i.ibb.co/5gXJ5n5w/knsd.png" group-title="USA",KNSD 48.1
+#EXTINF:-1 tvg-id="US" tvg-name="KNSD 48.1" tvg-logo="https://i.ibb.co/5gXJ5n5w/knsd.png" group-title="USA",KNSD 48.1
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-#EXTINF:-1 tvg-id="KNTV" tvg-name="KNSD 11.1" tvg-logo="https://i.ibb.co/CK82Jggj/kntv.png" group-title="USA",KNTV 11.1
+#EXTINF:-1 tvg-id="US" tvg-name="KNSD 11.1" tvg-logo="https://i.ibb.co/CK82Jggj/kntv.png" group-title="USA",KNTV 11.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8
-#EXTINF:-1 tvg-id="KNXV" tvg-name="KNXV-TV 68.1" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="USA",KNXV-TV 68.1
+#EXTINF:-1 tvg-id="US" tvg-name="KNXV-TV 68.1" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="USA",KNXV-TV 68.1
 https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
-#EXTINF:-1 tvg-id="KOAT" tvg-name="KOAT-TV 7.1" tvg-logo="https://i.ibb.co/rRCPW2fn/koat.png" group-title="USA",KOAT-TV 7.1
+#EXTINF:-1 tvg-id="US" tvg-name="KOAT-TV 7.1" tvg-logo="https://i.ibb.co/rRCPW2fn/koat.png" group-title="USA",KOAT-TV 7.1
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
-#EXTINF:-1 tvg-id="KOB" tvg-name="KOB-DT1" tvg-logo="https://i.ibb.co/GfhXpW3c/kob.png" group-title="USA",KOB-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="KOB-DT1" tvg-logo="https://i.ibb.co/GfhXpW3c/kob.png" group-title="USA",KOB-DT1
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KOKH" tvg-name="KOKH-TV 25.1" tvg-logo="https://i.ibb.co/XxNkVzKV/kokh.png" group-title="USA",KOKH-TV 25.1
+#EXTINF:-1 tvg-id="US" tvg-name="KOKH-TV 25.1" tvg-logo="https://i.ibb.co/XxNkVzKV/kokh.png" group-title="USA",KOKH-TV 25.1
 https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KOKI" tvg-name="KOKI-TV 23.1" tvg-logo="https://i.ibb.co/kshFCJ9t/koki.png" group-title="USA",KOKI-TV 23.1
+#EXTINF:-1 tvg-id="US" tvg-name="KOKI-TV 23.1" tvg-logo="https://i.ibb.co/kshFCJ9t/koki.png" group-title="USA",KOKI-TV 23.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="KOMO" tvg-name="KOMO-TV 58.1" tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="USA",KOMO-TV 58.1
+#EXTINF:-1 tvg-id="US" tvg-name="KOMO-TV 58.1" tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="USA",KOMO-TV 58.1
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KQED" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="USA",KQED 9.2
+#EXTINF:-1 tvg-id="US" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="USA",KQED 9.2
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
-#EXTINF:-1 tvg-id="KRIS" tvg-name="KRIS-TV 6.1" tvg-logo="https://i.ibb.co/Xr3yFCJN/kris.png" group-title="USA",KRIS-TV 6.1
+#EXTINF:-1 tvg-id="US" tvg-name="KRIS-TV 6.1" tvg-logo="https://i.ibb.co/Xr3yFCJN/kris.png" group-title="USA",KRIS-TV 6.1
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-#EXTINF:-1 tvg-id="KRIV" tvg-name="KRIV 26.1" tvg-logo="https://i.ibb.co/mKF6FjX/kriv.png" group-title="USA",KRIV 26.1
+#EXTINF:-1 tvg-id="US" tvg-name="KRIV 26.1" tvg-logo="https://i.ibb.co/mKF6FjX/kriv.png" group-title="USA",KRIV 26.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSAZ" tvg-name="KSAZ-TV 10.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSAZ-TV 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSAZ-TV 10.1" tvg-logo="https://i.ibb.co/S4ZHrt36/Fox10.png" group-title="USA",KSAZ-TV 10.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBW" tvg-name="KSBW 8.1" tvg-logo="https://i.ibb.co/TDn0z6VY/ksbw.png" group-title="USA",KSBW 8.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSBW 8.1" tvg-logo="https://i.ibb.co/TDn0z6VY/ksbw.png" group-title="USA",KSBW 8.1
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBY" tvg-name="KSBY 6.1" tvg-logo="https://i.ibb.co/jPkZ7kXs/ksby.png" group-title="USA",KSBY 6.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSBY 6.1" tvg-logo="https://i.ibb.co/jPkZ7kXs/ksby.png" group-title="USA",KSBY 6.1
 https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
-#EXTINF:-1 tvg-id="KSHB" tvg-name="KSHB-TV 41.1" tvg-logo="https://i.ibb.co/3mZQqRRw/kshb.png" group-title="USA",KSHB-TV 41.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSHB-TV 41.1" tvg-logo="https://i.ibb.co/3mZQqRRw/kshb.png" group-title="USA",KSHB-TV 41.1
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 tvg-id="KSNV" tvg-name="KSNV 3.1" tvg-logo="https://i.ibb.co/392KF8Bw/KSNV-logo-svg.png" group-title="USA",KSNV 3.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSNV 3.1" tvg-logo="https://i.ibb.co/392KF8Bw/KSNV-logo-svg.png" group-title="USA",KSNV 3.1
 https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KSTP" tvg-name="KSTP-TV 5.1" tvg-logo="https://i.ibb.co/tMf4W95r/kstp.png" group-title="USA",KSTP-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="KSTP-TV 5.1" tvg-logo="https://i.ibb.co/tMf4W95r/kstp.png" group-title="USA",KSTP-TV 5.1
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KTBC" tvg-name="KTBC 7.1" tvg-logo="https://i.ibb.co/gMM7mPmz/KTBC.png" group-title="USA",KTBC 7.1
+#EXTINF:-1 tvg-id="US" tvg-name="KTBC 7.1" tvg-logo="https://i.ibb.co/gMM7mPmz/KTBC.png" group-title="USA",KTBC 7.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTNV" tvg-name="KTNV-TV 33.1" tvg-logo="https://i.ibb.co/5xtwG4Ds/KTNV.png" group-title="USA",KTNV-TV 33.1
+#EXTINF:-1 tvg-id="US" tvg-name="KTNV-TV 33.1" tvg-logo="https://i.ibb.co/5xtwG4Ds/KTNV.png" group-title="USA",KTNV-TV 33.1
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 tvg-id="KTTV" tvg-name="KTTV 11.1" tvg-logo="https://i.ibb.co/Y4kh6qy4/kttv.png" group-title="USA",KTTV 11.1
+#EXTINF:-1 tvg-id="US" tvg-name="KTTV 11.1" tvg-logo="https://i.ibb.co/Y4kh6qy4/kttv.png" group-title="USA",KTTV 11.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVU" tvg-name="KTVU 4.1" tvg-logo="https://i.ibb.co/20TpcmCC/ktvu.png" group-title="USA",KTVU 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KTVU 4.1" tvg-logo="https://i.ibb.co/20TpcmCC/ktvu.png" group-title="USA",KTVU 4.1
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-id="KUTV" tvg-name="KUTV 2.1" tvg-logo="https://i.ibb.co/JRrVWQJZ/kutv.png" group-title="USA",KUTV 2.1
+#EXTINF:-1 tvg-id="US" tvg-name="KUTV 2.1" tvg-logo="https://i.ibb.co/JRrVWQJZ/kutv.png" group-title="USA",KUTV 2.1
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KWTV" tvg-name="KWTV-DT 9.1" tvg-logo="https://i.ibb.co/vvLZRy0b/kwtv.png" group-title="USA",KWTV-DT 9.1
+#EXTINF:-1 tvg-id="US" tvg-name="KWTV-DT 9.1" tvg-logo="https://i.ibb.co/vvLZRy0b/kwtv.png" group-title="USA",KWTV-DT 9.1
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
-#EXTINF:-1 tvg-id="KXAS" tvg-name="KXAS-TV 5.1" tvg-logo="https://i.ibb.co/q35THDSB/KXAS.png" group-title="USA",KXAS-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="KXAS-TV 5.1" tvg-logo="https://i.ibb.co/q35THDSB/KXAS.png" group-title="USA",KXAS-TV 5.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8
-#EXTINF:-1 tvg-id="KXXV" tvg-name="KXXV 25.1" tvg-logo="https://i.ibb.co/N2R6Vs9Y/kxxv.png" group-title="USA",KXXV 25.1
+#EXTINF:-1 tvg-id="US" tvg-name="KXXV 25.1" tvg-logo="https://i.ibb.co/N2R6Vs9Y/kxxv.png" group-title="USA",KXXV 25.1
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 tvg-id="KZTV" tvg-name="KZTV 10.1" tvg-logo="https://i.ibb.co/DDK2j2L8/kztv.png" group-title="USA",KZTV 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="KZTV 10.1" tvg-logo="https://i.ibb.co/DDK2j2L8/kztv.png" group-title="USA",KZTV 10.1
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 tvg-id="NatGeoWind" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
+#EXTINF:-1 tvg-id="US" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="PBSkids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS KIDS
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-id="TRAVELTV" tvg-name="TRAVEL TV" tvg-logo="https://i.imgur.com/g91pkgw.png" group-title="USA",TRAVELTV
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Alaska" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Hawaii" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Mountain" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Pacific" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="TRAVEL TV" tvg-logo="https://i.imgur.com/g91pkgw.png" group-title="USA",TRAVELTV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-id="USAToday" tvg-name="USA Today" tvg-logo="https://i.imgur.com/K9t4qVj.png" group-title="USA",USA TODAY
+#EXTINF:-1 tvg-id="US" tvg-name="USA Today" tvg-logo="https://i.imgur.com/K9t4qVj.png" group-title="USA",USA TODAY
 https://a-cdn.klowdtv.com/live3/usatoday_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="VLTV" tvg-name="Very Local TV" tvg-logo="https://i.imgur.com/286twxy.png" group-title="USA",Very Local TV
+#EXTINF:-1 tvg-id="US" tvg-name="Very Local TV" tvg-logo="https://i.imgur.com/286twxy.png" group-title="USA",Very Local TV
 https://stream-us-east-1.getpublica.com/cl/260712d99m3e8ncnlc73enorvg/subtitles_1_0_0_f.m3u8?i=1_14
-#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://i.imgur.com/vKYXtdE.png" group-title="USA",VOA
+#EXTINF:-1 tvg-id="US" tvg-name="VOA" tvg-logo="https://i.imgur.com/vKYXtdE.png" group-title="USA",VOA
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_0480.m3u8
-#EXTINF:-1 tvg-id="warner" tvg-name="WB Warner TV" tvg-logo="https://i.imgur.com/4qP5vAR.png" group-title="USA",WB WarnerTV
+#EXTINF:-1 tvg-id="US" tvg-name="WB Warner TV" tvg-logo="https://i.imgur.com/4qP5vAR.png" group-title="USA",WB WarnerTV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 tvg-id="WBAL" tvg-name="WBAL-TV 11.1" tvg-logo="https://i.ibb.co/1YRwNpL9/wbal.png" group-title="USA",WBAL-TV 11.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBAL-TV 11.1" tvg-logo="https://i.ibb.co/1YRwNpL9/wbal.png" group-title="USA",WBAL-TV 11.1
 https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-#EXTINF:-1 tvg-id="WBFF" tvg-name="WBFF 45.1" tvg-logo="https://i.ibb.co/qLSchjj8/wbff.png" group-title="USA",WBFF 45.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBFF 45.1" tvg-logo="https://i.ibb.co/qLSchjj8/wbff.png" group-title="USA",WBFF 45.1
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTS" tvg-name="WBTS-CD 15.1" tvg-logo="https://i.ibb.co/1Y6P9FFV/wbts.png" group-title="USA",WBTS-CD 15.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBTS-CD 15.1" tvg-logo="https://i.ibb.co/1Y6P9FFV/wbts.png" group-title="USA",WBTS-CD 15.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8
-#EXTINF:-1 tvg-id="WBTV" tvg-name="WBTV 64.1" tvg-logo="https://i.ibb.co/YFDRjT8g/wbtv.png" group-title="USA",WBTV 64.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBTV 64.1" tvg-logo="https://i.ibb.co/YFDRjT8g/wbtv.png" group-title="USA",WBTV 64.1
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="WCAU" tvg-name="WCAU 62.1" tvg-logo="https://i.ibb.co/6c0pLt2N/wcau.png" group-title="USA",WCAU 62.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCAU 62.1" tvg-logo="https://i.ibb.co/6c0pLt2N/wcau.png" group-title="USA",WCAU 62.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8
-#EXTINF:-1 tvg-id="WCBI" tvg-name="WCBI-TV 5.1" tvg-logo="https://i.ibb.co/6ccTsVTF/wcbi.png" group-title="USA",WCBI-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCBI-TV 5.1" tvg-logo="https://i.ibb.co/6ccTsVTF/wcbi.png" group-title="USA",WCBI-TV 5.1
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
-#EXTINF:-1 tvg-id="WCIU" tvg-name="WCIU-TV 26.5" tvg-logo="https://i.ibb.co/MqMGs2R/wciu.png" group-title="USA",WCIU-TV 26.5
+#EXTINF:-1 tvg-id="US" tvg-name="WCIU-TV 26.5" tvg-logo="https://i.ibb.co/MqMGs2R/wciu.png" group-title="USA",WCIU-TV 26.5
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="WCIV" tvg-name="WCIV 36.1" tvg-logo="https://i.ibb.co/7xzMkhsr/wciv.png" group-title="USA",WCIV 36.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCIV 36.1" tvg-logo="https://i.ibb.co/7xzMkhsr/wciv.png" group-title="USA",WCIV 36.1
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WCVB" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="USA",WCVB-TV 50.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="USA",WCVB-TV 50.1
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-id="WDEF" tvg-name="WDEF-TV 12.1" tvg-logo="https://i.ibb.co/TBSrDv0S/wdef.png" group-title="USA",WDEF-TV 12.1
+#EXTINF:-1 tvg-id="US" tvg-name="WDEF-TV 12.1" tvg-logo="https://i.ibb.co/TBSrDv0S/wdef.png" group-title="USA",WDEF-TV 12.1
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
-#EXTINF:-1 tvg-id="WDIO" tvg-name="WDIO-DT 10.1" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" group-title="USA",WDIO-DT 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="WDIO-DT 10.1" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" group-title="USA",WDIO-DT 10.1
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WEDQ" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="USA",WEDQ 3.4
+#EXTINF:-1 tvg-id="US" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="USA",WEDQ 3.4
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
-#EXTINF:-1 tvg-id="WFLD" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="USA",WFLD 50.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="USA",WFLD 50.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTX" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="USA",WFTX-TV 36.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="USA",WFTX-TV 36.1
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="WFXT" tvg-name="WFXT 25.1" tvg-logo="https://i.ibb.co/XBJHJVs/wfxt.png" group-title="USA",WFXT 25.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFXT 25.1" tvg-logo="https://i.ibb.co/XBJHJVs/wfxt.png" group-title="USA",WFXT 25.1
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="WGAL" tvg-name="WGAL 8.1" tvg-logo="https://i.ibb.co/v6WpkfmB/wgal.png" group-title="USA,WGAL 8.1
+#EXTINF:-1 tvg-id="US" tvg-name="WGAL 8.1" tvg-logo="https://i.ibb.co/v6WpkfmB/wgal.png" group-title="USA,WGAL 8.1
 https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-#EXTINF:-1 tvg-id="WGBA" tvg-name="WGBA-TV 26.1" tvg-logo="https://i.ibb.co/vxrJ6Gwk/wgba.png" group-title="USA",WGBA-TV 26.1
+#EXTINF:-1 tvg-id="US" tvg-name="WGBA-TV 26.1" tvg-logo="https://i.ibb.co/vxrJ6Gwk/wgba.png" group-title="USA",WGBA-TV 26.1
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
-#EXTINF:-1 tvg-id="WGTV" tvg-name="WGTV 8.3" tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="USA",WGTV 8.3
+#EXTINF:-1 tvg-id="US" tvg-name="WGTV 8.3" tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="USA",WGTV 8.3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="WHBQ" tvg-name="WHEC-TV 13.1" tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 13.1" tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WHEC" tvg-name="WHEC-TV 10.1" tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 10.1" tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WISN" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
+#EXTINF:-1 tvg-id="US" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
-#EXTINF:-1 tvg-id="WITI" tvg-name="WITI 6.1" tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="USA",WITI 6.1
+#EXTINF:-1 tvg-id="US" tvg-name="WITI 6.1" tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="USA",WITI 6.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WJBK" tvg-name="WJBK 2.1" tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="USA",WJBK 2.1
+#EXTINF:-1 tvg-id="US" tvg-name="WJBK 2.1" tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="USA",WJBK 2.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WJXT" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
+#EXTINF:-1 tvg-id="US" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 tvg-id="WMAQ" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8
-#EXTINF:-1 tvg-id="WMAR" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="WMGT" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
-#EXTINF:-1 tvg-id="WMPT" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
+#EXTINF:-1 tvg-id="US" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPT" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="WMUR" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBC" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8
-#EXTINF:-1 tvg-id="WNYT" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYW" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WPTV" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-id="WRC" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8
-#EXTINF:-1 tvg-id="WSBS" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
+#EXTINF:-1 tvg-id="US" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-id="WSLF" tvg-name="WSLF-LD 35.1" tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
+#EXTINF:-1 tvg-id="US" tvg-name="WSLF-LD 35.1" tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
-#EXTINF:-1 tvg-id="WSOC" tvg-name="WSOC-TV 9.1" tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
+#EXTINF:-1 tvg-id="US" tvg-name="WSOC-TV 9.1" tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
-#EXTINF:-1 tvg-id="WTMO" tvg-name="WTMO-CD 31.1" tvg-logo="https://i.ibb.co/4wfrc4gq/wtmo.png" group-title="USA",WTMO-CD 31.1
+#EXTINF:-1 tvg-id="US" tvg-name="WTMO-CD 31.1" tvg-logo="https://i.ibb.co/4wfrc4gq/wtmo.png" group-title="USA",WTMO-CD 31.1
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="WTTG" tvg-name="WTTG-DT1" tvg-logo="https://i.ibb.co/70xXynB/wttg.png" group-title="USA",WTTG-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WTTG-DT1" tvg-logo="https://i.ibb.co/70xXynB/wttg.png" group-title="USA",WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVQ" tvg-name="WTVQ-DT 36.1" tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
+#EXTINF:-1 tvg-id="US" tvg-name="WTVQ-DT 36.1" tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-#EXTINF:-1 tvg-id="WTVT" tvg-name="WTVT-DT1" tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WTVT-DT1" tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXF" tvg-name="WTXF-DT1" tvg-logo="https://i.ibb.co/tMnWJZnP/wtxf.png" group-title="USA",WTXF-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WTXF-DT1" tvg-logo="https://i.ibb.co/tMnWJZnP/wtxf.png" group-title="USA",WTXF-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXL" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/27h8mF4C/wvit.png" group-title="USA",WTXL-TV 27.1
+#EXTINF:-1 tvg-id="US" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/27h8mF4C/wvit.png" group-title="USA",WTXL-TV 27.1
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
-#EXTINF:-1 tvg-id="WVIT" tvg-name="WVIT-DT1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WVIT-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WVIT-DT1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WVIT-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
-#EXTINF:-1 tvg-id="WWAY" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
+#EXTINF:-1 tvg-id="US" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
-#EXTINF:-1 tvg-id="WXII" tvg-name="WXII-TV 20.1" tvg-logo="https://i.ibb.co/tpCJ18rv/wxii.png" group-title="USA",WXII-TV 20.1
+#EXTINF:-1 tvg-id="US" tvg-name="WXII-TV 20.1" tvg-logo="https://i.ibb.co/tpCJ18rv/wxii.png" group-title="USA",WXII-TV 20.1
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
