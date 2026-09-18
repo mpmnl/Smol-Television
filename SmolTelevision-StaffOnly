@@ -896,6 +896,8 @@ https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playl
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KMGH-TV 7.1" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="USA",KMGH-TV 7.1
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="KMOV 4.1" tvg-logo="https://i.ibb.co/G3Nnny92/kmov.png" group-title="USA",KMOV 4.1
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KMPH-TV 26.1" tvg-logo="https://i.ibb.co/TxDtJR61/kmph.png" group-title="USA",KMPH-TV 26.1
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KMSP-DT1" tvg-logo="https://i.ibb.co/B2FBQfz2/kmsp.png" group-title="USA",KMSP-DT1
@@ -1000,6 +1002,8 @@ https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="USA",WEDQ 3.4
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="WFOR-TV 4.1" tvg-logo="https://i.ibb.co/0VQNv81t/wfor.png" group-title="USA",WFOR-TV 4.1
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="USA",WFLD 50.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="USA",WFTX-TV 36.1
