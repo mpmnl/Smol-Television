@@ -173,7 +173,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" tvg-name="ATV3 An Giang" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Địa Phương",ATV3 An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacninh" tvg-name="BTV Bắc Ninh" tvg-logo="https://i.imgur.com/sQbFfK8.png" group-title="Địa Phương",BTV Bắc Ninh
-https://live.mediatech.vn/live/285983d45f5bdab43ebb4cab75573adeda1/chunklist.m3u8
+https://vmttv.dpdns.org/tv360/?id=39
 #EXTINF:-1 tvg-id="binhthuan6" tvg-name="BTV6 Bình Thuân" tvg-logo="https://i.imgur.com/bd7WmZz.png" group-title="Địa Phương Cũ",BTV6 Bình Thuận
 https://freem3u.xyz/api/live/play.m3u8?vid=9838
 #EXTINF:-1 tvg-id="camau" tvg-name="CTV Cà Mau" tvg-logo="https://i.imgur.com/R0skSVV.png" group-title="Địa Phương",CTV Cà Mau
