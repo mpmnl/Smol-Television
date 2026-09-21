@@ -281,9 +281,9 @@ https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgt" tvg-name="VOV Giao Thông" tvg-logo="https://i.imgur.com/Ayq2XBv.png" group-title="FM Radio",VOV Giao Thông
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
-#EXTINF:-1 tvg-id="voh999" tvg-name="VOH 99.9" tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio",VOH 99.9
+#EXTINF:-1 tvg-id="voh999" tvg-name="VOH2 FM 99.9 MHz" tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio",VOH 99.9
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
-#EXTINF:-1 tvg-id="voh956" tvg-name="VOH 95.6" tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio",VOH 95.6
+#EXTINF:-1 tvg-id="voh956" tvg-name="VOH.FM.95.6" tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio",VOH 95.6
 https://freem3u.xyz/api/live/play.m3u8?vid=10039
 #EXTINF:-1 tvg-id="voh610" tvg-name="VOH 610" tvg-logo="https://i.imgur.com/8PjxF7o.png" group-title="FM Radio",VOH 610
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
@@ -357,11 +357,11 @@ https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="AFN" tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="KIX" tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX" tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="TVB Việt Nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
+#EXTINF:-1 tvg-id="TVBVietnam.hk" tvg-name="TVB Việt Nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HiTV
