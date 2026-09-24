@@ -958,15 +958,15 @@ https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="Nat Geo Wind" tvg-logo="https://i.imgur.com/7Fd8iYk.png" group-title="USA",NAT GEO WILD
 https://a-cdn.klowdtv.com/live3/wildtv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids" tvg-logo="https://i.ibb.co/QFDyvxQp/pbs.png" group-title="USA",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Alaska" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Alaska
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Alaska" tvg-logo="https://i.ibb.co/QFDyvxQp/pbs.png" group-title="USA",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Hawaii" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Hawaii
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Hawaii" tvg-logo="https://i.ibb.co/QFDyvxQp/pbs.png" group-title="USA",PBS Kids Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Mountain" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Mountain
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Mountain" tvg-logo="https://i.ibb.co/QFDyvxQp/pbs.png" group-title="USA",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Pacific" tvg-logo="https://i.imgur.com/PYx6q9h.png" group-title="USA",PBS Kids Pacific
+#EXTINF:-1 tvg-id="US" tvg-name="PBS Kids Pacific" tvg-logo="https://i.ibb.co/QFDyvxQp/pbs.png" group-title="USA",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="TRAVEL TV" tvg-logo="https://i.imgur.com/g91pkgw.png" group-title="USA",TRAVELTV
 https://streamer103.neterra.tv/travel/live.m3u8
