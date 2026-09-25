@@ -364,17 +364,17 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="TVBVietnam.hk" tvg-name="TVB Việt Nam" tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HiTV
-https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-id="plearth" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="hnc" tvg-name="YouTV" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
+#EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HiTV
+https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 tvg-id="youtv" tvg-name="YouTV" tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-#EXTINF:-1 tvg-id="AL" tvg-name="CNA Albania" tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA Albania" tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="AL" tvg-name="News 24 Albania" tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
 ttps://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AL" tvg-name="NTV Albania" tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
