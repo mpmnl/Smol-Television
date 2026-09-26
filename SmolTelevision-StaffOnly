@@ -615,6 +615,13 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MD" tvg-name="Moldova 1" tvg-logo="https://i.ibb.co/KzpyvCDP/image.png" group-title="Moldova",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="MD" tvg-name="Moldova 2" tvg-logo="https://i.ibb.co/Lz6Qj3Tg/image.png" group-title="Moldova",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 tvg-id="MD" tvg-name="TVR Moldova" tvg-logo="https://i.ibb.co/JR8mFhVY/image.png" group-title="Moldova",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="MN" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 #EXTINF:-1 tvg-id="MN" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
@@ -637,6 +644,41 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 tvg-id="KP" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="PT" tvg-name="RTP1" tvg-logo="https://i.ibb.co/Wp4m7Z4x/image.png" group-title="Portugal",RTP1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="RTP Acores" tvg-logo="https://i.ibb.co/pj0Z639k/image.png" group-title="Portugal",RTP Acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="RTP Madeira" tvg-logo="https://i.ibb.co/8gqL9yjn/image.png" group-title="Portugal",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="RTP Mundo" tvg-logo="https://i.ibb.co/pBKB0mhH/image.png" group-title="Portugal",RTP Mundo
+https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="RTP Noticias" tvg-logo="https://i.ibb.co/DfGs92ft/image.png" group-title="Portugal",RTP Noticias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="SIC Alta Definicao" tvg-logo="https://i.ibb.co/6cXLMPZ0/image.png" group-title="Portugal",SIC Alta Definicao
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="SIC Replay" tvg-logo="https://i.ibb.co/ccNss5FC/image.png" group-title="Portugal",SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana 1" tvg-logo="https://i.ibb.co/PvWh10Qg/image.png" group-title="Portugal",TV Mana 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana 2" tvg-logo="https://i.ibb.co/5WLqSb9B/image.png" group-title="Portugal",TV Mana 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Brasil" tvg-logo="https://i.ibb.co/sJjNQNxy/image.png" group-title="Portugal",TV Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana English" tvg-logo="https://i.ibb.co/5WVFDT9q/image.png" group-title="Portugal",TV Mana English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Espanol" tvg-logo="https://i.ibb.co/Y4TkhhQM/image.png" group-title="Portugal",TV Mana Espanol
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Russiya" tvg-logo="https://i.ibb.co/672yH3Xt/image.png" group-title="Portugal",TV Mana Russiya
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PT" tvg-name="TVI" tvg-logo="https://i.ibb.co/kgh0mg7X/image.png" group-title="Portugal",TVI
+https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
+#EXTINF:-1 tvg-id="PT" tvg-name="TVI Ficcao" tvg-logo="https://i.ibb.co/YB0FtYNs/image.png" group-title="Portugal",TVI Ficcao
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
+#EXTINF:-1 tvg-id="PT" tvg-name="TVI Reality" tvg-logo="https://i.ibb.co/d41m9j29/image.png" group-title="Portugal",TVI Reality
+https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
+#EXTINF:-1 tvg-id="PT" tvg-name="V+ TVI" tvg-logo="https://i.ibb.co/xqkfX71g/image.png" group-title="Portugal",V+ TVI
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
 
 #EXTINF:-1 tvg-id="RU" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
