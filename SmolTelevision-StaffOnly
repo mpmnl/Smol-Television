@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://vnepg.site/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://onnamx.io.vn/epg.xml" m3uautoload=1
+#EXTM3U
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.ibb.co/qLD3ZMjb/vtv1.png" group-title="VTV",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
