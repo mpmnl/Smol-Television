@@ -522,6 +522,15 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DK" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
+#EXTINF:-1 tvg-id="DK" tvg-name="DRTV" tvg-logo="https://i.ibb.co/yBcrWx5k/image.png" group-title="Denmark",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+
+#EXTINF:-1 tvg-id="EE" tvg-name="ETV" tvg-logo="https://i.ibb.co/dwQvfZby/image.png" group-title="Estonia",ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="EE" tvg-name="ETV2" tvg-logo="https://i.ibb.co/chgBwry2/image.png" group-title="Estonia",ETV2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="EE" tvg-name="ETV+" tvg-logo="https://i.ibb.co/4RYDzwhr/image.png" group-title="Estonia",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-name="BFM 2" tvg-logo="https://i.ibb.co/BHCdtjg2/image.png" group-title="France",BFM 2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
@@ -625,6 +634,15 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LT" tvg-name="LRT Klasika" tvg-logo="https://i.ibb.co/5xK2BY2C/lithuanian-national-radio-and-television-klasika-logo-png-seeklogo-449887.png" group-title="Lithuania",LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 tvg-id="LT" tvg-name="LRT Lituanica" tvg-logo="https://i.ibb.co/r2ng7Y2n/images-5.png" group-title="Lithuania",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="LT" tvg-name="LRT Opus" tvg-logo="https://i.ibb.co/vv6DWRGN/LRT-OPUS.png" group-title="Lithuania",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1 tvg-id="LT" tvg-name="LRT Radijas" tvg-logo="https://i.ibb.co/k6QJSWkc/LRT-RADIJAS.png" group-title="Lithuania",LRT Radijas
+https://stream-live.lrt.lt/radijas/master.m3u8
+
 #EXTINF:-1 tvg-id="MD" tvg-name="Moldova 1" tvg-logo="https://i.ibb.co/KzpyvCDP/image.png" group-title="Moldova",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-id="MD" tvg-name="Moldova 2" tvg-logo="https://i.ibb.co/Lz6Qj3Tg/image.png" group-title="Moldova",Moldova 2
@@ -654,6 +672,9 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 tvg-id="KP" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="PL" tvg-name="TVP World" tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="North Korea",TVP World
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 
 #EXTINF:-1 tvg-id="PT" tvg-name="RTP1" tvg-logo="https://i.ibb.co/Wp4m7Z4x/image.png" group-title="Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
@@ -690,10 +711,36 @@ https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-id="PT" tvg-name="V+ TVI" tvg-logo="https://i.ibb.co/xqkfX71g/image.png" group-title="Portugal",V+ TVI
 https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
 
+#EXTINF:-1 tvg-id="RU" tvg-name="Carousel" tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel
+http://flussonic.linkintel.ru/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Carousel International" tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel International
+https://fs.uplink.kz/karusel/mono.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Channel One HD" tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One HD
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Channel One CIS" tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One CIS
+https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="RU" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RU" tvg-name="RT" tvg-logo="https://i.ibb.co/HL6yF6VG/rt.png" group-title="Russia",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Russia 1 HD" tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Russia 1 Vainah" tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 Vainah
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="Russia 24" tvg-logo="https://i.ibb.co/84bdJtg5/image.png" group-title="Russia",Russia 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="RT Documentary" tvg-logo="https://i.ibb.co/G4DKHBPP/RT-Doc.png" group-title="Russia",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="RTR-Planeta" tvg-logo="https://i.ibb.co/0p03Bshr/image-2.png" group-title="Russia",RTR-Planeta
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="TV5 International Russia" tvg-logo="https://i.ibb.co/yFD4cYBc/3-F3-F3-F3-F3-F-2023.png" group-title="Russia",TV5 International Russia
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia
+https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia Krasnoyarsk" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Krasnoyarsk
+https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia Novosibirsk" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Novosibirsk
+https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SG" tvg-name="CNA Original" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
