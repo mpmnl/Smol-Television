@@ -673,7 +673,7 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-id="KP" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="PL" tvg-name="TVP World" tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="North Korea",TVP World
+#EXTINF:-1 tvg-id="PL" tvg-name="TVP World" tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="Poland",TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 
 #EXTINF:-1 tvg-id="PT" tvg-name="RTP1" tvg-logo="https://i.ibb.co/Wp4m7Z4x/image.png" group-title="Portugal",RTP1
