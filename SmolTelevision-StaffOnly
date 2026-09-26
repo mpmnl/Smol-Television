@@ -509,8 +509,16 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CY" tvg-name="SAT 7 Kids" tvg-logo="https://i.ibb.co/ksvMxxCL/sat7.png" group-title="Cyprus",SAT 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="CZ" tvg-name="CT1 (Audio Only)" tvg-logo="https://i.ibb.co/7xrbDXbp/ct1.png" group-title="Czech",CT1 (Audio Only)
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CZ" tvg-name="CT2 (Audio Only)" tvg-logo="https://i.ibb.co/fY436vxy/ct2.png" group-title="Czech",CT2 (Audio Only)
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CZ" tvg-name="CT24" tvg-logo="https://i.imgur.com/cbXQET5.png" group-title="Czech",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CZ" tvg-name="CT Art" tvg-logo="https://i.ibb.co/Gy1tt4t/ctart.png" group-title="Czech",CT Art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CZ" tvg-name="CT Sport" tvg-logo="https://i.ibb.co/mCr8Q6rr/ctsp.png" group-title="Czech",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DK" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
@@ -569,6 +577,8 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_960
 #EXTINF:-1 tvg-id="ID" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
+#EXTINF:-1 tvg-id="IT" tvg-name="Italia 2" tvg-logo="https://i.ibb.co/5hPY6Py9/ita2.png" group-title="Italy",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="IT" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Italy",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="IT" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Italy",Rai 2
@@ -682,6 +692,8 @@ https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.
 
 #EXTINF:-1 tvg-id="RU" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RU" tvg-name="RT" tvg-logo="https://i.ibb.co/HL6yF6VG/rt.png" group-title="Russia",RT
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 
 #EXTINF:-1 tvg-id="SG" tvg-name="CNA Original" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
@@ -896,6 +908,11 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 #EXTINF:-1 tvg-id="GB" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="UK",Top Gear
 https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 
+#EXTINF:-1 tvg-id="UA" tvg-name="Suspilne Kultura" tvg-logo="https://i.ibb.co/CszcP5XP/suskul.png" group-title="Ukraine",Suspilne Kultura
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-id="UA" tvg-name="Suspilne Sport" tvg-logo="https://i.ibb.co/wZs9sNQ6/Sussp.png" group-title="Ukraine",Suspilne Sport
+http://stream.mcquack.net/444/index.m3u8
+
 #EXTINF:-1 tvg-id="US" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/CNX2TQ8.png" group-title="USA",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/awwV1MH.png" group-title="USA",AL JAZEERA
@@ -904,6 +921,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg-avc1_3000000=11-mp4a_256000_eng=10.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/oXOyF73.png" group-title="USA",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="CBS News 24/7" tvg-logo="https://i.ibb.co/Rpkc3Ln2/cbsn24.png" group-title="USA",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="USA",CNBC
 https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="CNN" tvg-logo="https://i.imgur.com/JVAT61Q.png" group-title="USA",CNN
@@ -1070,6 +1089,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="WJZ-TV 13.1" tvg-logo="https://i.ibb.co/YTy7fb3s/wjz.png" group-title="USA",WJZ-TV 13.1
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
