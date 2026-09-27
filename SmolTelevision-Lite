@@ -1,15 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="VN" tvg-name="vtv1" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV",VTV1 
+#EXTINF:-1 tvg-id="VN" tvg-name="vtv1" tvg-logo="https://i.ibb.co/qLD3ZMjb/vtv1.png" group-title="VTV",VTV1 
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_400000=10004-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="vtv2" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VTV",VTV2 
+#EXTINF:-1 tvg-id="VN" tvg-name="vtv2" tvg-logo="https://i.ibb.co/XG043Pp/vtv2.png" group-title="VTV",VTV2 
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_400000=10004-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="vtv3" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VTV",VTV3 
+#EXTINF:-1 tvg-id="VN" tvg-name="vtv3" tvg-logo="https://i.ibb.co/Ps0mzzgc/vtv3.png" group-title="VTV",VTV3 
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_400000=10004-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="vtv4" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="VTV",VTV4
+#EXTINF:-1 tvg-id="VN" tvg-name="vtv4" tvg-logo="https://i.ibb.co/MDkjc9wb/vtv4.png" group-title="VTV",VTV4
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_400000=10004-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="vtv5" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="VTV",VTV5
+#EXTINF:-1 tvg-id="VN" tvg-name="vtv5" tvg-logo="https://i.ibb.co/x8tJkVhH/vtv5.png" group-title="VTV",VTV5
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://i.ibb.co/DH6KZX4W/vtv5tnb.png" group-title="VTV",VTV5 Tây Nam Bộ
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/live/vtv5tnb_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="VN" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://i.ibb.co/gLszMrvM/vtv5tn.png" group-title="VTV",VTV5 Tây Nguyên
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/live/vtv5tn_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="VTV6" tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="VTV7" tvg-logo="https://i.ibb.co/27D7BnGr/vtv7.png" group-title="VTV",VTV7
