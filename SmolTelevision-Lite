@@ -208,7 +208,7 @@ https://liveh12byt.vtvprime.vn/hls/AFC/02.m3u8
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="KVN" tvg-name="KIX" tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b1800000.m3u8
-
+#EXTINF:-1 tvg-id="KVN" tvg-name="Outdoor" tvg-logo="https://i.ibb.co/chfzG2Wj/outd.png" group-title="Kênh Quốc Tế Feed Việt Nam",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-name="TV5 Monde" tvg-logo="https://i.ibb.co/yzBRgpS/image.png" group-title="France",TV5 Monde
