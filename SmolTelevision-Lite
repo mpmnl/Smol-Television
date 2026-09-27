@@ -13,6 +13,11 @@ https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_400000=1000
 #EXTINF:-1 tvg-id="VN" tvg-name="VTV6" tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_480p.m3u8
 
+#EXTINF:-1 tvg-id="VN" tvg-name="ANTV" tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+
+
+
 #EXTINF:-1 tvg-id="quangninh" tvg-name="QTV1 Quảng Ninh" tvg-logo="https://i.imgur.com/7tPbOJm.png" group-title="Địa Phương",QTV1 Quảng Ninh
 https://liveh12vng.vtvprime.vn/hls/QUANGNINHTV/02.m3u8
 #EXTINF:-1 tvg-id="quangninh" tvg-name="QTV3 Quảng Ninh" tvg-logo="https://i.imgur.com/rN0EFdl.png" group-title="Địa Phương",QTV3 Quảng Ninh
