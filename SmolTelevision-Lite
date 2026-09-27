@@ -59,6 +59,8 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="HanoiTV1 Hà Nội" tvg-logo="https://i.imgur.com/WJfYbqX.png" group-title="Địa Phương",HanoiTV1 Hà Nội
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="VN" tvg-name="HanoiTV2 Hà Nội" tvg-logo="https://i.imgur.com/iPPLn2L.png" group-title="Địa Phương",HanoiTV2 Hà Nội
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w1272318303_b1064000_slen.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="HuếTV Huế" tvg-logo="https://i.imgur.com/y0elTRN.png" group-title="Địa Phương",HuếTV Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="KTV Khánh Hòa" tvg-logo="https://i.imgur.com/gHSsxFV.png" group-title="Địa Phương",KTV Khánh Hòa
@@ -88,6 +90,10 @@ https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="VN" tvg-name="TTV Tuyên Quang" tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
 https://vtvgolive-ott4.vtvdigital.vn/live/hagiangtv/chunklist_1.m3u8
 
+#EXTINF:-1 tvg-id="Radio" tvg-name="FM90" tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio",FM90
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+#EXTINF:-1 tvg-id="Radio" tvg-name="FM96" tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio",FM96
+https://cloudcdnfm90.tek4tv.vn/HANOI96/index.m3u8
 #EXTINF:-1 tvg-id="Radio" tvg-name="Quảng Ngãi 102.9" tvg-logo="https://i.imgur.com/RJ2qVhY.png" group-title="FM Radio",Quảng Ngãi 102.9
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio" tvg-name="QNR1 Radio" tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio",QNR1 Radio
