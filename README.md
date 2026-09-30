@@ -8,7 +8,7 @@
 ### Youtube: https://www.youtube.com/@Cobemuadong69420
 ### Discord: mpmnl
 -----------------------------------------------------------------------
-Special thanks: BSOD999, Myyer, https://iptv-web.app
+Special thanks: BSOD999, DHA, Myyer, https://iptv-web.app
 -----------------------------------------------------------------------
 CODE KHÔNG CẦN ĐỌC
 <video src="https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96" controls width="100%"></video>
