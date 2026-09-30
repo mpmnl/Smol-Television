@@ -4,13 +4,13 @@
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KATU 32.1" tvg-logo="https://i.ibb.co/hxnTCXqC/katu.png" group-title="Portland - OR",KATU 32.1
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="CapeGirardeau - MO",KBSI 23.1
+#EXTINF:-1 tvg-id="US" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="Cape Girardeau - MO",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KCPQ 13.1" tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="Seattle - WA",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KCRA-TV 58.1" tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="Sacramento - CA",KCRA-TV 58.1
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/LDhV2VTk/kdbc.png" group-title="ElPaso - TX",KDBC 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="KDBC 4.1" tvg-logo="https://i.ibb.co/LDhV2VTk/kdbc.png" group-title="El Paso - TX",KDBC 4.1
 https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KDFW 4.1" tvg-logo="https://i.ibb.co/PvwBjBpc/kdfw.png" group-title="Dallas - TX",KDFW 4.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
@@ -87,81 +87,81 @@ https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KZTV 10.1" tvg-logo="https://i.ibb.co/DDK2j2L8/kztv.png" group-title="Corpus Christi - TX",KZTV 10.1
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 
-#EXTINF:-1 tvg-id="US" tvg-name="WBAL-TV 11.1" tvg-logo="https://i.ibb.co/1YRwNpL9/wbal.png" group-title="West America",WBAL-TV 11.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBAL-TV 11.1" tvg-logo="https://i.ibb.co/1YRwNpL9/wbal.png" group-title="Baltimore - MD",WBAL-TV 11.1
 https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WBFF 45.1" tvg-logo="https://i.ibb.co/qLSchjj8/wbff.png" group-title="West America",WBFF 45.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBFF 45.1" tvg-logo="https://i.ibb.co/qLSchjj8/wbff.png" group-title="Baltimore - MD",WBFF 45.1
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WBTS-CD 15.1" tvg-logo="https://i.ibb.co/1Y6P9FFV/wbts.png" group-title="West America",WBTS-CD 15.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBTS-CD 15.1" tvg-logo="https://i.ibb.co/1Y6P9FFV/wbts.png" group-title="Needham - MA",WBTS-CD 15.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WBTV 64.1" tvg-logo="https://i.ibb.co/YFDRjT8g/wbtv.png" group-title="West America",WBTV 64.1
+#EXTINF:-1 tvg-id="US" tvg-name="WBTV 64.1" tvg-logo="https://i.ibb.co/YFDRjT8g/wbtv.png" group-title="Charlotte - NC",WBTV 64.1
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WCAU 62.1" tvg-logo="https://i.ibb.co/6c0pLt2N/wcau.png" group-title="West America",WCAU 62.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCAU 62.1" tvg-logo="https://i.ibb.co/6c0pLt2N/wcau.png" group-title="Philadelphia - PA",WCAU 62.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WCBI-TV 5.1" tvg-logo="https://i.ibb.co/6ccTsVTF/wcbi.png" group-title="West America",WCBI-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCBI-TV 5.1" tvg-logo="https://i.ibb.co/6ccTsVTF/wcbi.png" group-title="Columbus - MS",WCBI-TV 5.1
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WCIU-TV 26.5" tvg-logo="https://i.ibb.co/MqMGs2R/wciu.png" group-title="West America",WCIU-TV 26.5
+#EXTINF:-1 tvg-id="US" tvg-name="WCIU-TV 26.5" tvg-logo="https://i.ibb.co/MqMGs2R/wciu.png" group-title="Chicago - IL",WCIU-TV 26.5
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WCIV 36.1" tvg-logo="https://i.ibb.co/7xzMkhsr/wciv.png" group-title="West America",WCIV 36.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCIV 36.1" tvg-logo="https://i.ibb.co/7xzMkhsr/wciv.png" group-title="Mount Pleasant - SC",WCIV 36.1
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="West America",WCVB-TV 50.1
+#EXTINF:-1 tvg-id="US" tvg-name="WCVB-TV 50.1" tvg-logo="https://i.ibb.co/1tH4fVgJ/WCVB.png" group-title="Needham Heights - MA",WCVB-TV 50.1
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WDEF-TV 12.1" tvg-logo="https://i.ibb.co/TBSrDv0S/wdef.png" group-title="West America",WDEF-TV 12.1
+#EXTINF:-1 tvg-id="US" tvg-name="WDEF-TV 12.1" tvg-logo="https://i.ibb.co/TBSrDv0S/wdef.png" group-title="Chattanooga - TN",WDEF-TV 12.1
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WDIO-DT 10.1" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" group-title="USA",WDIO-DT 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="WDIO-DT 10.1" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" group-title="Duluth - MN",WDIO-DT 10.1
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="USA",WEDQ 3.4
+#EXTINF:-1 tvg-id="US" tvg-name="WEDQ 3.4" tvg-logo="https://i.ibb.co/7dKn07cy/wedq.png" group-title="Tampa - FL",WEDQ 3.4
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WFOR-TV 4.1" tvg-logo="https://i.ibb.co/0VQNv81t/wfor.png" group-title="USA",WFOR-TV 4.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFOR-TV 4.1" tvg-logo="https://i.ibb.co/0VQNv81t/wfor.png" group-title="Doral - FL",WFOR-TV 4.1
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="USA",WFLD 50.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFLD 50.1" tvg-logo="https://i.ibb.co/vCCPNp9L/wfld.png" group-title="Chicago - IL",WFLD 50.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="USA",WFTX-TV 36.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFTX-TV 36.1" tvg-logo="https://i.ibb.co/yJcTp9x/wftx.png" group-title="Cape Coral - FL",WFTX-TV 36.1
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WFXT 25.1" tvg-logo="https://i.ibb.co/XBJHJVs/wfxt.png" group-title="USA",WFXT 25.1
+#EXTINF:-1 tvg-id="US" tvg-name="WFXT 25.1" tvg-logo="https://i.ibb.co/XBJHJVs/wfxt.png" group-title="Dedham - MA",WFXT 25.1
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WGAL 8.1" tvg-logo="https://i.ibb.co/v6WpkfmB/wgal.png" group-title="USA,WGAL 8.1
+#EXTINF:-1 tvg-id="US" tvg-name="WGAL 8.1" tvg-logo="https://i.ibb.co/v6WpkfmB/wgal.png" group-title="Lancaster - PA",WGAL 8.1
 https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WGBA-TV 26.1" tvg-logo="https://i.ibb.co/vxrJ6Gwk/wgba.png" group-title="USA",WGBA-TV 26.1
+#EXTINF:-1 tvg-id="US" tvg-name="WGBA-TV 26.1" tvg-logo="https://i.ibb.co/vxrJ6Gwk/wgba.png" group-title="Ashwaubenon - WI",WGBA-TV 26.1
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WGTV 8.3" tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="USA",WGTV 8.3
+#EXTINF:-1 tvg-id="US" tvg-name="WGTV 8.3" tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="St NW - Atlanta",WGTV 8.3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 13.1" tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 13.1" tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="Rochester - NY",WHEC-TV 13.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 10.1" tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
+#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 10.1" tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="Rochester - NY",WHEC-TV 10.1
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
+#EXTINF:-1 tvg-id="US" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="Milwaukee - WI",WISN-TV 12.1
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WITI 6.1" tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="USA",WITI 6.1
+#EXTINF:-1 tvg-id="US" tvg-name="WITI 6.1" tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="Brown Deer - WI",WITI 6.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJBK 2.1" tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="USA",WJBK 2.1
+#EXTINF:-1 tvg-id="US" tvg-name="WJBK 2.1" tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="Southfield - MI",WJBK 2.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
+#EXTINF:-1 tvg-id="US" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="Jacksonville - FL",WJXT 7.1
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJZ-TV 13.1" tvg-logo="https://i.ibb.co/YTy7fb3s/wjz.png" group-title="USA",WJZ-TV 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="WJZ-TV 13.1" tvg-logo="https://i.ibb.co/YTy7fb3s/wjz.png" group-title="Baltimore - MD",WJZ-TV 13.1
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="Chicago - IL",WMAQ-TV 5.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="Towson - MD",WMAR-TV 2.1
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="Macon - GA",WMGT-TV 41.1
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
+#EXTINF:-1 tvg-id="US" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="Owings Mills - MD",WMPT 22.2
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="Owings Mills - MD",WMPT 54.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
+#EXTINF:-1 tvg-id="US" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="Manchester - NH",WMUR-TV 9.1
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="New York - NY",WNBC 47.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="Albany - NY",WNYT 13.1
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="New York - NY",WNYW 5.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
+#EXTINF:-1 tvg-id="US" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="West Palm Beach - FL",WPTV-TV 5.1
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
+#EXTINF:-1 tvg-id="US" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="Washington D.C.",WRC-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
+#EXTINF:-1 tvg-id="US" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="Miami - FL",WSBS-TV 21.1
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WSLF-LD 35.1" tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
