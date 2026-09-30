@@ -1,13 +1,13 @@
 # Smol Television
 -----------------------------------------------------------------------
-## Our playlist:
-### https://tinyurl.com/SmolTeleV1
-### https://tinyurl.com/SmolTeleLite
-### https://tinyurl.com/SmolTeleUS
+### Our playlist:
+https://tinyurl.com/SmolTeleV1
+https://tinyurl.com/SmolTeleLite
+https://tinyurl.com/SmolTeleUS
 -----------------------------------------------------------------------
-## Our social media:
-### Youtube: https://www.youtube.com/@Cobemuadong69420
-### Discord: mpmnl
+### Our social media:
+Youtube: https://www.youtube.com/@Cobemuadong69420
+Discord: mpmnl
 -----------------------------------------------------------------------
 ## Special thanks: BSOD999, DHA, Myyer, https://iptv-web.app
 -----------------------------------------------------------------------
