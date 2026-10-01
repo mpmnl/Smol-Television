@@ -50,6 +50,8 @@ https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="KOMO" tvg-name="KOMO-TV 58.1" tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="Seattle - WA",KOMO-TV 58.1
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="KOVR" tvg-name="KOVR 13.1" tvg-logo="https://i.ibb.co/hRmqshpk/kovr.png" group-title="West Sacramento - CA",KOVR 13.1
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 tvg-id="KQED" tvg-name="KQED 9.2" tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="San Francisco - CA",KQED 9.2
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="KRIS" tvg-name="KRIS-TV 6.1" tvg-logo="https://i.ibb.co/Xr3yFCJN/kris.png" group-title="Robstown - TX",KRIS-TV 6.1
