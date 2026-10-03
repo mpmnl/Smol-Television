@@ -27,52 +27,52 @@ https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="VN" tvg-name="ANTV" tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="QPVN" tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN
 https://live.fptplay53.net/fnxhd1/quocphongvnhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/QVutyeh.png" group-title="VTVCab",ON Vie Giải Trí
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVutyeh.png" group-title="VTVCab",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Phim Việt" tvg-logo="https://i.imgur.com/s540jl4.png" group-title="VTVCab",ON Phim Việt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s540jl4.png" group-title="VTVCab",ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="VTVCab",ON Sports
+#EXTINF:-1 tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" group-title="VTVCab",ON Sports
 https://1011154949.vnns.net/CDN-FPT02/THETHAOTV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/b23eYit.png" group-title="VTVCab",ON Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b23eYit.png" group-title="VTVCab",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="VN" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/bl7Ypfa.png" group-title="VTVCab",ON E Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl7Ypfa.png" group-title="VTVCab",ON E Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports+" tvg-logo="https://i.ibb.co/5WT8FKs3/ons.png" group-title="VTVCab",ON Sports+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WT8FKs3/ons.png" group-title="VTVCab",ON Sports+
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VN" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/Ifbc7Sa.png" group-title="VTVCab",ON O2TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ifbc7Sa.png" group-title="VTVCab",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="VN" tvg-name="ON BIBI" tvg-logo="https://i.imgur.com/Kf4AjDx.png" group-title="VTVCab",ON BIBI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kf4AjDx.png" group-title="VTVCab",ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jD0DVyL.png" group-title="VTVCab",ON Info TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0DVyL.png" group-title="VTVCab",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/UfsjWa3.png" group-title="VTVCab",ON Cine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfsjWa3.png" group-title="VTVCab",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Style TV" tvg-logo="https://i.imgur.com/9tkg2NM.png" group-title="VTVCab",ON Style TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tkg2NM.png" group-title="VTVCab",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Home Shopping" tvg-logo="https://i.imgur.com/Ut76d1E.png" group-title="VTVCab",ON Home Shopping
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ut76d1E.png" group-title="VTVCab",ON Home Shopping
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Music" tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Football" tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/8Q8CJC1.png" group-title="VTVCab",ON Trending TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Q8CJC1.png" group-title="VTVCab",ON Trending TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Sports News" tvg-logo="https://i.imgur.com/nYDl08h.png" group-title="VTVCab",ON Sports News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYDl08h.png" group-title="VTVCab",ON Sports News
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Vie Dramas" tvg-logo="https://i.imgur.com/7TaiOYj.png" group-title="VTVCab",ON Vie Dramas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7TaiOYj.png" group-title="VTVCab",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="VN" tvg-name="ON VFamily" tvg-logo="https://i.imgur.com/1vVlld5.png" group-title="VTVCab",ON VFamily
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vVlld5.png" group-title="VTVCab",ON VFamily
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Kids" tvg-logo="https://i.imgur.com/5aDTvMr.png" group-title="VTVCab",ON kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aDTvMr.png" group-title="VTVCab",ON kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Life" tvg-logo="https://i.imgur.com/GaTTb4Y.png" group-title="VTVCab",ON Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaTTb4Y.png" group-title="VTVCab",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="VN" tvg-name="ON Golf" tvg-logo="https://i.imgur.com/1aDLk1k.png" group-title="VTVCab",ON Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aDLk1k.png" group-title="VTVCab",ON Golf
 https://github.com/user-attachments/assets/3b57df7a-304b-4808-a9e7-7c3aae215d96
 
 #EXTINF:-1 tvg-id="VN" tvg-name="SCTV1" tvg-logo="https://i.imgur.com/aCfuJFN.png" group-title="SCTV",SCTV1
