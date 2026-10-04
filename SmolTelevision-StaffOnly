@@ -1182,7 +1182,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious
 http://190.197.41.183/NBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVR-TV 6.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y72wg1W3/wtvr.png" group-title="USA",WTVR-TV 6.1
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
