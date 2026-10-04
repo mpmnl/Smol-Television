@@ -986,6 +986,8 @@ https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KBSI 23.1" tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="USA",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="US" tvg-name="KCCI 8.1" tvg-logo="https://i.ibb.co/LzfCFPXc/kcci.png" group-title="USA",KCCI 8.1
+https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KCPQ 13.1" tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="USA",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KCRA-TV 58.1" tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="USA",KCRA-TV 58.1
@@ -1013,7 +1015,7 @@ https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KMSP-DT1" tvg-logo="https://i.ibb.co/B2FBQfz2/kmsp.png" group-title="USA",KMSP-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KMTV-TV 3.1" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",KMTV-TV 3.1
-https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KNSD 48.1" tvg-logo="https://i.ibb.co/5gXJ5n5w/knsd.png" group-title="USA",KNSD 48.1
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="KNSD 11.1" tvg-logo="https://i.ibb.co/CK82Jggj/kntv.png" group-title="USA",KNTV 11.1
@@ -1128,67 +1130,69 @@ https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playl
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="WGTV 8.3" tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="USA",WGTV 8.3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 13.1" tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WHEC-TV 10.1" tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WISN-TV 12.1" tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WN89CXC9/wisn.png" group-title="USA",WISN-TV 12.1
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WITI 6.1" tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="USA",WITI 6.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkyHfJ5y/witi.png" group-title="USA",WITI 6.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJBK 2.1" tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="USA",WJBK 2.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C54vXX2S/wjbk.png" group-title="USA",WJBK 2.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJXT 7.1" tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynbKvxdG/wjxt.png" group-title="USA",WJXT 7.1
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WJZ-TV 13.1" tvg-logo="https://i.ibb.co/YTy7fb3s/wjz.png" group-title="USA",WJZ-TV 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTy7fb3s/wjz.png" group-title="USA",WJZ-TV 13.1
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMAQ-TV 5.1" tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dzpthqC/wmaq.png" group-title="USA",WMAQ-TV 5.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMAR-TV 2.1" tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBsLRG7X/wmar.png" group-title="USA",WMAR-TV 2.1
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMGT-TV 41.1" tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrwvmJ3x/wmgt.png" group-title="USA",WMGT-TV 41.1
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMPT 22.2" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 22.2
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMPT 54.1" tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBLgktKG/wmpt.png" group-title="USA",WMPT 54.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WMUR-TV 9.1" tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgkQY9Cd/wmur.png" group-title="USA",WMUR-TV 9.1
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNBC 47.1" tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TpmyRCH/wnbc.png" group-title="USA",WNBC 47.1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNYT 13.1" tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkFx8rLk/wnyt.png" group-title="USA",WNYT 13.1
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WNYW 5.1" tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvGFVH0J/wnyw.png" group-title="USA",WNYW 5.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WPTV-TV 5.1" tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RcKpdjr/wptv.png" group-title="USA",WPTV-TV 5.1
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WRC-DT1" tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmRwhYs/wrc.png" group-title="USA",WRC-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WSBS-TV 21.1" tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tq2vv6L0/wsbs.png" group-title="USA",WSBS-TV 21.1
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WSLF-LD 35.1" tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZpqg7V/wslf.png" group-title="USA",WSLF-LD 35.1
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WSOC-TV 9.1" tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0Lx1VZv/wsoc.png" group-title="USA",WSOC-TV 9.1
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTMJ-TV 4.1" tvg-logo="https://i.ibb.co/FkW0xgwy/wtmj.png" group-title="USA",WTMJ-TV 4.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FkW0xgwy/wtmj.png" group-title="USA",WTMJ-TV 4.1
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTMO-CD 31.1" tvg-logo="https://i.ibb.co/4wfrc4gq/wtmo.png" group-title="USA",WTMO-CD 31.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wfrc4gq/wtmo.png" group-title="USA",WTMO-CD 31.1
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTTG-DT1" tvg-logo="https://i.ibb.co/70xXynB/wttg.png" group-title="USA",WTTG-DT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/70xXynB/wttg.png" group-title="USA",WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTVJ 6.1" tvg-logo="https://i.ibb.co/fVDvytGq/wtvj.png" group-title="USA",WTVJ 6.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVDvytGq/wtvj.png" group-title="USA",WTVJ 6.1
 http://190.197.41.183/NBC/index.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTVQ-DT 36.1" tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVQ-DT 36.1
+https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJhBCGKD/wtvq.png" group-title="USA",WTVR-TV 6.1
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTVT-DT1" tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdKzBLQW/wtvt.png" group-title="USA",WTVT-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTXF-DT1" tvg-logo="https://i.ibb.co/tMnWJZnP/wtxf.png" group-title="USA",WTXF-DT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMnWJZnP/wtxf.png" group-title="USA",WTXF-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WTXL-TV 27.1" tvg-logo="https://i.ibb.co/27h8mF4C/wvit.png" group-title="USA",WTXL-TV 27.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27h8mF4C/wvit.png" group-title="USA",WTXL-TV 27.1
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WVIT-DT1" tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WVIT-DT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twhZk3s9/wtxl.png" group-title="USA",WVIT-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
-#EXTINF:-1 tvg-id="US" tvg-name="WWAY 3.1" tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng4r2hqs/wway.png" group-title="USA",WWAY 3.1
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="WXII-TV 20.1" tvg-logo="https://i.ibb.co/tpCJ18rv/wxii.png" group-title="USA",WXII-TV 20.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpCJ18rv/wxii.png" group-title="USA",WXII-TV 20.1
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
