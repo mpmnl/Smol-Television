@@ -4,9 +4,9 @@
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxnTCXqC/katu.png" group-title="Portland - OR",KATU 32.1
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="Cape Girardeau - MO",KBSI 23.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdLMhXyz/kbsi.png" group-title="Cape Girardeau - MO",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="Seattle - WA",KCPQ 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hVTwGck/kcpq.png" group-title="Seattle - WA",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="Sacramento - CA",KCRA-TV 58.1
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
