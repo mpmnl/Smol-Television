@@ -26,7 +26,7 @@ https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playl
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="Denver - CO",KMGH-TV 7.1
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Nnny92/kmov.png" group-title="Maryland Heights  - MO",KMOV 4.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Nnny92/kmov.png" group-title="Maryland Heights - MO",KMOV 4.1
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxDtJR61/kmph.png" group-title="Fresno - CA",KMPH-TV 26.1
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
