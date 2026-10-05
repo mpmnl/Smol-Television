@@ -92,19 +92,19 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0fLn3U.png" group-title="HTV",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Gia Đình" tvg-logo="https://i.imgur.com/NRKIy8C.png" group-title="HTVC",HTVC Gia Đình
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRKIy8C.png" group-title="HTVC",HTVC Gia Đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.imgur.com/swhqzBS.png" group-title="HTVC",HTVC Thuần Việt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swhqzBS.png" group-title="HTVC",HTVC Thuần Việt
 https://livevlisctcdnw.seenow.vn/mean/HTVC_THUAN_VIET_HD/sc-gaFEAQ/v1_index.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Phim" tvg-logo="https://i.imgur.com/SYq0jTw.png" group-title="HTVC",HTVC Phim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYq0jTw.png" group-title="HTVC",HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Ca Nhạc" tvg-logo="https://i.imgur.com/S0w4S3C.png" group-title="HTVC",HTVC Ca Nhạc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0w4S3C.png" group-title="HTVC",HTVC Ca Nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Plus" tvg-logo="https://i.imgur.com/8X6ULPE.png" group-title="HTVC",HTVC Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X6ULPE.png" group-title="HTVC",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="VN" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://i.imgur.com/EEEtRNA.png" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEEtRNA.png" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3q1Olc.png" group-title="THVL",THVL1
