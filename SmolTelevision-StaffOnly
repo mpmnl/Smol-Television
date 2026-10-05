@@ -556,300 +556,300 @@ https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6Wgy913/RTL-Zwee-2023.png" group-title="Germany",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GR" tvg-name="Alpha TV" tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nIqF73h.png" group-title="Greece",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="GR" tvg-name="ERT Cosmos" tvg-logo="https://i.imgur.com/OoOIpO5.png" group-title="Greece",ERT Cosmos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OoOIpO5.png" group-title="Greece",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-id="GR" tvg-name="Hellenic Parliament TV" tvg-logo="https://i.imgur.com/GiOEo6v.png" group-title="Greece",Hellenic Parliament TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GiOEo6v.png" group-title="Greece",Hellenic Parliament TV
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 
-#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 31" tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdBh2AL.png" group-title="HongKong",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 32 (Geo-blocked)" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 (Geo-blocked)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="HongKong",RTHK32 (Geo-blocked)
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 33 (Geo-blocked)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="HongKong",RTHK33 (Geo-blocked)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MProun.png" group-title="HongKong",RTHK33 (Geo-blocked)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 34 (Geo-blocked)" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="HongKong",RTHK34 (Geo-blocked)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="HongKong",RTHK34 (Geo-blocked)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="HK" tvg-name="RTHK 35 (Geo-blocked)" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="HongKong",RTHK35 (Geo-blocked)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="HongKong",RTHK35 (Geo-blocked)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
-#EXTINF:-1 tvg-id="IS" tvg-name="RUV" tvg-logo="https://i.imgur.com/qPzmbq3.png" group-title="Iceland",RUV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPzmbq3.png" group-title="Iceland",RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 tvg-id="IS" tvg-name="RUV 2" tvg-logo="https://i.imgur.com/3U05Z1r.png" group-title="Iceland",RUV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3U05Z1r.png" group-title="Iceland",RUV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
-#EXTINF:-1 tvg-id="ID" tvg-name="TVRI World" tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSjdoAL.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-name="TVRI Jakarta" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_2500000=10000-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-name="TVRI" tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FkRw5z.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-id="IT" tvg-name="Italia 2" tvg-logo="https://i.ibb.co/5hPY6Py9/ita2.png" group-title="Italy",Italia 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hPY6Py9/ita2.png" group-title="Italy",Italia 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Italy",Rai 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aQ24erG.png" group-title="Italy",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Italy",Rai 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8w8b0a.png" group-title="Italy",Rai 2
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/PRmm48E.png" group-title="Italy",Rai 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRmm48E.png" group-title="Italy",Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai Italia" tvg-logo="https://i.imgur.com/2XrWcwE.png" group-title="Italy",Rai Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XrWcwE.png" group-title="Italy",Rai Italia
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italy",Rai News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italy",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/IdPFaW0.png" group-title="Italy",Rai Scuola
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IdPFaW0.png" group-title="Italy",Rai Scuola
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai Sports" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Italy",Rai Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Italy",Rai Sports
 https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/W4geFzr.png" group-title="Italy",Rai Storia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4geFzr.png" group-title="Italy",Rai Storia
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Italy",Rai Sudtirol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Italy",Rai Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
-#EXTINF:-1 tvg-id="IT" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/J4mU5NI.png" group-title="Italy",Rai World Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4mU5NI.png" group-title="Italy",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
-#EXTINF:-1 tvg-id="JP" tvg-name="cgnjapan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JOAK-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="NHK World" tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JOAX-DTV" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JOCX-DTV" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JOEX-DTV" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="JORX-DTV" tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-id="JP" tvg-name="WNN Weather News" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
-#EXTINF:-1 tvg-id="XK" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzJ9k1i.png" group-title="Kosovo",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
-#EXTINF:-1 tvg-id="LA" tvg-name="Oh Muang Lao" tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9JQSYkR/Sd-B3Vyr.png" group-title="Laos",Oh Muang Lao
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LT" tvg-name="LRT Klasika" tvg-logo="https://i.ibb.co/5xK2BY2C/lithuanian-national-radio-and-television-klasika-logo-png-seeklogo-449887.png" group-title="Lithuania",LRT Klasika
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xK2BY2C/lithuanian-national-radio-and-television-klasika-logo-png-seeklogo-449887.png" group-title="Lithuania",LRT Klasika
 https://stream-live.lrt.lt/klasika/master.m3u8
-#EXTINF:-1 tvg-id="LT" tvg-name="LRT Lituanica" tvg-logo="https://i.ibb.co/r2ng7Y2n/images-5.png" group-title="Lithuania",LRT Lituanica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2ng7Y2n/images-5.png" group-title="Lithuania",LRT Lituanica
 https://stream-live.lrt.lt/lituanica/master.m3u8
-#EXTINF:-1 tvg-id="LT" tvg-name="LRT Opus" tvg-logo="https://i.ibb.co/vv6DWRGN/LRT-OPUS.png" group-title="Lithuania",LRT Opus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv6DWRGN/LRT-OPUS.png" group-title="Lithuania",LRT Opus
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 tvg-id="LT" tvg-name="LRT Radijas" tvg-logo="https://i.ibb.co/k6QJSWkc/LRT-RADIJAS.png" group-title="Lithuania",LRT Radijas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6QJSWkc/LRT-RADIJAS.png" group-title="Lithuania",LRT Radijas
 https://stream-live.lrt.lt/radijas/master.m3u8
 
-#EXTINF:-1 tvg-id="MD" tvg-name="Moldova 1" tvg-logo="https://i.ibb.co/KzpyvCDP/image.png" group-title="Moldova",Moldova 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KzpyvCDP/image.png" group-title="Moldova",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 tvg-id="MD" tvg-name="Moldova 2" tvg-logo="https://i.ibb.co/Lz6Qj3Tg/image.png" group-title="Moldova",Moldova 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz6Qj3Tg/image.png" group-title="Moldova",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-id="MD" tvg-name="TVR Moldova" tvg-logo="https://i.ibb.co/JR8mFhVY/image.png" group-title="Moldova",TVR Moldova
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR8mFhVY/image.png" group-title="Moldova",TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MN" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oW041Kz.png" group-title="Mongolia",Bloomberg TV Mongolia
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ujLiZW.png" group-title="Mongolia",CNBC Mongolia
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="MNB Family" tvg-logo="https://i.ibb.co/CstQstbs/tnb-family.png" group-title="Mongolia",MNB Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CstQstbs/tnb-family.png" group-title="Mongolia",MNB Family
 https://live.mnb.mn/hls/mnb_family.stream.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="MNB" tvg-logo="https://i.ibb.co/NgQN4ZjT/images.png" group-title="Mongolia",MNB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgQN4ZjT/images.png" group-title="Mongolia",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="MNB World" tvg-logo="https://i.ibb.co/7tgb1vm7/img-1.png" group-title="Mongolia",MNB World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tgb1vm7/img-1.png" group-title="Mongolia",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="Parliament TV" tvg-logo="https://i.ibb.co/hJKVcL5c/images.png" group-title="Mongolia",Parliament TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJKVcL5c/images.png" group-title="Mongolia",Parliament TV
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="MNC" tvg-logo="https://i.ibb.co/LdQYRfpr/images-1.png" group-title="Mongolia",MNC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdQYRfpr/images-1.png" group-title="Mongolia",MNC
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
-#EXTINF:-1 tvg-id="MN" tvg-name="MNB Sport" tvg-logo="https://i.ibb.co/spgfQp8Y/images-2.png" group-title="Mongolia",MNB Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spgfQp8Y/images-2.png" group-title="Mongolia",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
-#EXTINF:-1 tvg-id="MM" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 tvg-id="KP" tvg-name="KCTV NKorea" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://kctv.koryofront.org/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="PL" tvg-name="TVP World" tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="Poland",TVP World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="Poland",TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 
-#EXTINF:-1 tvg-id="PT" tvg-name="RTP1" tvg-logo="https://i.ibb.co/Wp4m7Z4x/image.png" group-title="Portugal",RTP1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wp4m7Z4x/image.png" group-title="Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="RTP Acores" tvg-logo="https://i.ibb.co/pj0Z639k/image.png" group-title="Portugal",RTP Acores
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj0Z639k/image.png" group-title="Portugal",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="RTP Madeira" tvg-logo="https://i.ibb.co/8gqL9yjn/image.png" group-title="Portugal",RTP Madeira
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gqL9yjn/image.png" group-title="Portugal",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="RTP Mundo" tvg-logo="https://i.ibb.co/pBKB0mhH/image.png" group-title="Portugal",RTP Mundo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBKB0mhH/image.png" group-title="Portugal",RTP Mundo
 https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="RTP Noticias" tvg-logo="https://i.ibb.co/DfGs92ft/image.png" group-title="Portugal",RTP Noticias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfGs92ft/image.png" group-title="Portugal",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="SIC Alta Definicao" tvg-logo="https://i.ibb.co/6cXLMPZ0/image.png" group-title="Portugal",SIC Alta Definicao
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cXLMPZ0/image.png" group-title="Portugal",SIC Alta Definicao
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="SIC Replay" tvg-logo="https://i.ibb.co/ccNss5FC/image.png" group-title="Portugal",SIC Replay
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccNss5FC/image.png" group-title="Portugal",SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana 1" tvg-logo="https://i.ibb.co/PvWh10Qg/image.png" group-title="Portugal",TV Mana 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvWh10Qg/image.png" group-title="Portugal",TV Mana 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana 2" tvg-logo="https://i.ibb.co/5WLqSb9B/image.png" group-title="Portugal",TV Mana 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WLqSb9B/image.png" group-title="Portugal",TV Mana 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Brasil" tvg-logo="https://i.ibb.co/sJjNQNxy/image.png" group-title="Portugal",TV Mana Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJjNQNxy/image.png" group-title="Portugal",TV Mana Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana English" tvg-logo="https://i.ibb.co/5WVFDT9q/image.png" group-title="Portugal",TV Mana English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WVFDT9q/image.png" group-title="Portugal",TV Mana English
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Espanol" tvg-logo="https://i.ibb.co/Y4TkhhQM/image.png" group-title="Portugal",TV Mana Espanol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4TkhhQM/image.png" group-title="Portugal",TV Mana Espanol
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TV Mana Russiya" tvg-logo="https://i.ibb.co/672yH3Xt/image.png" group-title="Portugal",TV Mana Russiya
+#EXTINF:-1 tvg-logo="https://i.ibb.co/672yH3Xt/image.png" group-title="Portugal",TV Mana Russiya
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PT" tvg-name="TVI" tvg-logo="https://i.ibb.co/kgh0mg7X/image.png" group-title="Portugal",TVI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgh0mg7X/image.png" group-title="Portugal",TVI
 https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
-#EXTINF:-1 tvg-id="PT" tvg-name="TVI Ficcao" tvg-logo="https://i.ibb.co/YB0FtYNs/image.png" group-title="Portugal",TVI Ficcao
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB0FtYNs/image.png" group-title="Portugal",TVI Ficcao
 https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
-#EXTINF:-1 tvg-id="PT" tvg-name="TVI Reality" tvg-logo="https://i.ibb.co/d41m9j29/image.png" group-title="Portugal",TVI Reality
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d41m9j29/image.png" group-title="Portugal",TVI Reality
 https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
-#EXTINF:-1 tvg-id="PT" tvg-name="V+ TVI" tvg-logo="https://i.ibb.co/xqkfX71g/image.png" group-title="Portugal",V+ TVI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqkfX71g/image.png" group-title="Portugal",V+ TVI
 https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDQ6MzM6NDAgQU0maGFzaF92YWx1ZT1md0hzQnNweXBxSmVuSGdmeE1hU3VBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODEwODgzY2UtYWRmYi00MTU2LWI4MmYtZjA1NWQ1NzUxYjRk
 
-#EXTINF:-1 tvg-id="RU" tvg-name="Carousel" tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel
 http://flussonic.linkintel.ru/Karusel/index.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Carousel International" tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel International
 https://fs.uplink.kz/karusel/mono.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Channel One HD" tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One HD
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Channel One CIS" tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One CIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One CIS
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Rossiya K" tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="RT" tvg-logo="https://i.ibb.co/HL6yF6VG/rt.png" group-title="Russia",RT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HL6yF6VG/rt.png" group-title="Russia",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Russia 1 HD" tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Russia 1 Vainah" tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 Vainah
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD5bVwph/image-3.png" group-title="Russia",Russia 1 Vainah
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="Russia 24" tvg-logo="https://i.ibb.co/84bdJtg5/image.png" group-title="Russia",Russia 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84bdJtg5/image.png" group-title="Russia",Russia 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="RT Documentary" tvg-logo="https://i.ibb.co/G4DKHBPP/RT-Doc.png" group-title="Russia",RT Documentary
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4DKHBPP/RT-Doc.png" group-title="Russia",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="RTR-Planeta" tvg-logo="https://i.ibb.co/0p03Bshr/image-2.png" group-title="Russia",RTR-Planeta
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p03Bshr/image-2.png" group-title="Russia",RTR-Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="TV5 International Russia" tvg-logo="https://i.ibb.co/yFD4cYBc/3-F3-F3-F3-F3-F-2023.png" group-title="Russia",TV5 International Russia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFD4cYBc/3-F3-F3-F3-F3-F-2023.png" group-title="Russia",TV5 International Russia
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia
 https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia Krasnoyarsk" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Krasnoyarsk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Krasnoyarsk
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="RU" tvg-name="TV8 Russia Novosibirsk" tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Novosibirsk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Novosibirsk
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SG" tvg-name="CNA Original" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SG" tvg-name="CNA" tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="SI" tvg-name="Slo 1" tvg-logo="https://i.ibb.co/tM85mBwz/tv-slo-1-logo-png-seeklogo-630345.png" group-title="Slovenia",Slo 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tM85mBwz/tv-slo-1-logo-png-seeklogo-630345.png" group-title="Slovenia",Slo 1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SI" tvg-name="Slo 2" tvg-logo="https://i.ibb.co/q3L2Bvyw/Logo-of-TV-SLO-2-HD-2012.png" group-title="Slovenia",Slo 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3L2Bvyw/Logo-of-TV-SLO-2-HD-2012.png" group-title="Slovenia",Slo 2
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KR" tvg-name="ABNKr" tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qe4Ia8P.png" group-title="South Korea",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="AK" tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="South Korea",Arirang Korea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fK1sBdy.png" group-title="South Korea",Arirang Korea
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="KR" tvg-name="Arirang UN" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang UN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLDR-DTV" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS1)" tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS2)" tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS English)" tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLQL-DTV (EBS Kids)" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR+1" tvg-name="HLQL-DTV (EBS+1)" tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR+2" tvg-name="HLQL-DTV (EBS+2)" tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLCG-DTV" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLQA-DTV" tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="Gukbang TV" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLKJ-DTV" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLDH-DTV" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="KBS Joy" tvg-logo="https://i.ibb.co/cShhZMSd/kbsj.png" group-title="South Korea",KBS Joy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cShhZMSd/kbsj.png" group-title="South Korea",KBS Joy
 https://xykt-fix.github.io/flv/KJ_W.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="KBS World" tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="South Korea",KBS World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0GXGdg.png" group-title="South Korea",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 tvg-id="KR" tvg-name="KCTV Korea" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="South Korea",KCTV Korea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="South Korea",KCTV Korea
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="KTV" tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="South Korea",KTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="South Korea",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAN-DTV" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLCQ-DTV" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLCT-DTV" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAJ-DTV" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAM-DTV" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAO-DTV" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAQ-DTV" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="HLAT-DTV" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="NATV" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
 https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="NHTV" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="JTV Jeonjy" tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="TBS Korea" tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS Korea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5Y2qiO.png" group-title="South Korea",TBS Korea
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="TVChosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="South Korea",TVChosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="KR" tvg-name="TVN" tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6NUD1k.png" group-title="South Korea",TVN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 National" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 National
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 National
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 Canarias" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Canarias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="LA 1 Cantalunya" tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Cantalunya
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4TF9x8S/images-3.png" group-title="Spain",LA 1 Cantalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="LA 2 National" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 National
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 National
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="LA 2 Canarias" tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwH0rBSr/image.png" group-title="Spain",LA 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas National" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas National
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas National
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Canarias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="ES" tvg-name="24 Horas Cantalunya" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Cantalunya
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain",24 Horas Cantalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-id="SR" tvg-name="Shalom TV" tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3XSjLDk/Shalom-TVlogo.png" group-title="Suriname",Shalom TV
 https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
-#EXTINF:-1 tvg-id="SR" tvg-name="TBN TV" tvg-logo="https://i.ibb.co/ccRK2jxF/tbn-tv.png" group-title="Suriname",TBN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccRK2jxF/tbn-tv.png" group-title="Suriname",TBN TV
 https://live.suricloud.com/hls/tbntv/index.m3u8
 
-#EXTINF:-1 tvg-id="CH" tvg-name="RSI LA 2" tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHCQPStm/RSI-La-2-2012-svg.png" group-title="Switzerland",RSI LA 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:-1 tvg-id="CH" tvg-name="SRF Zwei (SRF 2)" tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei (SRF 2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kj8NMCw4/Logo-SRF-zwei-svg.png" group-title="Switzerland",SRF Zwei (SRF 2)
 https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="TH" tvg-name="Amarin34" tvg-logo="https://i.ibb.co/tT7fgfkY/Amarin-TV-2015.png" group-title="Thailand",Amarin 34
