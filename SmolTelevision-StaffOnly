@@ -984,11 +984,11 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxnTCXqC/katu.png" group-title="USA",KATU 32.1
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFWWxPKp/fox23.png" group-title="USA",KBSI 23.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdLMhXyz/kbsi.png" group-title="USA",KBSI 23.1
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzfCFPXc/kcci.png" group-title="USA",KCCI 8.1
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz5FD08P/kcpq.png" group-title="USA",KCPQ 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hVTwGck/kcpq.png" group-title="USA",KCPQ 13.1
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fhGp93C/kcra.png" group-title="USA",KCRA-TV 58.1
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
@@ -1030,7 +1030,7 @@ https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kshFCJ9t/koki.png" group-title="USA",KOKI-TV 23.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="US" tvg-name="KOMO-TV 58.1" tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="USA",KOMO-TV 58.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT94cZ0H/KOMO-TV-2021-svg.png" group-title="USA",KOMO-TV 58.1
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="USA",KOVR 13.1
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
