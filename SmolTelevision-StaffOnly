@@ -1130,7 +1130,7 @@ https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playl
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV184q72/wgtv.png" group-title="USA",WGTV 8.3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHEC-TV 13.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrPss6Hr/whbq.png" group-title="USA",WHBQ-TV 13.1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rg0WydC/whec.png" group-title="USA",WHEC-TV 10.1
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
