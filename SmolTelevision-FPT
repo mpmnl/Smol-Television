@@ -61,24 +61,24 @@ udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://i.imgur.com/8X6ULPE.png",HTVC+
 udp://@225.1.1.181:30120
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.imgur.com/p3q1Olc.png",Vĩnh Long 1
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/O50BDwv.png",Vĩnh Long 2
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.ibb.co/Mx5HZ4KY/vl3.png",Vĩnh Long 3
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/xYalJzh.png",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.ibb.co/YTZfFmWf/vl4.png",Vĩnh Long 4
 udp://@225.1.2.25:30120
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://i.ibb.co/7xBd8JHz/vl5.png",Vĩnh Long 5
 udp://@225.1.2.172:30120
 
-#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",An Giang 1
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mgp6RAU.png",An Giang 1
 udp://@225.1.2.182:30120
-#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",An Giang 2
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://i.imgur.com/efrauLr.png",An Giang 2
 udp://@225.1.2.173:30120
-#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",An Giang 3
+#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://i.imgur.com/gZUV4z8.png",An Giang 3
 udp://@225.1.1.174:30120
-#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/sQbFfK8.png",Bắc Ninh
 udp://@225.1.1.164:30120
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",Cà Mau
 udp://@225.1.1.104:30120
