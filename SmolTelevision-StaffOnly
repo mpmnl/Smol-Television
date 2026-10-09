@@ -258,7 +258,7 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BeH7JaA.png" group-title="Địa Phương",TN Thái Nguyên
 https://freem3u.xyz/api/live/play.m3u8?vid=88
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JE5QhxX.png group-title="Địa Phương",TTV Thanh Hóa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JE5QhxX.png" group-title="Địa Phương",TTV Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
