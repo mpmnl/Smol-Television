@@ -350,15 +350,25 @@ https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Radio Quốc Tế",Arirang Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="World Radio",Arirang Radio (South Korea)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="Radio Quốc Tế",CBS Music Radio (South Korea)
-https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KRTDpW/cbsg.png" group-title="Radio Quốc Tế",Gwangju CBS
-https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="Radio Quốc Tế",HLAW-SFM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio",CBS Joy4U (South Korea)
+https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio",HLAW-SFM (Andong MBC Radio 1) (South Korea)
 https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="Radio Quốc Tế",YTN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KRTDpW/cbsg.png" group-title="World Radio",HLCL-SFM (Gwangju CBS Standard FM) (South Korea)
+https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="World Radio",HLDH-FM (KBC MyFM) (South Korea)
+https://vod.ikbc.co.kr/KBCFM/kbcra_aac/chunklist_w1389710294.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJM5H2X4/cbss.png" group-title="World Radio",HLKY (CBS Standard FM) (South Korea)
+https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/998nSjYr/cbsj.png" group-title="World Radio",HLKY-FM (CBS Music FM) (South Korea)
+https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4zX25G7/ebs.png" group-title="World Radio",HLQL-FM (EBS Radio) (South Korea)
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Ds7fm3d/nhk.png" group-title="World Radio",JOAK (NHK R1) (Japan)
+https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio",YTN Radio (South Korea)
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
@@ -617,21 +627,21 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV (NHK General (Tokyo))
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",JOAX-DTV (Nippon TV)
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",JOCX-DTV (Fuji TV)
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV (TV Asahi)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV (NHK General (Yamagata))
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV (TBS)
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",WNN Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
@@ -766,7 +776,7 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV (CJB)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -780,15 +790,15 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV (G1)
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="South Korea",HLQA-DTV (Gukak TV)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea",Gukbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",HLKJ-DTV (JIBS)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",HLDH-DTV (KBC)
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cShhZMSd/kbsj.png" group-title="South Korea",KBS Joy
 https://xykt-fix.github.io/flv/KJ_W.m3u8
@@ -798,29 +808,29 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4gme7C.png" group-title="South Korea",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",HLAN-DTV (Daejeon MBC)
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",HLCQ-DTV (Chuncheon MBC)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="South Korea",HLCT-DTV (Daegu MBC)
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",HLAJ-DTV (Jeju MBC)
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",HLAM-DTV (Mokpo MBC)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",HLAO-DTV (Chungbuk MBC)
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",HLAQ-DTV (MBC Gangwon-Yeongdong)
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",HLAT-DTV (Yeosu MBC)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="South Korea",NATV
 https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea", NBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pOSroOE.png" group-title:"South Korea",NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea", NHTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfECkgB.png" group-title:"South Korea",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea", OUN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title:"South Korea",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fn2NG58.png" group-title="South Korea",JTV Jeonju
 http://61.85.197.53:1935/jtv_live/myStream/chunklist.m3u8
