@@ -366,7 +366,7 @@ https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4zX25G7/ebs.png" group-title="World Radio",HLQL-FM (EBS Radio) (South Korea)
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Ds7fm3d/nhk.png" group-title="World Radio",JOAK (NHK R1) (Japan)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio",YTN Radio (South Korea)
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
