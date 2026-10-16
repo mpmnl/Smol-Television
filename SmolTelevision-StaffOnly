@@ -263,112 +263,114 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio",VOV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio" is-radio:"yes" ,VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jIOwIQ.png" group-title="FM Radio",VOV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jIOwIQ.png" group-title="FM Radio" is-radio:"yes",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/04RJ0Oa.png" group-title="FM Radio",VOV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04RJ0Oa.png" group-title="FM Radio" is-radio:"yes",VOV3
 https://audio-lss.vov.vn/live/vov3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5HSvf.png" group-title="FM Radio",VOV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5HSvf.png" group-title="FM Radio" is-radio:"yes",VOV4
 https://audio-lss.vov.vn/live/vov4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRu9cvG.png" group-title="FM Radio",VOV5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRu9cvG.png" group-title="FM Radio" is-radio:"yes",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WyXBgoH.png" group-title="FM Radio",VOV6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyXBgoH.png" group-title="FM Radio" is-radio:"yes",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6TZnQQb.png" group-title="FM Radio",VOV Giao Thông Hà Nội
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TZnQQb.png" group-title="FM Radio" is-radio:"yes",VOV Giao Thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W4h0QwZ.png" group-title="FM Radio",VOV Giao Thông Hồ Chí Minh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4h0QwZ.png" group-title="FM Radio" is-radio:"yes",VOV Giao Thông Hồ Chí Minh
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ayq2XBv.png" group-title="FM Radio",VOV Giao Thông
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ayq2XBv.png" group-title="FM Radio" is-radio:"yes",VOV Giao Thông
 https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio",VOH 99.9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78kNYJO.jpeg" group-title="FM Radio" is-radio:"yes",VOH 99.9
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio",VOH 95.6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64rJern.jpeg" group-title="FM Radio" is-radio:"yes",VOH 95.6
 https://freem3u.xyz/api/live/play.m3u8?vid=10039
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PjxF7o.png" group-title="FM Radio",VOH 610
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PjxF7o.png" group-title="FM Radio" is-radio:"yes",VOH 610
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXDDkxN.jpeg" group-title="FM Radio",VOH 87.7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXDDkxN.jpeg" group-title="FM Radio" is-radio:"yes",VOH 87.7
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio",VOH 92-92.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio" is-radio:"yes",VOH 92-92.5
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio",FM90
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio" is-radio:"yes",FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio",FM96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio" is-radio:"yes",FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio",Cà Mau Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio" is-radio:"yes",Cà Mau Radio
 https://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fP1CECa.jpeg" group-title="FM Radio",Cần Thơ 97.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fP1CECa.jpeg" group-title="FM Radio" is-radio:"yes",Cần Thơ 97.3
 https://tv.canthotv.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npLTJA2.png" group-title="FM Radio",Cần Thơ 89.6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npLTJA2.png" group-title="FM Radio" is-radio:"yes",Cần Thơ 89.6
 https://live.canthotv.vn/live/radiocs2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0cysa9H.png" group-title="FM Radio",Điện Biên Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0cysa9H.png" group-title="FM Radio" is-radio:"yes",Điện Biên Radio
 https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2VnAKd.png" group-title="FM Radio",Đắk Lắk Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2VnAKd.png" group-title="FM Radio" is-radio:"yes",Đắk Lắk Radio
 https://live.mediatech.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OSBPSOd.png" group-title="FM Radio",Đồng Nai Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSBPSOd.png" group-title="FM Radio" is-radio:"yes",Đồng Nai Radio
 http://stream.thingnet.vn/radio/dongnai_aac/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMm9sn9.png" group-title="FM Radio",Đồng Tháp Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMm9sn9.png" group-title="FM Radio" is-radio:"yes",Đồng Tháp Radio
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1754694215.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zfJ3Pwy.png" group-title="FM Radio",Gia Lai Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfJ3Pwy.png" group-title="FM Radio" is-radio:"yes",Gia Lai Radio
 https://tv.gialaitv.vn/radio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ei0yebE.png" group-title="FM Radio",Hà Tĩnh Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ei0yebE.png" group-title="FM Radio" is-radio:"yes",Hà Tĩnh Radio
 https://live.baohatinh.vn/voht/voht.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 93.7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio" is-radio:"yes",Hải Phòng 93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio",Hải Phòng 102.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUJexsj.png" group-title="FM Radio" is-radio:"yes",Hải Phòng 102.2
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SH5avD7.png" group-title="FM Radio",Huế 93
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SH5avD7.png" group-title="FM Radio" is-radio:"yes",Huế 93
 https://live.huetv.com.vn/Radio-online/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fh2ZPJx.png" group-title="FM Radio",Hưng Yên 92.7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fh2ZPJx.png" group-title="FM Radio" is-radio:"yes",Hưng Yên 92.7
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio",Khánh Hòa 106.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IguErpm.png" group-title="FM Radio" is-radio:"yes",Khánh Hòa 106.5
 https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZ7lnAG.png" group-title="FM Radio",Khánh Hòa 95
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZ7lnAG.png" group-title="FM Radio" is-radio:"yes",Khánh Hòa 95
 https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cXsfddj.png" group-title="FM Radio",Lâm Đồng Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cXsfddj.png" group-title="FM Radio" is-radio:"yes",Lâm Đồng Radio
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRxwxFM.png" group-title="FM Radio",Lạng Sơn Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRxwxFM.png" group-title="FM Radio" is-radio:"yes",Lạng Sơn Radio
 https://live.mediatech.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BpOBQXz.png" group-title="FM Radio",Nghệ An Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpOBQXz.png" group-title="FM Radio" is-radio:"yes",Nghệ An Radio
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLrFTxs.png" group-title="FM Radio",Ninh Bình Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLrFTxs.png" group-title="FM Radio" is-radio:"yes",Ninh Bình Radio
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ2qVhY.png" group-title="FM Radio",Quảng Ngãi 102.9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ2qVhY.png" group-title="FM Radio" is-radio:"yes",Quảng Ngãi 102.9
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio",QNR1 Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQu1UwJ.png" group-title="FM Radio" is-radio:"yes",QNR1 Radio
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio",QNR2 Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DNQad8v.png" group-title="FM Radio" is-radio:"yes",QNR2 Radio
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNBSAak.png" group-title="FM Radio",Quảng Trị Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNBSAak.png" group-title="FM Radio" is-radio:"yes",Quảng Trị Radio
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio",Sơn La Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio" is-radio:"yes",Sơn La Radio
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio",Tây Ninh 96.9 & 103.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio" is-radio:"yes",Tây Ninh 96.9 & 103.1
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio",Tuyên Quang 95.6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio" is-radio:"yes",Tuyên Quang 95.6
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio" is-radio:"yes",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="World Radio",Arirang Radio (South Korea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="World Radio" is-radio:"yes",Arirang Radio (South Korea)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio",CBS Joy4U (South Korea)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio" is-radio:"yes",CBS Joy4U (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio",HLAW-SFM (Andong MBC Radio 1) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"yes",HLAW-SFM (Andong MBC Radio 1) (South Korea)
 https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KRTDpW/cbsg.png" group-title="World Radio",HLCL-SFM (Gwangju CBS Standard FM) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"yes",HLAW-FM (Andong MBC Radio 2) (South Korea)
+https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KRTDpW/cbsg.png" group-title="World Radio" is-radio:"yes",HLCL-SFM (Gwangju CBS Standard FM) (South Korea)
 https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="World Radio",HLDH-FM (KBC MyFM) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="World Radio" is-radio:"yes",HLDH-FM (KBC MyFM) (South Korea)
 https://vod.ikbc.co.kr/KBCFM/kbcra_aac/chunklist_w1389710294.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJM5H2X4/cbss.png" group-title="World Radio",HLKY (CBS Standard FM) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJM5H2X4/cbss.png" group-title="World Radio" is-radio:"yes",HLKY (CBS Standard FM) (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/998nSjYr/cbsj.png" group-title="World Radio",HLKY-FM (CBS Music FM) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/998nSjYr/cbsj.png" group-title="World Radio" is-radio:"yes",HLKY-FM (CBS Music FM) (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4zX25G7/ebs.png" group-title="World Radio",HLQL-FM (EBS Radio) (South Korea)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4zX25G7/ebs.png" group-title="World Radio" is-radio:"yes",HLQL-FM (EBS Radio) (South Korea)
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio",JOAK (NHK AM) (Japan)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio" is-radio:"yes",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio",YTN Radio (South Korea)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio" is-radio:"yes",YTN Radio (South Korea)
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
