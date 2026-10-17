@@ -693,7 +693,7 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
-https://kctv.koryofront.org/stream/index.m3u8
+https://stream.intchoson.com/kctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="Poland",TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
