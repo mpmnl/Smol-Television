@@ -90,8 +90,12 @@ https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsIHoHU.png" group-title="HTV",HTV5
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmCKCkt.png" group-title="HTV",HTV7
+https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0fLn3U.png" group-title="HTV",HTV9
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-htv9tv/playlist_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BD0Nf6Q.png" group-title="HTV",HTV Thể Thao
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRKIy8C.png" group-title="HTVC",HTVC Gia Đình
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
