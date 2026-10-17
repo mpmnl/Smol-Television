@@ -790,17 +790,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=111
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV (CJB)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea",HLQL-DTV (EBS1)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea",HLQL-DTV (EBS2)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea",HLQL-DTV (EBS English)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea",HLQL-DTV (EBS Kids)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea",HLQL-DTV (EBS+1)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea",HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV (G1)
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
