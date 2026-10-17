@@ -370,6 +370,14 @@ https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio" is-radio:"true",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9yP9HpF/r1.png" group-title="World Radio" is-radio:"true",RTHK Radio 1 (Hongkong)
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz2SrFKk/r2.png" group-title="World Radio" is-radio:"true",RTHK Radio 2 (Hongkong)
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgtn3LZP/r3.png" group-title="World Radio" is-radio:"true",RTHK Radio 3 (Hongkong)
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLnSYNp1/r5.webp" group-title="World Radio" is-radio:"true",RTHK Radio 5 (Hongkong)
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4Z7Lg1q/vok.png" group-title="World Radio" is-radio:"true",Voice Of Korea (North Korea)
 https://stream.intchoson.com/vok/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio" is-radio:"true",YTN Radio (South Korea)
