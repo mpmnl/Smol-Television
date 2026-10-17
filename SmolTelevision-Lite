@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tkg2NM.png" group-title="VTVCab",ON Style TV
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ut76d1E.png" group-title="VTVCab",ON Home Shopping
-https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v0_index.m3u8
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/VTVCAB13/v1_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqlo81O.png" group-title="VTVCab",ON Music
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OBNqNVW.png" group-title="VTVCab",ON FootBall
@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9509YCN.png" group-title="HTVC",HTVC Phụ Nữ
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swhqzBS.png" group-title="HTVC",HTVC Thuần Việt
-https://livevlisctcdnw.seenow.vn/mean/HTVC_THUAN_VIET_HD/sc-gaFEAQ/v1_index.m3u8
+https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYq0jTw.png" group-title="HTVC",HTVC Phim
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0w4S3C.png" group-title="HTVC",HTVC Ca Nhạc
@@ -110,9 +110,9 @@ https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3q1Olc.png" group-title="THVL",THVL1
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/dp-vinhlong1tv/playlist_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O50BDwv.png" group-title="THVL",THVL2
-https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5HZ4KY/vl3.png" group-title="THVL",THVL3
-https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_400000=10004-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTZfFmWf/vl4.png" group-title="THVL",THVL4
 https://github.com/user-attachments/assets/4d5fbaab-8d66-4a23-89ac-05217361e16b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xBd8JHz/vl5.png" group-title="THVL",THVL5
