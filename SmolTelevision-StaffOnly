@@ -746,7 +746,7 @@ http://flussonic.linkintel.ru/Karusel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel International
 https://fs.uplink.kz/karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One HD
-https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One CIS
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
@@ -765,11 +765,11 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFD4cYBc/3-F3-F3-F3-F3-F-2023.png" group-title="Russia",TV5 International Russia
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia
 https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Krasnoyarsk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia Krasnoyarsk
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Novosibirsk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia Novosibirsk
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
