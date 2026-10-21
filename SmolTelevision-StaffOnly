@@ -364,6 +364,26 @@ https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_
 https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVPgWYDt/b6.png" group-title="World Radio" is-radio:"true",BBC Radio 6 Music (UK)
 https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2wM3Ph5/bb.png" group-title="World Radio" is-radio:"true",BBC Radio Berkshire (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_64162474/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBcjmzmF/bbr.png" group-title="World Radio" is-radio:"true",BBC Radio Bristol (UK)
+https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nr7chf1/bc.png" group-title="World Radio" is-radio:"true",BBC Radio Cornwall (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cornwall.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H7r4WgZ/bcw.png" group-title="World Radio" is-radio:"true",BBC Radio Coventry Warwickshire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_coventry_warwickshire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv7C2GYJ/be.png" group-title="World Radio" is-radio:"true",BBC Essex (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_23657270/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYzc7pYP/bg.png" group-title="World Radio" is-radio:"true",BBC Radio Gloucestershire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_gloucestershire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cvrqL9X/bh.png" group-title="World Radio" is-radio:"true",BBC Radio Hereford & Worcester (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_hereford_worcester.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzGk4L3P/bj.png" group-title="World Radio" is-radio:"true",BBC Radio Jersey (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_jersey.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5843k6W/bk.png" group-title="World Radio" is-radio:"true",BBC Radio Kent (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_17754185/live/ww/bbc_radio_kent/bbc_radio_kent.isml/bbc_radio_kent-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdQxFvBN/bl.png" group-title="World Radio" is-radio:"true",BBC Radio Lancashire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_lancashire.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio" is-radio:"true",CBS Joy4U (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"true",HLAW-SFM (Andong MBC Radio 1) (South Korea)
