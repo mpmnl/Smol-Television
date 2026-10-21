@@ -292,7 +292,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio" is-radio:"true",VOH 92-92.5
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio" is-radio:"true",FM90
-https://freem3u.xyz/api/live/play.m3u8?vid=9905
+http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio" is-radio:"true",FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio" is-radio:"true",Cà Mau Radio
