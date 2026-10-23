@@ -1,29 +1,29 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLD3ZMjb/vtv1.png" group-title="VTV",VTV1
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XG043Pp/vtv2.png" group-title="VTV",VTV2
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ps0mzzgc/vtv3.png" group-title="VTV",VTV3
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDkjc9wb/vtv4.png" group-title="VTV",VTV4
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8tJkVhH/vtv5.png" group-title="VTV",VTV5
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DH6KZX4W/vtv5tnb.png" group-title="VTV",VTV5 Tây Nam Bộ
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLszMrvM/vtv5tn.png" group-title="VTV",VTV5 Tây Nguyên
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+https://event-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVvwpvCm/vtv6.png" group-title="VTV",VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27D7BnGr/vtv7.png" group-title="VTV",VTV7
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4NSpV6x/vtv8.png" group-title="VTV",VTV8
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3F3YTcm/vtv9.png" group-title="VTV",VTV9
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YCT91S4/vtv10.png" group-title="VTV",VTV10
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://event-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
@@ -292,7 +292,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AsM5nO.png" group-title="FM Radio" is-radio:"true",VOH 92-92.5
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuZ462k.png" group-title="FM Radio" is-radio:"true",FM90
-https://freem3u.xyz/api/live/play.m3u8?vid=9905
+http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1v7v84z.png" group-title="FM Radio" is-radio:"true",FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymxsw2e.png" group-title="FM Radio" is-radio:"true",Cà Mau Radio
@@ -352,8 +352,140 @@ https://dethich.pw/thvlaudio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="World Radio" is-radio:"true",Arirang Radio (South Korea)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TZfkhZM/b1.png" group-title="World Radio" is-radio:"true",BBC Radio 1 (UK)
+https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1wMsBJk/b1.png" group-title="World Radio" is-radio:"true",BBC Radio 1Xtra (UK)
+https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7jS1Zq/b1.png" group-title="World Radio" is-radio:"true",BBC Radio 1 Anthems (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one_anthems.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQNVCwMB/b1d.png" group-title="World Radio" is-radio:"true",BBC Radio 1 Dance (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one_dance.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVkzctp/b2.png" group-title="World Radio" is-radio:"true",BBC Radio 2 (UK)
+https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67h0Pbrr/b3.png" group-title="World Radio" is-radio:"true",BBC Radio 3 (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhpL1Vzw/b3.png" group-title="World Radio" is-radio:"true",BBC Radio 3 Unwind (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_three_unwind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JjF25J4/b4.png" group-title="World Radio" is-radio:"true",BBC Radio 4 (UK)
+https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvGB4ZbH/b4.png" group-title="World Radio" is-radio:"true",BBC Radio 4 Extra (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_four_extra.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nN1b7qcM/b5.png" group-title="World Radio" is-radio:"true",BBC Radio 5 Live (UK)
+https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVPgWYDt/b6.png" group-title="World Radio" is-radio:"true",BBC Radio 6 Music (UK)
+https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2wM3Ph5/bb.png" group-title="World Radio" is-radio:"true",BBC Radio Berkshire (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_64162474/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBcjmzmF/bbr.png" group-title="World Radio" is-radio:"true",BBC Radio Bristol (UK)
+https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/992h1CdN/bc.png" group-title="World Radio" is-radio:"true",BBC Radio Cambridgeshire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_cambridge.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nr7chf1/bc.png" group-title="World Radio" is-radio:"true",BBC Radio Cornwall (UK)
+https://as-hls-ww-live.akamaized.net/pool_72477894/live/ww/bbc_radio_cornwall/bbc_radio_cornwall.isml/bbc_radio_cornwall-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H7r4WgZ/bcw.png" group-title="World Radio" is-radio:"true",BBC Radio Coventry Warwickshire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_coventry_warwickshire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kP3wTcz/bcu.png" group-title="World Radio" is-radio:"true",BBC Radio Cumbria (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_cumbria.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBgWr37y/bc.png" group-title="World Radio" is-radio:"true",BBC Radio Cymru (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4pq18pG/bc.png" group-title="World Radio" is-radio:"true",BBC Radio Cymru 2 (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_cymru_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S799mrwr/bd.png" group-title="World Radio" is-radio:"true",BBC Radio Derby (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_derby.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tDkygVd/bde.png" group-title="World Radio" is-radio:"true",BBC Radio Devon (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_devon.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv7C2GYJ/be.png" group-title="World Radio" is-radio:"true",BBC Essex (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_23657270/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMLGYk9M/bf.png" group-title="World Radio" is-radio:"true",BBC Radio Foyle (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_foyle.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYzc7pYP/bg.png" group-title="World Radio" is-radio:"true",BBC Radio Gloucestershire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_gloucestershire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GyBz09r/bg.png" group-title="World Radio" is-radio:"true",BBC Radio Guernsey (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_guernsey.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cvrqL9X/bh.png" group-title="World Radio" is-radio:"true",BBC Radio Hereford & Worcester (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_hereford_worcester.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTP7hYYW/bh.png" group-title="World Radio" is-radio:"true",BBC Radio Humberside (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_humberside.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzGk4L3P/bj.png" group-title="World Radio" is-radio:"true",BBC Radio Jersey (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_14000630/live/ww/bbc_radio_jersey/bbc_radio_jersey.isml/bbc_radio_jersey-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5843k6W/bk.png" group-title="World Radio" is-radio:"true",BBC Radio Kent (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_17754185/live/ww/bbc_radio_kent/bbc_radio_kent.isml/bbc_radio_kent-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdQxFvBN/bl.png" group-title="World Radio" is-radio:"true",BBC Radio Lancashire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_lancashire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQmLwv81/bl.png" group-title="World Radio" is-radio:"true",BBC Radio Leeds (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_leeds.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx7cPYP8/bl.png" group-title="World Radio" is-radio:"true",BBC Radio Leicester (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_leicester.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX865Qh3/bl.png" group-title="World Radio" is-radio:"true",BBC Radio Lincolnshire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_lincolnshire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkwyNkRz/blo.png" group-title="World Radio" is-radio:"true",BBC Radio London (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRw6HzD3/bm.png" group-title="World Radio" is-radio:"true",BBC Radio Manchester (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_manchester.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWGt8WMf/bme.png" group-title="World Radio" is-radio:"true",BBC Radio Merseyside (UK)
+https://as-hls-ww-live.akamaized.net/pool_46699767/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPSK8562/bn.png" group-title="World Radio" is-radio:"true",BBC Radio Nan Gàidheal (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vC6jRtCS/bn.png" group-title="World Radio" is-radio:"true",BBC Radio Newcastle (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_newcastle.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XfzBGjry/bn.png" group-title="World Radio" is-radio:"true",BBC Radio Norfolk (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_norfolk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLKsQFvz/bno.png" group-title="World Radio" is-radio:"true",BBC Radio Northampton (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_northampton.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZddgfq9/bn.png" group-title="World Radio" is-radio:"true",BBC Radio Nottingham (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_96088503/live/ww/bbc_radio_nottingham/bbc_radio_nottingham.isml/bbc_radio_nottingham-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz6JBMvY/bo.png" group-title="World Radio" is-radio:"true",BBC Radio Orkney (UK)
+https://as-hls-ww-live.akamaized.net/pool_50082558/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9vmz32V/bo.png" group-title="World Radio" is-radio:"true",BBC Radio Oxford (UK)
+https://as-hls-ww-live.akamaized.net/pool_19212690/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZPmZHnq/bs.png" group-title="World Radio" is-radio:"true",BBC Radio Scotland (UK)
+https://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtrt0QMx/bs.png" group-title="World Radio" is-radio:"true",BBC Radio Sheffield (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_sheffield.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LVR6NbV/bsh.png" group-title="World Radio" is-radio:"true",BBC Radio Shropshire (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_shropshire.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDFpNGL6/bs.png" group-title="World Radio" is-radio:"true",BBC Radio Solent (UK)
+https://as-hls-ww-live.akamaized.net/pool_11685351/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDFpNGL6/bs.png" group-title="World Radio" is-radio:"true",BBC Radio Solent Dorset (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_solent_west_dorset.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj2dzWvy/bso.png" group-title="World Radio" is-radio:"true",BBC Radio Somerset (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_somerset_sound.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ff5btYj/bst.png" group-title="World Radio" is-radio:"true",BBC Radio Stoke (UK)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/ak/bbc_radio_stoke.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgzXctXZ/bsu.png" group-title="World Radio" is-radio:"true",BBC Radio Suffolk (UK)
+https://as-hls-ww-live.akamaized.net/pool_18067288/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCdG3LY/bsu.png" group-title="World Radio" is-radio:"true",BBC Radio Sussex (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_sussex.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFyXfdSD/bt.png" group-title="World Radio" is-radio:"true",BBC Radio Tees (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_tees.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdC2VzzV/bt.png" group-title="World Radio" is-radio:"true",BBC Radio Three Counties (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_three_counties_radio.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSNfxrmw/bu.png" group-title="World Radio" is-radio:"true",BBC Radio Ulster (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkPBjQ7C/bw.png" group-title="World Radio" is-radio:"true",BBC Radio Wales (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkPBjQ7C/bw.png" group-title="World Radio" is-radio:"true",BBC Radio Wales Extra (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_wales_am.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k7npMLB/bw.png" group-title="World Radio" is-radio:"true",BBC Radio Wiltshire (UK)
+https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nDRBqcx/bwm.png" group-title="World Radio" is-radio:"true",BBC Radio WM (UK)
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6SGvqxw/by.png" group-title="World Radio" is-radio:"true",BBC Radio York (UK)
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_york.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio" is-radio:"true",CBS Joy4U (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ps7g4My8/p1.png" group-title="World Radio" is-radio:"true",DR P1 (Denmark)
+http://live-icy.dr.dk/A/A03L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfnGVSHt/p2.png" group-title="World Radio" is-radio:"true",DR P2 Klassisk (Denmark)
+http://live-icy.dr.dk/A/A04L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFv0q2Zp/p3.png" group-title="World Radio" is-radio:"true",DR P3 (Denmark)
+http://live-icy.dr.dk/A/A05L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFRCVSLD/p4.png" group-title="World Radio" is-radio:"true",DR P4 København (Denmark)
+http://live-icy.dr.dk/A/A08L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PssB4Tj9/p6.png" group-title="World Radio" is-radio:"true",DR P6 Beat (Denmark)
+http://live-icy.dr.dk/A/A29H.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whRpbNCz/p8.png" group-title="World Radio" is-radio:"true",DR P8 Jazz (Denmark)
+http://live-icy.dr.dk/A/A22L.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"true",HLAW-SFM (Andong MBC Radio 1) (South Korea)
 https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"true",HLAW-FM (Andong MBC Radio 2) (South Korea)
@@ -370,6 +502,8 @@ https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio" is-radio:"true",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="World Radio" is-radio:"true",KQED-FM (USA)
+https://hls.kqed.org/kqed-256/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9yP9HpF/r1.png" group-title="World Radio" is-radio:"true",RTHK Radio 1 (Hongkong)
 https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz2SrFKk/r2.png" group-title="World Radio" is-radio:"true",RTHK Radio 2 (Hongkong)
@@ -403,7 +537,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpjCBMzZ/image.png" group-title="Albania",News 24 Albania
-ttps://tv.balkanweb.com/news24/livestream/playlist.m3u8
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m4b26M7/ntv.png" group-title="Albania",NTV Albania
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbrHJkDY/ora-news.png" group-title="Albania",Ora News
@@ -639,7 +773,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGN Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOAK-DTV (NHK General (Tokyo))
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdjgFZ4S/nhk.png" group-title="Japan",JOAK-DTV (NHK General (Tokyo))
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5AU10Z.png" group-title="Japan",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -651,7 +785,7 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",JOEX-DTV (TV Asahi)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",JOJG-DTV (NHK General (Yamagata))
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdjgFZ4S/nhk.png" group-title="Japan",JOJG-DTV (NHK General (Yamagata))
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95rZJhP.png" group-title="Japan",JORX-DTV (TBS)
 https://tbs5.mov3.co/hls/tbs.m3u8
@@ -746,7 +880,7 @@ http://flussonic.linkintel.ru/Karusel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxRjRgMK/image-1.png" group-title="Russia",Carousel International
 https://fs.uplink.kz/karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One HD
-https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjc91cgf/image.png" group-title="Russia",Channel One CIS
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3H55Yb.png" group-title="Russia",Rossiya K
@@ -765,11 +899,11 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFD4cYBc/3-F3-F3-F3-F3-F-2023.png" group-title="Russia",TV5 International Russia
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia
 https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Krasnoyarsk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia Krasnoyarsk
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zTqc6mLt/Kanal-8-ru-2014-1.png" group-title="Russia",TV8 Russia Novosibirsk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia Novosibirsk
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWpn78xy/CNA-logo-2019.png" group-title="Singapore",CNA Original
@@ -790,17 +924,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=111
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",HLDR-DTV (CJB)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea", HLQL-DTV (EBS1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cse4NTR.png" group-title="South Korea",HLQL-DTV (EBS1)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea", HLQL-DTV (EBS2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AL74n6w.png" group-title="South Korea",HLQL-DTV (EBS2)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea", HLQL-DTV (EBS English)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utIimqn.png" group-title="South Korea",HLQL-DTV (EBS English)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea", HLQL-DTV (EBS Kids)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="South Korea",HLQL-DTV (EBS Kids)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea", HLQL-DTV (EBS+1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcLS3n0.png" group-title="South Korea",HLQL-DTV (EBS+1)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea", HLQL-DTV (EBS+2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSTlZAc.png" group-title="South Korea",HLQL-DTV (EBS+2)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",HLCG-DTV (G1)
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
