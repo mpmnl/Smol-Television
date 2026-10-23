@@ -474,6 +474,18 @@ https://as-hls-ww.live.cf.md.bbci.co.uk/pool_05353924/live/ww/bbc_wm/bbc_wm.isml
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_york.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whSp2rvB/cbsm.png" group-title="World Radio" is-radio:"true",CBS Joy4U (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ps7g4My8/p1.png" group-title="World Radio" is-radio:"true",DR P1 (Denmark)
+http://live-icy.dr.dk/A/A03L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfnGVSHt/p2.png" group-title="World Radio" is-radio:"true",DR P2 Klassisk (Denmark)
+http://live-icy.dr.dk/A/A04L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFv0q2Zp/p3.png" group-title="World Radio" is-radio:"true",DR P3 (Denmark)
+http://live-icy.dr.dk/A/A05L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFRCVSLD/p4.png" group-title="World Radio" is-radio:"true",DR P4 København (Denmark)
+http://live-icy.dr.dk/A/A08L.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PssB4Tj9/p6.png" group-title="World Radio" is-radio:"true",DR P6 Beat (Denmark)
+http://live-icy.dr.dk/A/A29H.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whRpbNCz/p8.png" group-title="World Radio" is-radio:"true",DR P8 Jazz (Denmark)
+http://live-icy.dr.dk/A/A22L.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"true",HLAW-SFM (Andong MBC Radio 1) (South Korea)
 https://live.andongmbc.co.kr/live/amlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="World Radio" is-radio:"true",HLAW-FM (Andong MBC Radio 2) (South Korea)
@@ -490,6 +502,8 @@ https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio" is-radio:"true",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="World Radio" is-radio:"true",KQED-FM (USA)
+https://hls.kqed.org/kqed-256/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9yP9HpF/r1.png" group-title="World Radio" is-radio:"true",RTHK Radio 1 (Hongkong)
 https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz2SrFKk/r2.png" group-title="World Radio" is-radio:"true",RTHK Radio 2 (Hongkong)
