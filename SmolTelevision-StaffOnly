@@ -666,6 +666,27 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="China",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFrJw1Sk/image.png" group-title="Croatia",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1ZCsRfm/image.png" group-title="Croatia",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJd1vGhv/image.png" group-title="Croatia",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM3HCnxL/image.png" group-title="Croatia",Klape I Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JzL5j3j/image.png" group-title="Croatia",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vbpMnyG/image.png" group-title="Croatia",Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0b6xhPm/image.png" group-title="Croatia",SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdTnKwv7/image.png" group-title="Croatia",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Croatia",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZNZL0Xt/image.png" group-title="Croatia",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svw3YTs.png" group-title="Cyprus",RIK Sai
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksvMxxCL/sat7.png" group-title="Cyprus",SAT 7 Kids
