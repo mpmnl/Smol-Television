@@ -878,6 +878,9 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar", MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkCpt8zS/image.png" group-title="Namibia",Tjil TV
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://stream.intchoson.com/kctv/index.m3u8
 
@@ -1126,6 +1129,13 @@ https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thailand",Workpoint TV
 https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hf9LVzrY/image.png" group-title="Trinidad And Tobago",Bizz TV
+https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hBvJWYQ/image.png" group-title="Trinidad And Tobago",Riddim & Hope TV
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60BMcB2C/image.png" group-title="Trinidad And Tobago",Scorch TV
+https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VrT5JVk/image.png" group-title="Turkiye",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
