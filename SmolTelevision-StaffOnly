@@ -263,7 +263,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7pFKJ5.png" group-title="Địa Phương",TTV Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio" is-radio:"true" ,VOV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvV3OIS.png" group-title="FM Radio" is-radio:"true",VOV1
 https://audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jIOwIQ.png" group-title="FM Radio" is-radio:"true",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
@@ -517,16 +517,16 @@ https://stream.intchoson.com/vok/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c5kxJ7N/ytn.png" group-title="World Radio" is-radio:"true",YTN Radio (South Korea)
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Kênh Quốc Tế Feed Việt Nam", Asian Food Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QatZeQ.png" group-title="Vietnam - World TV", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Kênh Quốc Tế Feed Việt Nam",Da Vinci
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TGvM27Q.png" group-title="Vietnam - World TV",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Kênh Quốc Tế Feed Việt Nam",KIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWxHCJE.png" group-title="Vietnam - World TV",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Kênh Quốc Tế Feed Việt Nam",TVB Việt Nam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFoAXL8.png" group-title="Vietnam - World TV",TVB Việt Nam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Program TV",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/163YKXY.png" group-title="HanoiCab",HiTV
