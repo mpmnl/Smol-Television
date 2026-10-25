@@ -529,10 +529,13 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnkAvZC.png" group-title="Chương trình phụ thuộc",Planet Earth
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/163YKXY.png" group-title="Chương trình phụ thuộc",HiTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/163YKXY.png" group-title="HanoiCab",HiTV
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjvkon1.png" group-title="HanoiCab",YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FkM9wrtP/image.png" group-title="Multiple Countries",Zee One
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d49qTRJh/image.png" group-title="Albania",CNA Albania
 https://live1.mediadesk.al/cnatvlive.m3u8
