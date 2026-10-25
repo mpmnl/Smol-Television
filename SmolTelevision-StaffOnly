@@ -775,21 +775,21 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 http://stream.mcquack.net/295/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKPNwhrR/image.png" group-title="Israel",Hala TV
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",Hidabroot
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbjsYtJq/image.png" group-title="Israel",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",I24NEWS Arabic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67P6Dx4w/image.png" group-title="Israel",I24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",I24NEWS English World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67P6Dx4w/image.png" group-title="Israel",I24NEWS English World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",I24NEWS French
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67P6Dx4w/image.png" group-title="Israel",I24NEWS French
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",I24NEWS Hebrew
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67P6Dx4w/image.png" group-title="Israel",I24NEWS Hebrew
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",Makan 33
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH8XsYy5/image.png" group-title="Israel",Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",Now 14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ns5YqsZP/image.png" group-title="Israel",Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",Shelanu TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpkjMqJs/image.png" group-title="Israel",Shelanu TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hPY6Py9/ita2.png" group-title="Italy",Italia 2
