@@ -920,6 +920,9 @@ https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
 https://stream.intchoson.com/kctv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sw5K12BX/image.png" group-title="Papua New Guinea",NBC TV
+https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1HbYGg2/image.png" group-title="Poland",TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 
@@ -988,6 +991,15 @@ https://v4.proofix.ru/8tv-russia/index.m3u8
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="Russia",TV8 Russia Novosibirsk
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YFy5Rpf/image.png" group-title="Rwanda",Isibo TV
+https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLXXQy3M/image.png" group-title="Rwanda",KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxXdv3w/image.png" group-title="Rwanda",Rwanda TV
+https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh6PV9dQ/image.png" group-title="Rwanda",TV10
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WVXYC7h/image.png" group-title="Saudi Arabia",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
