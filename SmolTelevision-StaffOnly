@@ -498,8 +498,12 @@ https://vod.ikbc.co.kr/KBCFM/kbcra_aac/chunklist_w1389710294.m3u8
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/998nSjYr/cbsj.png" group-title="World Radio" is-radio:"true",HLKY-FM (CBS Music FM) (South Korea)
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XaQDcJ.png" group-title="World Radio" is-radio:"true",HLQA-FM (Gukak FM) (South Korea)
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4zX25G7/ebs.png" group-title="World Radio" is-radio:"true",HLQL-FM (EBS Radio) (South Korea)
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzp8kpnJ/tbs.png" group-title="World Radio" is-radio:"true",HLST-FM (TBS FM) (South Korea)
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvYhdZdb/nhk.png" group-title="World Radio" is-radio:"true",JOAK (NHK AM) (Japan)
 https://simul2.drdi.st.nhk/live/3/joined/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF9mJKJg/kqed.png" group-title="World Radio" is-radio:"true",KQED-FM (USA)
