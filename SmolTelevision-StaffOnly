@@ -921,8 +921,12 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkCpt8zS/image.png" group-title="Namibia",Tjil TV
 https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xMMSF6x/athletic.png" group-title="North Korea",Athletic TV
+https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea",KCTV NKorea
-https://stream.intchoson.com/kctv/index.m3u8
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VvWbLZ7/Ryongnamsan.png" group-title="North Korea",Ryongnamsan TV
+https://live.koryocdn.org/ryongnamsan/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw5K12BX/image.png" group-title="Papua New Guinea",NBC TV
 https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
